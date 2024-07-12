@@ -1,0 +1,4 @@
+---
+title: Seminár
+slug: seminar
+---

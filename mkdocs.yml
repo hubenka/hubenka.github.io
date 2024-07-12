@@ -1,0 +1,69 @@
+site_name: Informatika - Gymnázium Hubeného
+site_url: https://hubenka.github.io
+copyright: >
+  &copy; 2024 Miroslav Hájek
+use_directory_urls: true
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    # - toc.integrate # puts toc inside menu
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+    - navigation.footer
+    - navigation.tracking
+    - navigation.indexes
+    - navigation.instant
+    - navigation.instant.progress
+    - search.share
+    - content.action.edit
+    - content.action.view
+    - toc.follow
+  language: sk
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline 
+        name: Switch to dark mode
+      primary: indigo
+      accent: purple 
+    - scheme: slate 
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode    
+      primary: indigo
+      accent: lime
+plugins:
+  - search
+  - pub-meta
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - admonition
+  - pymdownx.arithmatex:
+      generic: true
+  - footnotes
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.mark
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - md_in_html
+  - tables
+extra_javascript:
+  - javascripts/katex.js
+  - https://unpkg.com/katex@0/dist/katex.min.js
+  - https://unpkg.com/katex@0/dist/contrib/auto-render.min.js
+extra_css:
+  - https://unpkg.com/katex@0/dist/katex.min.css
+

@@ -1,0 +1,4 @@
+---
+title: Pygame
+slug: pygame
+---
