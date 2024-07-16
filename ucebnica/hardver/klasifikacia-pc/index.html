@@ -1,0 +1,3346 @@
+<!DOCTYPE html>
+<html class="no-js" lang="sk">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width,initial-scale=1" name="viewport"/>
+  <link href="https://hubenka.github.io/ucebnica/hardver/klasifikacia-pc/" rel="canonical"/>
+  <link href="../../digitalizacia/zvuk/" rel="prev"/>
+  <link href="../von-neumann/" rel="next"/>
+  <link href="../../../assets/images/favicon.png" rel="icon"/>
+  <meta content="mkdocs-1.6.0, mkdocs-material-9.5.29" name="generator"/>
+  <title>
+   Klasifikácia PC - Informatika - Gymnázium Hubeného
+  </title>
+  <link href="../../../assets/stylesheets/main.76a95c52.min.css" rel="stylesheet"/>
+  <link href="../../../assets/stylesheets/palette.06af60db.min.css" rel="stylesheet"/>
+  <link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+  <link href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&amp;display=fallback" rel="stylesheet"/>
+  <style>
+   :root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}
+  </style>
+  <link href="https://unpkg.com/katex@0/dist/katex.min.css" rel="stylesheet"/>
+  <script>
+   __md_scope=new URL("../../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}
+  </script>
+ </head>
+ <body data-md-color-accent="purple" data-md-color-primary="indigo" data-md-color-scheme="default" dir="ltr">
+  <input autocomplete="off" class="md-toggle" data-md-toggle="drawer" id="__drawer" type="checkbox"/>
+  <input autocomplete="off" class="md-toggle" data-md-toggle="search" id="__search" type="checkbox"/>
+  <label class="md-overlay" for="__drawer">
+  </label>
+  <div data-md-component="skip">
+   <a class="md-skip" href="#delenie-pocitacov">
+    Preskočiť na obsah
+   </a>
+  </div>
+  <div data-md-component="announce">
+  </div>
+  <header class="md-header" data-md-component="header">
+   <nav aria-label="Hlavička" class="md-header__inner md-grid">
+    <a aria-label="Informatika - Gymnázium Hubeného" class="md-header__button md-logo" data-md-component="logo" href="../../.." title="Informatika - Gymnázium Hubeného">
+     <svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+      <path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z">
+      </path>
+     </svg>
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+     <svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+      <path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z">
+      </path>
+     </svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+     <div class="md-header__ellipsis">
+      <div class="md-header__topic">
+       <span class="md-ellipsis">
+        Informatika - Gymnázium Hubeného
+       </span>
+      </div>
+      <div class="md-header__topic" data-md-component="header-topic">
+       <span class="md-ellipsis">
+        Klasifikácia PC
+       </span>
+      </div>
+     </div>
+    </div>
+    <form class="md-header__option" data-md-component="palette">
+     <input aria-label="Switch to dark mode" class="md-option" data-md-color-accent="purple" data-md-color-media="" data-md-color-primary="indigo" data-md-color-scheme="default" id="__palette_0" name="__palette" type="radio"/>
+     <label class="md-header__button md-icon" for="__palette_1" hidden="" title="Switch to dark mode">
+      <svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+       <path d="M17 6H7c-3.31 0-6 2.69-6 6s2.69 6 6 6h10c3.31 0 6-2.69 6-6s-2.69-6-6-6zm0 10H7c-2.21 0-4-1.79-4-4s1.79-4 4-4h10c2.21 0 4 1.79 4 4s-1.79 4-4 4zM7 9c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z">
+       </path>
+      </svg>
+     </label>
+     <input aria-label="Switch to light mode" class="md-option" data-md-color-accent="lime" data-md-color-media="" data-md-color-primary="indigo" data-md-color-scheme="slate" id="__palette_1" name="__palette" type="radio"/>
+     <label class="md-header__button md-icon" for="__palette_0" hidden="" title="Switch to light mode">
+      <svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+       <path d="M17 7H7a5 5 0 0 0-5 5 5 5 0 0 0 5 5h10a5 5 0 0 0 5-5 5 5 0 0 0-5-5m0 8a3 3 0 0 1-3-3 3 3 0 0 1 3-3 3 3 0 0 1 3 3 3 3 0 0 1-3 3Z">
+       </path>
+      </svg>
+     </label>
+    </form>
+    <script>
+     var media,input,key,value,palette=__md_get("__palette");if(palette&&palette.color){"(prefers-color-scheme)"===palette.color.media&&(media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']"),palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent"));for([key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}
+    </script>
+    <label class="md-header__button md-icon" for="__search">
+     <svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+      <path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z">
+      </path>
+     </svg>
+    </label>
+    <div class="md-search" data-md-component="search" role="dialog">
+     <label class="md-search__overlay" for="__search">
+     </label>
+     <div class="md-search__inner" role="search">
+      <form class="md-search__form" name="search">
+       <input aria-label="Hľadať" autocapitalize="off" autocomplete="off" autocorrect="off" class="md-search__input" data-md-component="search-query" name="query" placeholder="Hľadať" required="" spellcheck="false" type="text"/>
+       <label class="md-search__icon md-icon" for="__search">
+        <svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+         <path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z">
+         </path>
+        </svg>
+        <svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+         <path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z">
+         </path>
+        </svg>
+       </label>
+       <nav aria-label="Vyhľadávanie" class="md-search__options">
+        <a aria-label="Zdieľaj" class="md-search__icon md-icon" data-clipboard="" data-clipboard-text="" data-md-component="search-share" href="javascript:void(0)" tabindex="-1" title="Zdieľaj">
+         <svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+          <path d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7 0-.24-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9a3 3 0 0 0-3 3 3 3 0 0 0 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.15c-.05.21-.08.43-.08.66 0 1.61 1.31 2.91 2.92 2.91 1.61 0 2.92-1.3 2.92-2.91A2.92 2.92 0 0 0 18 16.08Z">
+          </path>
+         </svg>
+        </a>
+        <button aria-label="Vyčistiť" class="md-search__icon md-icon" tabindex="-1" title="Vyčistiť" type="reset">
+         <svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+          <path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z">
+          </path>
+         </svg>
+        </button>
+       </nav>
+       <div class="md-search__suggest" data-md-component="search-suggest">
+       </div>
+      </form>
+      <div class="md-search__output">
+       <div class="md-search__scrollwrap" data-md-scrollfix="" tabindex="0">
+        <div class="md-search-result" data-md-component="search-result">
+         <div class="md-search-result__meta">
+          Spúšťam hľadanie
+         </div>
+         <ol class="md-search-result__list" role="presentation">
+         </ol>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </nav>
+  </header>
+  <div class="md-container" data-md-component="container">
+   <nav aria-label="Karty" class="md-tabs" data-md-component="tabs">
+    <div class="md-grid">
+     <ul class="md-tabs__list">
+      <li class="md-tabs__item">
+       <a class="md-tabs__link" href="../../..">
+        Úvod
+       </a>
+      </li>
+      <li class="md-tabs__item md-tabs__item--active">
+       <a class="md-tabs__link" href="../../informatika-ako-veda/zakladne-pojmy/">
+        Učebnica
+       </a>
+      </li>
+      <li class="md-tabs__item">
+       <a class="md-tabs__link" href="../../../programovanie/zbierka-uloh/premenne/uvod/">
+        Programovanie
+       </a>
+      </li>
+      <li class="md-tabs__item">
+       <a class="md-tabs__link" href="../../../1-rocnik/ucivo/">
+        1. ročník
+       </a>
+      </li>
+      <li class="md-tabs__item">
+       <a class="md-tabs__link" href="../../../2-rocnik/ucivo/">
+        2. ročník
+       </a>
+      </li>
+      <li class="md-tabs__item">
+       <a class="md-tabs__link" href="../../../3-rocnik/ucivo/">
+        3. ročník
+       </a>
+      </li>
+      <li class="md-tabs__item">
+       <a class="md-tabs__link" href="../../../seminar/ucivo/">
+        Seminár
+       </a>
+      </li>
+      <li class="md-tabs__item">
+       <a class="md-tabs__link" href="../../../ucitel/">
+        O učiteľovi
+       </a>
+      </li>
+     </ul>
+    </div>
+   </nav>
+   <main class="md-main" data-md-component="main">
+    <div class="md-main__inner md-grid">
+     <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation">
+      <div class="md-sidebar__scrollwrap">
+       <div class="md-sidebar__inner">
+        <nav aria-label="Navigácia" class="md-nav md-nav--primary md-nav--lifted" data-md-level="0">
+         <label class="md-nav__title" for="__drawer">
+          <a aria-label="Informatika - Gymnázium Hubeného" class="md-nav__button md-logo" data-md-component="logo" href="../../.." title="Informatika - Gymnázium Hubeného">
+           <svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+            <path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z">
+            </path>
+           </svg>
+          </a>
+          Informatika - Gymnázium Hubeného
+         </label>
+         <ul class="md-nav__list" data-md-scrollfix="">
+          <li class="md-nav__item">
+           <a class="md-nav__link" href="../../..">
+            <span class="md-ellipsis">
+             Úvod
+            </span>
+           </a>
+          </li>
+          <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+           <input checked="" class="md-nav__toggle md-toggle" id="__nav_2" type="checkbox"/>
+           <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="">
+            <span class="md-ellipsis">
+             Učebnica
+            </span>
+            <span class="md-nav__icon md-icon">
+            </span>
+           </label>
+           <nav aria-expanded="true" aria-labelledby="__nav_2_label" class="md-nav" data-md-level="1">
+            <label class="md-nav__title" for="__nav_2">
+             <span class="md-nav__icon md-icon">
+             </span>
+             Učebnica
+            </label>
+            <ul class="md-nav__list" data-md-scrollfix="">
+             <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+              <input class="md-nav__toggle md-toggle" id="__nav_2_1" type="checkbox"/>
+              <label class="md-nav__link" for="__nav_2_1" id="__nav_2_1_label" tabindex="">
+               <span class="md-ellipsis">
+                Informatika ako veda
+               </span>
+               <span class="md-nav__icon md-icon">
+               </span>
+              </label>
+              <nav aria-expanded="false" aria-labelledby="__nav_2_1_label" class="md-nav" data-md-level="2">
+               <label class="md-nav__title" for="__nav_2_1">
+                <span class="md-nav__icon md-icon">
+                </span>
+                Informatika ako veda
+               </label>
+               <ul class="md-nav__list" data-md-scrollfix="">
+                <li class="md-nav__item">
+                 <a class="md-nav__link" href="../../informatika-ako-veda/zakladne-pojmy/">
+                  <span class="md-ellipsis">
+                   Základné pojmy informatiky
+                  </span>
+                 </a>
+                </li>
+                <li class="md-nav__item">
+                 <a class="md-nav__link" href="../../informatika-ako-veda/algoritmus/">
+                  <span class="md-ellipsis">
+                   Etapy riešenia problému
+                  </span>
+                 </a>
+                </li>
+               </ul>
+              </nav>
+             </li>
+             <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+              <input class="md-nav__toggle md-toggle" id="__nav_2_2" type="checkbox"/>
+              <label class="md-nav__link" for="__nav_2_2" id="__nav_2_2_label" tabindex="">
+               <span class="md-ellipsis">
+                Digitalizácia údajov
+               </span>
+               <span class="md-nav__icon md-icon">
+               </span>
+              </label>
+              <nav aria-expanded="false" aria-labelledby="__nav_2_2_label" class="md-nav" data-md-level="2">
+               <label class="md-nav__title" for="__nav_2_2">
+                <span class="md-nav__icon md-icon">
+                </span>
+                Digitalizácia údajov
+               </label>
+               <ul class="md-nav__list" data-md-scrollfix="">
+                <li class="md-nav__item">
+                 <a class="md-nav__link" href="../../digitalizacia/text/">
+                  <span class="md-ellipsis">
+                   Digitalizácia textu
+                  </span>
+                 </a>
+                </li>
+                <li class="md-nav__item">
+                 <a class="md-nav__link" href="../../digitalizacia/obraz/">
+                  <span class="md-ellipsis">
+                   Digitalizácia obrazu
+                  </span>
+                 </a>
+                </li>
+                <li class="md-nav__item">
+                 <a class="md-nav__link" href="../../digitalizacia/zvuk/">
+                  <span class="md-ellipsis">
+                   Digitalizácia zvuku
+                  </span>
+                 </a>
+                </li>
+               </ul>
+              </nav>
+             </li>
+             <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+              <input checked="" class="md-nav__toggle md-toggle" id="__nav_2_3" type="checkbox"/>
+              <label class="md-nav__link" for="__nav_2_3" id="__nav_2_3_label" tabindex="">
+               <span class="md-ellipsis">
+                Hardvér
+               </span>
+               <span class="md-nav__icon md-icon">
+               </span>
+              </label>
+              <nav aria-expanded="true" aria-labelledby="__nav_2_3_label" class="md-nav" data-md-level="2">
+               <label class="md-nav__title" for="__nav_2_3">
+                <span class="md-nav__icon md-icon">
+                </span>
+                Hardvér
+               </label>
+               <ul class="md-nav__list" data-md-scrollfix="">
+                <li class="md-nav__item md-nav__item--active">
+                 <input class="md-nav__toggle md-toggle" id="__toc" type="checkbox"/>
+                 <label class="md-nav__link md-nav__link--active" for="__toc">
+                  <span class="md-ellipsis">
+                   Klasifikácia PC
+                  </span>
+                  <span class="md-nav__icon md-icon">
+                  </span>
+                 </label>
+                 <a class="md-nav__link md-nav__link--active" href="./">
+                  <span class="md-ellipsis">
+                   Klasifikácia PC
+                  </span>
+                 </a>
+                 <nav aria-label="Obsah" class="md-nav md-nav--secondary">
+                  <label class="md-nav__title" for="__toc">
+                   <span class="md-nav__icon md-icon">
+                   </span>
+                   Obsah
+                  </label>
+                  <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix="">
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="#delenie-pocitacov">
+                     <span class="md-ellipsis">
+                      Delenie počítačov
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="#parametre-pocitacov">
+                     <span class="md-ellipsis">
+                      Parametre počítačov
+                     </span>
+                    </a>
+                    <nav aria-label="Parametre počítačov" class="md-nav">
+                     <ul class="md-nav__list">
+                      <li class="md-nav__item">
+                       <a class="md-nav__link" href="#vykonnost">
+                        <span class="md-ellipsis">
+                         Výkonnosť
+                        </span>
+                       </a>
+                      </li>
+                      <li class="md-nav__item">
+                       <a class="md-nav__link" href="#priepustnost">
+                        <span class="md-ellipsis">
+                         Priepustnosť
+                        </span>
+                       </a>
+                      </li>
+                      <li class="md-nav__item">
+                       <a class="md-nav__link" href="#subor-instrukcii-procesora">
+                        <span class="md-ellipsis">
+                         Súbor inštrukcií procesora
+                        </span>
+                       </a>
+                      </li>
+                      <li class="md-nav__item">
+                       <a class="md-nav__link" href="#pamatova-kapacita">
+                        <span class="md-ellipsis">
+                         Pamäťová kapacita
+                        </span>
+                       </a>
+                      </li>
+                      <li class="md-nav__item">
+                       <a class="md-nav__link" href="#dlzka-slova">
+                        <span class="md-ellipsis">
+                         Dĺžka slova
+                        </span>
+                       </a>
+                      </li>
+                      <li class="md-nav__item">
+                       <a class="md-nav__link" href="#vybavovaci-cas-pamate">
+                        <span class="md-ellipsis">
+                         Vybavovací čas pamäte
+                        </span>
+                       </a>
+                      </li>
+                      <li class="md-nav__item">
+                       <a class="md-nav__link" href="#cas-cyklu">
+                        <span class="md-ellipsis">
+                         Čas cyklu
+                        </span>
+                       </a>
+                      </li>
+                      <li class="md-nav__item">
+                       <a class="md-nav__link" href="#sirka-toku-udajov">
+                        <span class="md-ellipsis">
+                         Šírka toku údajov
+                        </span>
+                       </a>
+                      </li>
+                      <li class="md-nav__item">
+                       <a class="md-nav__link" href="#frekvencia-casovaca">
+                        <span class="md-ellipsis">
+                         Frekvencia časovača
+                        </span>
+                       </a>
+                      </li>
+                      <li class="md-nav__item">
+                       <a class="md-nav__link" href="#spolahlivost">
+                        <span class="md-ellipsis">
+                         Spoľahlivosť
+                        </span>
+                       </a>
+                      </li>
+                      <li class="md-nav__item">
+                       <a class="md-nav__link" href="#kompatibilita">
+                        <span class="md-ellipsis">
+                         Kompatibilita
+                        </span>
+                       </a>
+                      </li>
+                      <li class="md-nav__item">
+                       <a class="md-nav__link" href="#stavebnicovost">
+                        <span class="md-ellipsis">
+                         Stavebnicovosť
+                        </span>
+                       </a>
+                      </li>
+                      <li class="md-nav__item">
+                       <a class="md-nav__link" href="#casova-dostupnost">
+                        <span class="md-ellipsis">
+                         Časová dostupnosť
+                        </span>
+                       </a>
+                      </li>
+                      <li class="md-nav__item">
+                       <a class="md-nav__link" href="#naroky-na-obsluhu">
+                        <span class="md-ellipsis">
+                         Nároky na obsluhu
+                        </span>
+                       </a>
+                      </li>
+                      <li class="md-nav__item">
+                       <a class="md-nav__link" href="#ekonomicka-narocnost">
+                        <span class="md-ellipsis">
+                         Ekonomická náročnosť
+                        </span>
+                       </a>
+                      </li>
+                     </ul>
+                    </nav>
+                   </li>
+                  </ul>
+                 </nav>
+                </li>
+                <li class="md-nav__item">
+                 <a class="md-nav__link" href="../von-neumann/">
+                  <span class="md-ellipsis">
+                   Koncepcia počítača von Neumannovho typu
+                  </span>
+                 </a>
+                </li>
+                <li class="md-nav__item">
+                 <a class="md-nav__link" href="../generacie-pc/">
+                  <span class="md-ellipsis">
+                   Generácie PC
+                  </span>
+                 </a>
+                </li>
+                <li class="md-nav__item">
+                 <a class="md-nav__link" href="../pamate/">
+                  <span class="md-ellipsis">
+                   Pamäte
+                  </span>
+                 </a>
+                </li>
+               </ul>
+              </nav>
+             </li>
+             <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+              <input class="md-nav__toggle md-toggle" id="__nav_2_4" type="checkbox"/>
+              <label class="md-nav__link" for="__nav_2_4" id="__nav_2_4_label" tabindex="">
+               <span class="md-ellipsis">
+                Počítačové siete
+               </span>
+               <span class="md-nav__icon md-icon">
+               </span>
+              </label>
+              <nav aria-expanded="false" aria-labelledby="__nav_2_4_label" class="md-nav" data-md-level="2">
+               <label class="md-nav__title" for="__nav_2_4">
+                <span class="md-nav__icon md-icon">
+                </span>
+                Počítačové siete
+               </label>
+               <ul class="md-nav__list" data-md-scrollfix="">
+                <li class="md-nav__item">
+                 <a class="md-nav__link" href="../../siete/delenie-sieti/">
+                  <span class="md-ellipsis">
+                   Delenie počítačových sietí
+                  </span>
+                 </a>
+                </li>
+                <li class="md-nav__item">
+                 <a class="md-nav__link" href="../../siete/model-iso-osi/">
+                  <span class="md-ellipsis">
+                   Referenčný model ISO/OSI
+                  </span>
+                 </a>
+                </li>
+                <li class="md-nav__item">
+                 <a class="md-nav__link" href="../../siete/model-tcp-ip/">
+                  <span class="md-ellipsis">
+                   Referenčný model TCP/IP
+                  </span>
+                 </a>
+                </li>
+                <li class="md-nav__item">
+                 <a class="md-nav__link" href="../../siete/hardver/">
+                  <span class="md-ellipsis">
+                   Hardvér počítačových sietí
+                  </span>
+                 </a>
+                </li>
+                <li class="md-nav__item">
+                 <a class="md-nav__link" href="../../siete/internet/">
+                  <span class="md-ellipsis">
+                   Internet
+                  </span>
+                 </a>
+                </li>
+                <li class="md-nav__item">
+                 <a class="md-nav__link" href="../../siete/web-2/">
+                  <span class="md-ellipsis">
+                   Web 2.0
+                  </span>
+                 </a>
+                </li>
+                <li class="md-nav__item">
+                 <a class="md-nav__link" href="../../siete/pojmy/">
+                  <span class="md-ellipsis">
+                   Najčastejšie sa vyskytujúce pojmy
+                  </span>
+                 </a>
+                </li>
+               </ul>
+              </nav>
+             </li>
+             <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+              <input class="md-nav__toggle md-toggle" id="__nav_2_5" type="checkbox"/>
+              <label class="md-nav__link" for="__nav_2_5" id="__nav_2_5_label" tabindex="">
+               <span class="md-ellipsis">
+                Počítačová bezpečnosť
+               </span>
+               <span class="md-nav__icon md-icon">
+               </span>
+              </label>
+              <nav aria-expanded="false" aria-labelledby="__nav_2_5_label" class="md-nav" data-md-level="2">
+               <label class="md-nav__title" for="__nav_2_5">
+                <span class="md-nav__icon md-icon">
+                </span>
+                Počítačová bezpečnosť
+               </label>
+               <ul class="md-nav__list" data-md-scrollfix="">
+                <li class="md-nav__item">
+                 <a class="md-nav__link" href="../../bezpecnost/bezpecnost-is/">
+                  <span class="md-ellipsis">
+                   Bezpečnosť informačných systémov
+                  </span>
+                 </a>
+                </li>
+               </ul>
+              </nav>
+             </li>
+            </ul>
+           </nav>
+          </li>
+          <li class="md-nav__item md-nav__item--nested">
+           <input class="md-nav__toggle md-toggle" id="__nav_3" type="checkbox"/>
+           <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            <span class="md-ellipsis">
+             Programovanie
+            </span>
+            <span class="md-nav__icon md-icon">
+            </span>
+           </label>
+           <nav aria-expanded="false" aria-labelledby="__nav_3_label" class="md-nav" data-md-level="1">
+            <label class="md-nav__title" for="__nav_3">
+             <span class="md-nav__icon md-icon">
+             </span>
+             Programovanie
+            </label>
+            <ul class="md-nav__list" data-md-scrollfix="">
+             <li class="md-nav__item md-nav__item--nested">
+              <input class="md-nav__toggle md-toggle" id="__nav_3_1" type="checkbox"/>
+              <label class="md-nav__link" for="__nav_3_1" id="__nav_3_1_label" tabindex="0">
+               <span class="md-ellipsis">
+                Zbierka úloh
+               </span>
+               <span class="md-nav__icon md-icon">
+               </span>
+              </label>
+              <nav aria-expanded="false" aria-labelledby="__nav_3_1_label" class="md-nav" data-md-level="2">
+               <label class="md-nav__title" for="__nav_3_1">
+                <span class="md-nav__icon md-icon">
+                </span>
+                Zbierka úloh
+               </label>
+               <ul class="md-nav__list" data-md-scrollfix="">
+                <li class="md-nav__item md-nav__item--nested">
+                 <input class="md-nav__toggle md-toggle" id="__nav_3_1_1" type="checkbox"/>
+                 <label class="md-nav__link" for="__nav_3_1_1" id="__nav_3_1_1_label" tabindex="0">
+                  <span class="md-ellipsis">
+                   1. Premenné
+                  </span>
+                  <span class="md-nav__icon md-icon">
+                  </span>
+                 </label>
+                 <nav aria-expanded="false" aria-labelledby="__nav_3_1_1_label" class="md-nav" data-md-level="3">
+                  <label class="md-nav__title" for="__nav_3_1_1">
+                   <span class="md-nav__icon md-icon">
+                   </span>
+                   1. Premenné
+                  </label>
+                  <ul class="md-nav__list" data-md-scrollfix="">
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/zbierka-uloh/premenne/uvod/">
+                     <span class="md-ellipsis">
+                      Úvod
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/zbierka-uloh/premenne/1-pozdrav/">
+                     <span class="md-ellipsis">
+                      1. Pozdrav
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/zbierka-uloh/premenne/2-basnik/">
+                     <span class="md-ellipsis">
+                      2. Básnik
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/zbierka-uloh/premenne/3-pozvanka/">
+                     <span class="md-ellipsis">
+                      3. Pozvánka
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/zbierka-uloh/premenne/4-teplota-vo-farenheitoch/">
+                     <span class="md-ellipsis">
+                      4. Teplota vo Farenheitoch
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/zbierka-uloh/premenne/5-hlboka-roklina/">
+                     <span class="md-ellipsis">
+                      5. Hlboká roklina
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/zbierka-uloh/premenne/6-vedro-s-vodou/">
+                     <span class="md-ellipsis">
+                      6. Vedro s vodou
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/zbierka-uloh/premenne/7-cesta-autom/">
+                     <span class="md-ellipsis">
+                      7. Cesta autom
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/zbierka-uloh/premenne/8-kupalisko/">
+                     <span class="md-ellipsis">
+                      8. Kúpalisko
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/zbierka-uloh/premenne/9-malovanie/">
+                     <span class="md-ellipsis">
+                      9. Maľovanie
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/zbierka-uloh/premenne/10-chemikalie/">
+                     <span class="md-ellipsis">
+                      10. Chemikálie
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/zbierka-uloh/premenne/11-brzdenie/">
+                     <span class="md-ellipsis">
+                      11. Brzdenie
+                     </span>
+                    </a>
+                   </li>
+                  </ul>
+                 </nav>
+                </li>
+                <li class="md-nav__item md-nav__item--nested">
+                 <input class="md-nav__toggle md-toggle" id="__nav_3_1_2" type="checkbox"/>
+                 <label class="md-nav__link" for="__nav_3_1_2" id="__nav_3_1_2_label" tabindex="0">
+                  <span class="md-ellipsis">
+                   2. Podmienky
+                  </span>
+                  <span class="md-nav__icon md-icon">
+                  </span>
+                 </label>
+                 <nav aria-expanded="false" aria-labelledby="__nav_3_1_2_label" class="md-nav" data-md-level="3">
+                  <label class="md-nav__title" for="__nav_3_1_2">
+                   <span class="md-nav__icon md-icon">
+                   </span>
+                   2. Podmienky
+                  </label>
+                  <ul class="md-nav__list" data-md-scrollfix="">
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/zbierka-uloh/podmienky/uvod/">
+                     <span class="md-ellipsis">
+                      Úvod
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/zbierka-uloh/podmienky/1-heslo/">
+                     <span class="md-ellipsis">
+                      1. Heslo
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/zbierka-uloh/podmienky/2-najvacsie-cislo/">
+                     <span class="md-ellipsis">
+                      2. Najväčšie číslo
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/zbierka-uloh/podmienky/3-vhodne-oblecenie/">
+                     <span class="md-ellipsis">
+                      3. Vhodné oblečenie
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/zbierka-uloh/podmienky/4-morsky-vanok/">
+                     <span class="md-ellipsis">
+                      4. Morský vánok
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/zbierka-uloh/podmienky/5-pokazeny-rozpis/">
+                     <span class="md-ellipsis">
+                      5. Pokazený rozpis
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/zbierka-uloh/podmienky/6-hovoriaca-kalkulacka/">
+                     <span class="md-ellipsis">
+                      6. Hovoriaca kalkulačka
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/zbierka-uloh/podmienky/7-chaos-v-listkoch/">
+                     <span class="md-ellipsis">
+                      7. Chaos v lístkoch
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/zbierka-uloh/podmienky/8-kvadraticka-rovnica/">
+                     <span class="md-ellipsis">
+                      8. Kvadratická rovnica
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/zbierka-uloh/podmienky/9-trojuholniky/">
+                     <span class="md-ellipsis">
+                      9. Trojuholníky
+                     </span>
+                    </a>
+                   </li>
+                  </ul>
+                 </nav>
+                </li>
+                <li class="md-nav__item md-nav__item--nested">
+                 <input class="md-nav__toggle md-toggle" id="__nav_3_1_3" type="checkbox"/>
+                 <label class="md-nav__link" for="__nav_3_1_3" id="__nav_3_1_3_label" tabindex="0">
+                  <span class="md-ellipsis">
+                   3. Cykly
+                  </span>
+                  <span class="md-nav__icon md-icon">
+                  </span>
+                 </label>
+                 <nav aria-expanded="false" aria-labelledby="__nav_3_1_3_label" class="md-nav" data-md-level="3">
+                  <label class="md-nav__title" for="__nav_3_1_3">
+                   <span class="md-nav__icon md-icon">
+                   </span>
+                   3. Cykly
+                  </label>
+                  <ul class="md-nav__list" data-md-scrollfix="">
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/zbierka-uloh/cykly/uvod/">
+                     <span class="md-ellipsis">
+                      Úvod
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/zbierka-uloh/cykly/1-100-krat-napis/">
+                     <span class="md-ellipsis">
+                      1. 100-krát napíš
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/zbierka-uloh/cykly/2-hodnotenie/">
+                     <span class="md-ellipsis">
+                      2. Hodnotenie
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/zbierka-uloh/cykly/3-pyramida/">
+                     <span class="md-ellipsis">
+                      3. Pyramída
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/zbierka-uloh/cykly/4-smaragd/">
+                     <span class="md-ellipsis">
+                      4. Smaragd
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/zbierka-uloh/cykly/5-dute-vnutro/">
+                     <span class="md-ellipsis">
+                      5. Duté vnútro
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/zbierka-uloh/cykly/6-mriezka-slov/">
+                     <span class="md-ellipsis">
+                      6. Mriežka slov
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/zbierka-uloh/cykly/7-ram/">
+                     <span class="md-ellipsis">
+                      7. Rám
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/zbierka-uloh/cykly/8-mala-nasobilka/">
+                     <span class="md-ellipsis">
+                      8. Malá násobilka
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/zbierka-uloh/cykly/9-sporenie/">
+                     <span class="md-ellipsis">
+                      9. Sporenie
+                     </span>
+                    </a>
+                   </li>
+                  </ul>
+                 </nav>
+                </li>
+                <li class="md-nav__item md-nav__item--nested">
+                 <input class="md-nav__toggle md-toggle" id="__nav_3_1_4" type="checkbox"/>
+                 <label class="md-nav__link" for="__nav_3_1_4" id="__nav_3_1_4_label" tabindex="0">
+                  <span class="md-ellipsis">
+                   4. Náhodné čísla
+                  </span>
+                  <span class="md-nav__icon md-icon">
+                  </span>
+                 </label>
+                 <nav aria-expanded="false" aria-labelledby="__nav_3_1_4_label" class="md-nav" data-md-level="3">
+                  <label class="md-nav__title" for="__nav_3_1_4">
+                   <span class="md-nav__icon md-icon">
+                   </span>
+                   4. Náhodné čísla
+                  </label>
+                  <ul class="md-nav__list" data-md-scrollfix="">
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/zbierka-uloh/nahodne-cisla/uvod/">
+                     <span class="md-ellipsis">
+                      Úvod
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/zbierka-uloh/nahodne-cisla/1-hadzanie-kockou/">
+                     <span class="md-ellipsis">
+                      1. Hádzanie kockou
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/zbierka-uloh/nahodne-cisla/2-hadaj-cislo/">
+                     <span class="md-ellipsis">
+                      2. Hádaj číslo
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/zbierka-uloh/nahodne-cisla/3-opakovanie-nasobilky/">
+                     <span class="md-ellipsis">
+                      3. Opakovanie násobilky
+                     </span>
+                    </a>
+                   </li>
+                  </ul>
+                 </nav>
+                </li>
+                <li class="md-nav__item md-nav__item--nested">
+                 <input class="md-nav__toggle md-toggle" id="__nav_3_1_5" type="checkbox"/>
+                 <label class="md-nav__link" for="__nav_3_1_5" id="__nav_3_1_5_label" tabindex="0">
+                  <span class="md-ellipsis">
+                   5. Reťazce a zoznamy
+                  </span>
+                  <span class="md-nav__icon md-icon">
+                  </span>
+                 </label>
+                 <nav aria-expanded="false" aria-labelledby="__nav_3_1_5_label" class="md-nav" data-md-level="3">
+                  <label class="md-nav__title" for="__nav_3_1_5">
+                   <span class="md-nav__icon md-icon">
+                   </span>
+                   5. Reťazce a zoznamy
+                  </label>
+                  <ul class="md-nav__list" data-md-scrollfix="">
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/zbierka-uloh/retazce-zoznamy/uvod/">
+                     <span class="md-ellipsis">
+                      Úvod
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/zbierka-uloh/retazce-zoznamy/1-vymen-pismeno/">
+                     <span class="md-ellipsis">
+                      1. Vymeň písmeno
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/zbierka-uloh/retazce-zoznamy/2-cenzura/">
+                     <span class="md-ellipsis">
+                      2. Cenzúra
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/zbierka-uloh/retazce-zoznamy/3-pocitanie-slov/">
+                     <span class="md-ellipsis">
+                      3. Počítanie slov
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/zbierka-uloh/retazce-zoznamy/4-najdlhsie-slovo/">
+                     <span class="md-ellipsis">
+                      4. Najdlhšie slovo
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/zbierka-uloh/retazce-zoznamy/5-frekvencia-pismen/">
+                     <span class="md-ellipsis">
+                      5. Frekvencia písmen
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/zbierka-uloh/retazce-zoznamy/6-histogram/">
+                     <span class="md-ellipsis">
+                      6. Histogram
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/zbierka-uloh/retazce-zoznamy/7-nakupny-kosik/">
+                     <span class="md-ellipsis">
+                      7. Nákupný košík
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/zbierka-uloh/retazce-zoznamy/8-akronym/">
+                     <span class="md-ellipsis">
+                      8. Akronym
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/zbierka-uloh/retazce-zoznamy/9-vela-opakovania/">
+                     <span class="md-ellipsis">
+                      9. Veľa opakovania
+                     </span>
+                    </a>
+                   </li>
+                  </ul>
+                 </nav>
+                </li>
+                <li class="md-nav__item md-nav__item--nested">
+                 <input class="md-nav__toggle md-toggle" id="__nav_3_1_6" type="checkbox"/>
+                 <label class="md-nav__link" for="__nav_3_1_6" id="__nav_3_1_6_label" tabindex="0">
+                  <span class="md-ellipsis">
+                   6. Súbory
+                  </span>
+                  <span class="md-nav__icon md-icon">
+                  </span>
+                 </label>
+                 <nav aria-expanded="false" aria-labelledby="__nav_3_1_6_label" class="md-nav" data-md-level="3">
+                  <label class="md-nav__title" for="__nav_3_1_6">
+                   <span class="md-nav__icon md-icon">
+                   </span>
+                   6. Súbory
+                  </label>
+                  <ul class="md-nav__list" data-md-scrollfix="">
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/zbierka-uloh/subory/uvod/">
+                     <span class="md-ellipsis">
+                      Úvod
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/zbierka-uloh/subory/1-prepisovanie/">
+                     <span class="md-ellipsis">
+                      1. Prepisovanie
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/zbierka-uloh/subory/2-turistika/">
+                     <span class="md-ellipsis">
+                      2. Turistika
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/zbierka-uloh/subory/3-vedomostny-kviz/">
+                     <span class="md-ellipsis">
+                      3. Vedomostný kvíz
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/zbierka-uloh/subory/4-narodeniny/">
+                     <span class="md-ellipsis">
+                      4. Narodeniny
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/zbierka-uloh/subory/5-cestovne-poriadky/">
+                     <span class="md-ellipsis">
+                      5. Cestovné poriadky
+                     </span>
+                    </a>
+                   </li>
+                  </ul>
+                 </nav>
+                </li>
+                <li class="md-nav__item md-nav__item--nested">
+                 <input class="md-nav__toggle md-toggle" id="__nav_3_1_7" type="checkbox"/>
+                 <label class="md-nav__link" for="__nav_3_1_7" id="__nav_3_1_7_label" tabindex="0">
+                  <span class="md-ellipsis">
+                   7. Funkcie
+                  </span>
+                  <span class="md-nav__icon md-icon">
+                  </span>
+                 </label>
+                 <nav aria-expanded="false" aria-labelledby="__nav_3_1_7_label" class="md-nav" data-md-level="3">
+                  <label class="md-nav__title" for="__nav_3_1_7">
+                   <span class="md-nav__icon md-icon">
+                   </span>
+                   7. Funkcie
+                  </label>
+                  <ul class="md-nav__list" data-md-scrollfix="">
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/zbierka-uloh/funkcie/uvod/">
+                     <span class="md-ellipsis">
+                      Úvod
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/zbierka-uloh/funkcie/1-vraky/">
+                     <span class="md-ellipsis">
+                      1. Vraky
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/zbierka-uloh/funkcie/2-cezarova-sifra/">
+                     <span class="md-ellipsis">
+                      2. Cézarová šifra
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/zbierka-uloh/funkcie/3-pascalov-trojuholnik/">
+                     <span class="md-ellipsis">
+                      3. Pascalov trojuholník
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/zbierka-uloh/funkcie/4-pekny-byt/">
+                     <span class="md-ellipsis">
+                      4. Pekný byt
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/zbierka-uloh/funkcie/5-rimske-cisla/">
+                     <span class="md-ellipsis">
+                      5. Rímske čísla
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/zbierka-uloh/funkcie/6-zakladny-tvar-zlomku/">
+                     <span class="md-ellipsis">
+                      6. Základný tvar zlomku
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/zbierka-uloh/funkcie/7-hra-poklad/">
+                     <span class="md-ellipsis">
+                      7. Hra Poklad
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/zbierka-uloh/funkcie/8-kalkulacka/">
+                     <span class="md-ellipsis">
+                      8. Kalkulačka
+                     </span>
+                    </a>
+                   </li>
+                  </ul>
+                 </nav>
+                </li>
+                <li class="md-nav__item md-nav__item--nested">
+                 <input class="md-nav__toggle md-toggle" id="__nav_3_1_8" type="checkbox"/>
+                 <label class="md-nav__link" for="__nav_3_1_8" id="__nav_3_1_8_label" tabindex="0">
+                  <span class="md-ellipsis">
+                   8. Kreslenie
+                  </span>
+                  <span class="md-nav__icon md-icon">
+                  </span>
+                 </label>
+                 <nav aria-expanded="false" aria-labelledby="__nav_3_1_8_label" class="md-nav" data-md-level="3">
+                  <label class="md-nav__title" for="__nav_3_1_8">
+                   <span class="md-nav__icon md-icon">
+                   </span>
+                   8. Kreslenie
+                  </label>
+                  <ul class="md-nav__list" data-md-scrollfix="">
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/zbierka-uloh/kreslenie/1-geometricke-utvary/">
+                     <span class="md-ellipsis">
+                      1. Geometrické útvary
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/zbierka-uloh/kreslenie/2-grafy/">
+                     <span class="md-ellipsis">
+                      2. Grafy
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/zbierka-uloh/kreslenie/3-animacia/">
+                     <span class="md-ellipsis">
+                      3. Animácia
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/zbierka-uloh/kreslenie/4-sceny/">
+                     <span class="md-ellipsis">
+                      4. Scény
+                     </span>
+                    </a>
+                   </li>
+                  </ul>
+                 </nav>
+                </li>
+                <li class="md-nav__item">
+                 <a class="md-nav__link" href="../../../programovanie/zbierka-uloh/predslov/">
+                  <span class="md-ellipsis">
+                   Predslov
+                  </span>
+                 </a>
+                </li>
+                <li class="md-nav__item">
+                 <a class="md-nav__link" href="../../../programovanie/zbierka-uloh/zdroje/">
+                  <span class="md-ellipsis">
+                   Zdroje a literatúra
+                  </span>
+                 </a>
+                </li>
+               </ul>
+              </nav>
+             </li>
+             <li class="md-nav__item md-nav__item--nested">
+              <input class="md-nav__toggle md-toggle" id="__nav_3_2" type="checkbox"/>
+              <label class="md-nav__link" for="__nav_3_2" id="__nav_3_2_label" tabindex="0">
+               <span class="md-ellipsis">
+                Riešenia úloh
+               </span>
+               <span class="md-nav__icon md-icon">
+               </span>
+              </label>
+              <nav aria-expanded="false" aria-labelledby="__nav_3_2_label" class="md-nav" data-md-level="2">
+               <label class="md-nav__title" for="__nav_3_2">
+                <span class="md-nav__icon md-icon">
+                </span>
+                Riešenia úloh
+               </label>
+               <ul class="md-nav__list" data-md-scrollfix="">
+                <li class="md-nav__item md-nav__item--nested">
+                 <input class="md-nav__toggle md-toggle" id="__nav_3_2_1" type="checkbox"/>
+                 <label class="md-nav__link" for="__nav_3_2_1" id="__nav_3_2_1_label" tabindex="0">
+                  <span class="md-ellipsis">
+                   1. Premenné
+                  </span>
+                  <span class="md-nav__icon md-icon">
+                  </span>
+                 </label>
+                 <nav aria-expanded="false" aria-labelledby="__nav_3_2_1_label" class="md-nav" data-md-level="3">
+                  <label class="md-nav__title" for="__nav_3_2_1">
+                   <span class="md-nav__icon md-icon">
+                   </span>
+                   1. Premenné
+                  </label>
+                  <ul class="md-nav__list" data-md-scrollfix="">
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/riesenia-uloh/premenne/1-pozdrav/">
+                     <span class="md-ellipsis">
+                      1. Pozdrav
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/riesenia-uloh/premenne/2-basnik/">
+                     <span class="md-ellipsis">
+                      2. Básnik
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/riesenia-uloh/premenne/3-pozvanka/">
+                     <span class="md-ellipsis">
+                      3. Pozvánka
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/riesenia-uloh/premenne/4-teplota-vo-farenheitoch/">
+                     <span class="md-ellipsis">
+                      4. Teplota vo Farenheitoch
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/riesenia-uloh/premenne/5-hlboka-roklina/">
+                     <span class="md-ellipsis">
+                      5. Hlboká roklina
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/riesenia-uloh/premenne/6-vedro-s-vodou/">
+                     <span class="md-ellipsis">
+                      6. Vedro s vodou
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/riesenia-uloh/premenne/7-cesta-autom/">
+                     <span class="md-ellipsis">
+                      7. Cesta autom
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/riesenia-uloh/premenne/8-kupalisko/">
+                     <span class="md-ellipsis">
+                      8. Kúpalisko
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/riesenia-uloh/premenne/9-malovanie/">
+                     <span class="md-ellipsis">
+                      9. Maľovanie
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/riesenia-uloh/premenne/10-chemikalie/">
+                     <span class="md-ellipsis">
+                      10. Chemikálie
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/riesenia-uloh/premenne/11-brzdenie/">
+                     <span class="md-ellipsis">
+                      11. Brzdenie
+                     </span>
+                    </a>
+                   </li>
+                  </ul>
+                 </nav>
+                </li>
+                <li class="md-nav__item md-nav__item--nested">
+                 <input class="md-nav__toggle md-toggle" id="__nav_3_2_2" type="checkbox"/>
+                 <label class="md-nav__link" for="__nav_3_2_2" id="__nav_3_2_2_label" tabindex="0">
+                  <span class="md-ellipsis">
+                   2. Podmienky
+                  </span>
+                  <span class="md-nav__icon md-icon">
+                  </span>
+                 </label>
+                 <nav aria-expanded="false" aria-labelledby="__nav_3_2_2_label" class="md-nav" data-md-level="3">
+                  <label class="md-nav__title" for="__nav_3_2_2">
+                   <span class="md-nav__icon md-icon">
+                   </span>
+                   2. Podmienky
+                  </label>
+                  <ul class="md-nav__list" data-md-scrollfix="">
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/riesenia-uloh/podmienky/1-heslo/">
+                     <span class="md-ellipsis">
+                      1. Heslo
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/riesenia-uloh/podmienky/2-najvacsie-cislo/">
+                     <span class="md-ellipsis">
+                      2. Najväčšie číslo
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/riesenia-uloh/podmienky/3-vhodne-oblecenie/">
+                     <span class="md-ellipsis">
+                      3. Vhodné oblečenie
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/riesenia-uloh/podmienky/4-morsky-vanok/">
+                     <span class="md-ellipsis">
+                      4. Morský vánok
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/riesenia-uloh/podmienky/5-pokazeny-rozpis/">
+                     <span class="md-ellipsis">
+                      5. Pokazený rozpis
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/riesenia-uloh/podmienky/6-hovoriaca-kalkulacka/">
+                     <span class="md-ellipsis">
+                      6. Hovoriaca kalkulačka
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/riesenia-uloh/podmienky/7-chaos-v-listkoch/">
+                     <span class="md-ellipsis">
+                      7. Chaos v lístkoch
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/riesenia-uloh/podmienky/8-kvadraticka-rovnica/">
+                     <span class="md-ellipsis">
+                      8. Kvadratická rovnica
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/riesenia-uloh/podmienky/9-trojuholniky/">
+                     <span class="md-ellipsis">
+                      9. Trojuholníky
+                     </span>
+                    </a>
+                   </li>
+                  </ul>
+                 </nav>
+                </li>
+                <li class="md-nav__item md-nav__item--nested">
+                 <input class="md-nav__toggle md-toggle" id="__nav_3_2_3" type="checkbox"/>
+                 <label class="md-nav__link" for="__nav_3_2_3" id="__nav_3_2_3_label" tabindex="0">
+                  <span class="md-ellipsis">
+                   3. Cykly
+                  </span>
+                  <span class="md-nav__icon md-icon">
+                  </span>
+                 </label>
+                 <nav aria-expanded="false" aria-labelledby="__nav_3_2_3_label" class="md-nav" data-md-level="3">
+                  <label class="md-nav__title" for="__nav_3_2_3">
+                   <span class="md-nav__icon md-icon">
+                   </span>
+                   3. Cykly
+                  </label>
+                  <ul class="md-nav__list" data-md-scrollfix="">
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/riesenia-uloh/cykly/1-100-krat-napis/">
+                     <span class="md-ellipsis">
+                      1. 100-krát napíš
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/riesenia-uloh/cykly/2-hodnotenie/">
+                     <span class="md-ellipsis">
+                      2. Hodnotenie
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/riesenia-uloh/cykly/3-pyramida/">
+                     <span class="md-ellipsis">
+                      3. Pyramída
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/riesenia-uloh/cykly/4-smaragd/">
+                     <span class="md-ellipsis">
+                      4. Smaragd
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/riesenia-uloh/cykly/5-dute-vnutro/">
+                     <span class="md-ellipsis">
+                      5. Duté vnútro
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/riesenia-uloh/cykly/6-mriezka-slov/">
+                     <span class="md-ellipsis">
+                      6. Mriežka slov
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/riesenia-uloh/cykly/7-ram/">
+                     <span class="md-ellipsis">
+                      7. Rám
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/riesenia-uloh/cykly/8-mala-nasobilka/">
+                     <span class="md-ellipsis">
+                      8. Malá násobilka
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/riesenia-uloh/cykly/9-sporenie/">
+                     <span class="md-ellipsis">
+                      9. Sporenie
+                     </span>
+                    </a>
+                   </li>
+                  </ul>
+                 </nav>
+                </li>
+                <li class="md-nav__item md-nav__item--nested">
+                 <input class="md-nav__toggle md-toggle" id="__nav_3_2_4" type="checkbox"/>
+                 <label class="md-nav__link" for="__nav_3_2_4" id="__nav_3_2_4_label" tabindex="0">
+                  <span class="md-ellipsis">
+                   4. Náhodné čísla
+                  </span>
+                  <span class="md-nav__icon md-icon">
+                  </span>
+                 </label>
+                 <nav aria-expanded="false" aria-labelledby="__nav_3_2_4_label" class="md-nav" data-md-level="3">
+                  <label class="md-nav__title" for="__nav_3_2_4">
+                   <span class="md-nav__icon md-icon">
+                   </span>
+                   4. Náhodné čísla
+                  </label>
+                  <ul class="md-nav__list" data-md-scrollfix="">
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/riesenia-uloh/nahodne-cisla/1-hadzanie-kockou/">
+                     <span class="md-ellipsis">
+                      1. Hádzanie kockou
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/riesenia-uloh/nahodne-cisla/2-hadaj-cislo/">
+                     <span class="md-ellipsis">
+                      2. Hádaj číslo
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/riesenia-uloh/nahodne-cisla/3-opakovanie-nasobilky/">
+                     <span class="md-ellipsis">
+                      3. Opakovanie násobilky
+                     </span>
+                    </a>
+                   </li>
+                  </ul>
+                 </nav>
+                </li>
+                <li class="md-nav__item md-nav__item--nested">
+                 <input class="md-nav__toggle md-toggle" id="__nav_3_2_5" type="checkbox"/>
+                 <label class="md-nav__link" for="__nav_3_2_5" id="__nav_3_2_5_label" tabindex="0">
+                  <span class="md-ellipsis">
+                   5. Reťazce a zoznamy
+                  </span>
+                  <span class="md-nav__icon md-icon">
+                  </span>
+                 </label>
+                 <nav aria-expanded="false" aria-labelledby="__nav_3_2_5_label" class="md-nav" data-md-level="3">
+                  <label class="md-nav__title" for="__nav_3_2_5">
+                   <span class="md-nav__icon md-icon">
+                   </span>
+                   5. Reťazce a zoznamy
+                  </label>
+                  <ul class="md-nav__list" data-md-scrollfix="">
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/riesenia-uloh/retazce-zoznamy/1-vymen-pismeno/">
+                     <span class="md-ellipsis">
+                      1. Vymeň písmeno
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/riesenia-uloh/retazce-zoznamy/2-cenzura/">
+                     <span class="md-ellipsis">
+                      2. Cenzúra
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/riesenia-uloh/retazce-zoznamy/3-pocitanie-slov/">
+                     <span class="md-ellipsis">
+                      3. Počítanie slov
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/riesenia-uloh/retazce-zoznamy/4-najdlhsie-slovo/">
+                     <span class="md-ellipsis">
+                      4. Najdlhšie slovo
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/riesenia-uloh/retazce-zoznamy/5-frekvencia-pismen/">
+                     <span class="md-ellipsis">
+                      5. Frekvencia písmen
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/riesenia-uloh/retazce-zoznamy/6-histogram/">
+                     <span class="md-ellipsis">
+                      6. Histogram
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/riesenia-uloh/retazce-zoznamy/7-nakupny-kosik/">
+                     <span class="md-ellipsis">
+                      7. Nákupný košík
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/riesenia-uloh/retazce-zoznamy/8-akronym/">
+                     <span class="md-ellipsis">
+                      8. Akronym
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/riesenia-uloh/retazce-zoznamy/9-vela-opakovania/">
+                     <span class="md-ellipsis">
+                      9. Veľa opakovania
+                     </span>
+                    </a>
+                   </li>
+                  </ul>
+                 </nav>
+                </li>
+                <li class="md-nav__item md-nav__item--nested">
+                 <input class="md-nav__toggle md-toggle" id="__nav_3_2_6" type="checkbox"/>
+                 <label class="md-nav__link" for="__nav_3_2_6" id="__nav_3_2_6_label" tabindex="0">
+                  <span class="md-ellipsis">
+                   6. Súbory
+                  </span>
+                  <span class="md-nav__icon md-icon">
+                  </span>
+                 </label>
+                 <nav aria-expanded="false" aria-labelledby="__nav_3_2_6_label" class="md-nav" data-md-level="3">
+                  <label class="md-nav__title" for="__nav_3_2_6">
+                   <span class="md-nav__icon md-icon">
+                   </span>
+                   6. Súbory
+                  </label>
+                  <ul class="md-nav__list" data-md-scrollfix="">
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/riesenia-uloh/subory/1-prepisovanie/">
+                     <span class="md-ellipsis">
+                      1. Prepisovanie
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/riesenia-uloh/subory/2-turistika/">
+                     <span class="md-ellipsis">
+                      2. Turistika
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/riesenia-uloh/subory/3-vedomostny-kviz/">
+                     <span class="md-ellipsis">
+                      3. Vedomostný kvíz
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/riesenia-uloh/subory/4-narodeniny/">
+                     <span class="md-ellipsis">
+                      4. Narodeniny
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/riesenia-uloh/subory/5-cestovne-poriadky/">
+                     <span class="md-ellipsis">
+                      5. Cestovné poriadky
+                     </span>
+                    </a>
+                   </li>
+                  </ul>
+                 </nav>
+                </li>
+                <li class="md-nav__item md-nav__item--nested">
+                 <input class="md-nav__toggle md-toggle" id="__nav_3_2_7" type="checkbox"/>
+                 <label class="md-nav__link" for="__nav_3_2_7" id="__nav_3_2_7_label" tabindex="0">
+                  <span class="md-ellipsis">
+                   7. Funkcie
+                  </span>
+                  <span class="md-nav__icon md-icon">
+                  </span>
+                 </label>
+                 <nav aria-expanded="false" aria-labelledby="__nav_3_2_7_label" class="md-nav" data-md-level="3">
+                  <label class="md-nav__title" for="__nav_3_2_7">
+                   <span class="md-nav__icon md-icon">
+                   </span>
+                   7. Funkcie
+                  </label>
+                  <ul class="md-nav__list" data-md-scrollfix="">
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/riesenia-uloh/funkcie/1-vraky/">
+                     <span class="md-ellipsis">
+                      1. Vraky
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/riesenia-uloh/funkcie/2-cezarova-sifra/">
+                     <span class="md-ellipsis">
+                      2. Cézarová šifra
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/riesenia-uloh/funkcie/3-pascalov-trojuholnik/">
+                     <span class="md-ellipsis">
+                      3. Pascalov trojuholník
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/riesenia-uloh/funkcie/4-pekny-byt/">
+                     <span class="md-ellipsis">
+                      4. Pekný byt
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/riesenia-uloh/funkcie/5-rimske-cisla/">
+                     <span class="md-ellipsis">
+                      5. Rímske čísla
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/riesenia-uloh/funkcie/6-zakladny-tvar-zlomku/">
+                     <span class="md-ellipsis">
+                      6. Základný tvar zlomku
+                     </span>
+                    </a>
+                   </li>
+                  </ul>
+                 </nav>
+                </li>
+               </ul>
+              </nav>
+             </li>
+             <li class="md-nav__item md-nav__item--nested">
+              <input class="md-nav__toggle md-toggle" id="__nav_3_3" type="checkbox"/>
+              <label class="md-nav__link" for="__nav_3_3" id="__nav_3_3_label" tabindex="0">
+               <span class="md-ellipsis">
+                Programátorské projekty
+               </span>
+               <span class="md-nav__icon md-icon">
+               </span>
+              </label>
+              <nav aria-expanded="false" aria-labelledby="__nav_3_3_label" class="md-nav" data-md-level="2">
+               <label class="md-nav__title" for="__nav_3_3">
+                <span class="md-nav__icon md-icon">
+                </span>
+                Programátorské projekty
+               </label>
+               <ul class="md-nav__list" data-md-scrollfix="">
+                <li class="md-nav__item">
+                 <a class="md-nav__link" href="../../../programovanie/projekty/vystava-v-oplotenej-zahrade/">
+                  <span class="md-ellipsis">
+                   Výstava v oplotenej záhrade
+                  </span>
+                 </a>
+                </li>
+                <li class="md-nav__item">
+                 <a class="md-nav__link" href="../../../programovanie/projekty/kvetinovy-zahon/">
+                  <span class="md-ellipsis">
+                   Kvetinový záhon
+                  </span>
+                 </a>
+                </li>
+                <li class="md-nav__item">
+                 <a class="md-nav__link" href="../../../programovanie/projekty/pltnici-na-dunaji/">
+                  <span class="md-ellipsis">
+                   Pltníci na Dunaji
+                  </span>
+                 </a>
+                </li>
+                <li class="md-nav__item">
+                 <a class="md-nav__link" href="../../../programovanie/projekty/snehuliaci-utocia/">
+                  <span class="md-ellipsis">
+                   Snehuliaci útočia
+                  </span>
+                 </a>
+                </li>
+                <li class="md-nav__item">
+                 <a class="md-nav__link" href="../../../programovanie/projekty/mikulasska-sankovacka/">
+                  <span class="md-ellipsis">
+                   Mikulášska sánkovačka
+                  </span>
+                 </a>
+                </li>
+               </ul>
+              </nav>
+             </li>
+             <li class="md-nav__item md-nav__item--nested">
+              <input class="md-nav__toggle md-toggle" id="__nav_3_4" type="checkbox"/>
+              <label class="md-nav__link" for="__nav_3_4" id="__nav_3_4_label" tabindex="0">
+               <span class="md-ellipsis">
+                Pygame
+               </span>
+               <span class="md-nav__icon md-icon">
+               </span>
+              </label>
+              <nav aria-expanded="false" aria-labelledby="__nav_3_4_label" class="md-nav" data-md-level="2">
+               <label class="md-nav__title" for="__nav_3_4">
+                <span class="md-nav__icon md-icon">
+                </span>
+                Pygame
+               </label>
+               <ul class="md-nav__list" data-md-scrollfix="">
+                <li class="md-nav__item">
+                 <a class="md-nav__link" href="../../../programovanie/pygame/osnovy/">
+                  <span class="md-ellipsis">
+                   Osnovy
+                  </span>
+                 </a>
+                </li>
+                <li class="md-nav__item md-nav__item--nested">
+                 <input class="md-nav__toggle md-toggle" id="__nav_3_4_2" type="checkbox"/>
+                 <label class="md-nav__link" for="__nav_3_4_2" id="__nav_3_4_2_label" tabindex="0">
+                  <span class="md-ellipsis">
+                   1. Kresby
+                  </span>
+                  <span class="md-nav__icon md-icon">
+                  </span>
+                 </label>
+                 <nav aria-expanded="false" aria-labelledby="__nav_3_4_2_label" class="md-nav" data-md-level="3">
+                  <label class="md-nav__title" for="__nav_3_4_2">
+                   <span class="md-nav__icon md-icon">
+                   </span>
+                   1. Kresby
+                  </label>
+                  <ul class="md-nav__list" data-md-scrollfix="">
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/pygame/kresby/1-obdlznik/">
+                     <span class="md-ellipsis">
+                      1. Obdĺžnik
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/pygame/kresby/2-rucicka-v-smere-mysi/">
+                     <span class="md-ellipsis">
+                      2. Ručička v smere myši
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/pygame/kresby/3-mriezka-z-ciar/">
+                     <span class="md-ellipsis">
+                      3. Mriežka z čiar
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/pygame/kresby/4-mriezka/">
+                     <span class="md-ellipsis">
+                      4. Mriežka
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/pygame/kresby/5-velka-mriezka/">
+                     <span class="md-ellipsis">
+                      5. Veľká mriežka
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/pygame/kresby/6-klikanie-do-mriezky/">
+                     <span class="md-ellipsis">
+                      6. Klikanie do mriežky
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/pygame/kresby/7-sachovnica/">
+                     <span class="md-ellipsis">
+                      7. Šachovnica
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/pygame/kresby/8-hexagon/">
+                     <span class="md-ellipsis">
+                      8. Hexagon
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/pygame/kresby/9-izometricke-bunky/">
+                     <span class="md-ellipsis">
+                      9. Izometrické bunky
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/pygame/kresby/10-mozaika-papagaja/">
+                     <span class="md-ellipsis">
+                      10. Mozaika papagája
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/pygame/kresby/11-kruhy-papagaja/">
+                     <span class="md-ellipsis">
+                      11. Kruhy papagája
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/pygame/kresby/12-hsv-farebny-kruh/">
+                     <span class="md-ellipsis">
+                      12. HSV farebný kruh
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/pygame/kresby/13-farebna-ruzica/">
+                     <span class="md-ellipsis">
+                      13. Farebná ružica
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/pygame/kresby/14-kruhy-se-neprekryvaju/">
+                     <span class="md-ellipsis">
+                      14. Kruhy se neprekrývajú
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/pygame/kresby/15-kosostvorec/">
+                     <span class="md-ellipsis">
+                      15. Kosoštvorec
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/pygame/kresby/15-kosostvorec-s-ciarami/">
+                     <span class="md-ellipsis">
+                      15. Kosoštvorec s čiarami
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/pygame/kresby/17-kocka/">
+                     <span class="md-ellipsis">
+                      17. Kocka
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/pygame/kresby/18-farebne-kruhy/">
+                     <span class="md-ellipsis">
+                      18. Farebné kruhy
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/pygame/kresby/19-mriezka/">
+                     <span class="md-ellipsis">
+                      19. Mriežka
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/pygame/kresby/20-semafor/">
+                     <span class="md-ellipsis">
+                      20. Semafor
+                     </span>
+                    </a>
+                   </li>
+                  </ul>
+                 </nav>
+                </li>
+                <li class="md-nav__item md-nav__item--nested">
+                 <input class="md-nav__toggle md-toggle" id="__nav_3_4_3" type="checkbox"/>
+                 <label class="md-nav__link" for="__nav_3_4_3" id="__nav_3_4_3_label" tabindex="0">
+                  <span class="md-ellipsis">
+                   2. Animácia
+                  </span>
+                  <span class="md-nav__icon md-icon">
+                  </span>
+                 </label>
+                 <nav aria-expanded="false" aria-labelledby="__nav_3_4_3_label" class="md-nav" data-md-level="3">
+                  <label class="md-nav__title" for="__nav_3_4_3">
+                   <span class="md-nav__icon md-icon">
+                   </span>
+                   2. Animácia
+                  </label>
+                  <ul class="md-nav__list" data-md-scrollfix="">
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/pygame/animacia/1-animacia/">
+                     <span class="md-ellipsis">
+                      1. Animácia
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/pygame/animacia/1-pohyb-v-osi-x/">
+                     <span class="md-ellipsis">
+                      1. Pohyb v osi x
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/pygame/animacia/3-odrazanie-lopticky/">
+                     <span class="md-ellipsis">
+                      3. Odrážanie loptičky
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/pygame/animacia/4-vektor-rychlosti/">
+                     <span class="md-ellipsis">
+                      4. Vektor rýchlosti
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/pygame/animacia/5-gravitacne-zrychlenie/">
+                     <span class="md-ellipsis">
+                      5. Gravitačné zrýchlenie
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/pygame/animacia/6-gravitacny-aktraktor/">
+                     <span class="md-ellipsis">
+                      6. Gravitačný aktraktor
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/pygame/animacia/7-nahodna-prechadzka/">
+                     <span class="md-ellipsis">
+                      7. Náhodná prechádzka
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/pygame/animacia/8-levyho-let/">
+                     <span class="md-ellipsis">
+                      8. Lévyho let
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/pygame/animacia/9-langstonov-mravec/">
+                     <span class="md-ellipsis">
+                      9. Langstonov mravec
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/pygame/animacia/10-ovladanie-robota/">
+                     <span class="md-ellipsis">
+                      10. Ovládanie robota
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/pygame/animacia/11-ovladanie-postavicky/">
+                     <span class="md-ellipsis">
+                      11. Ovládanie postavičky
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/pygame/animacia/12-viacere-lopty/">
+                     <span class="md-ellipsis">
+                      12. Viaceré lopty
+                     </span>
+                    </a>
+                   </li>
+                  </ul>
+                 </nav>
+                </li>
+                <li class="md-nav__item md-nav__item--nested">
+                 <input class="md-nav__toggle md-toggle" id="__nav_3_4_4" type="checkbox"/>
+                 <label class="md-nav__link" for="__nav_3_4_4" id="__nav_3_4_4_label" tabindex="0">
+                  <span class="md-ellipsis">
+                   3. Hry
+                  </span>
+                  <span class="md-nav__icon md-icon">
+                  </span>
+                 </label>
+                 <nav aria-expanded="false" aria-labelledby="__nav_3_4_4_label" class="md-nav" data-md-level="3">
+                  <label class="md-nav__title" for="__nav_3_4_4">
+                   <span class="md-nav__icon md-icon">
+                   </span>
+                   3. Hry
+                  </label>
+                  <ul class="md-nav__list" data-md-scrollfix="">
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/pygame/hry/1-piskvorky/">
+                     <span class="md-ellipsis">
+                      1. Piškvorky
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/pygame/hry/2-sach/">
+                     <span class="md-ellipsis">
+                      2. Šach
+                     </span>
+                    </a>
+                   </li>
+                  </ul>
+                 </nav>
+                </li>
+                <li class="md-nav__item md-nav__item--nested">
+                 <input class="md-nav__toggle md-toggle" id="__nav_3_4_5" type="checkbox"/>
+                 <label class="md-nav__link" for="__nav_3_4_5" id="__nav_3_4_5_label" tabindex="0">
+                  <span class="md-ellipsis">
+                   5. Simulácie
+                  </span>
+                  <span class="md-nav__icon md-icon">
+                  </span>
+                 </label>
+                 <nav aria-expanded="false" aria-labelledby="__nav_3_4_5_label" class="md-nav" data-md-level="3">
+                  <label class="md-nav__title" for="__nav_3_4_5">
+                   <span class="md-nav__icon md-icon">
+                   </span>
+                   5. Simulácie
+                  </label>
+                  <ul class="md-nav__list" data-md-scrollfix="">
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/pygame/simulacie/1-casticovy-system/">
+                     <span class="md-ellipsis">
+                      1. Časticový systém
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/pygame/simulacie/2-difuzia-obmedzena-agregaciou-dla/">
+                     <span class="md-ellipsis">
+                      2. Difúzia obmedzená agregáciou (DLA)
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/pygame/simulacie/3-dla-s-viac-casticami/">
+                     <span class="md-ellipsis">
+                      3. DLA s viac časticami
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/pygame/simulacie/4-dla-stromy/">
+                     <span class="md-ellipsis">
+                      4. DLA stromy
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/pygame/simulacie/5-skakanie/">
+                     <span class="md-ellipsis">
+                      5. Skákanie
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/pygame/simulacie/6-skakanie-na-stvorec/">
+                     <span class="md-ellipsis">
+                      6. Skákanie na štvorec
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/pygame/simulacie/7-linearna-interpolacia/">
+                     <span class="md-ellipsis">
+                      7. Lineárna interpolácia
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/pygame/simulacie/8-lerp-so-sumom/">
+                     <span class="md-ellipsis">
+                      8. LERP so šumom
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/pygame/simulacie/9-bludisko/">
+                     <span class="md-ellipsis">
+                      9. Bludisko
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/pygame/simulacie/10-separating-axis-theorem/">
+                     <span class="md-ellipsis">
+                      10. Separating axis theorem
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/pygame/simulacie/11-vlnky-vo-vode/">
+                     <span class="md-ellipsis">
+                      11. Vlnky vo vode
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/pygame/simulacie/12-izopovrchy/">
+                     <span class="md-ellipsis">
+                      12. Izopovrchy
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/pygame/simulacie/1-isosurfaces-metaballs-sum/">
+                     <span class="md-ellipsis">
+                      1. Isosurfaces metaballs sum
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/pygame/simulacie/14-izopovrchy-metaballs/">
+                     <span class="md-ellipsis">
+                      14. Izopovrchy metaballs
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/pygame/simulacie/15-kolizie/">
+                     <span class="md-ellipsis">
+                      15. Kolízie
+                     </span>
+                    </a>
+                   </li>
+                  </ul>
+                 </nav>
+                </li>
+                <li class="md-nav__item md-nav__item--nested">
+                 <input class="md-nav__toggle md-toggle" id="__nav_3_4_6" type="checkbox"/>
+                 <label class="md-nav__link" for="__nav_3_4_6" id="__nav_3_4_6_label" tabindex="0">
+                  <span class="md-ellipsis">
+                   6. Generovaný svet
+                  </span>
+                  <span class="md-nav__icon md-icon">
+                  </span>
+                 </label>
+                 <nav aria-expanded="false" aria-labelledby="__nav_3_4_6_label" class="md-nav" data-md-level="3">
+                  <label class="md-nav__title" for="__nav_3_4_6">
+                   <span class="md-nav__icon md-icon">
+                   </span>
+                   6. Generovaný svet
+                  </label>
+                  <ul class="md-nav__list" data-md-scrollfix="">
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/pygame/generovany-svet/1-platformovka/">
+                     <span class="md-ellipsis">
+                      1. Platformovka
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/pygame/generovany-svet/2-nahodna-mapa/">
+                     <span class="md-ellipsis">
+                      2. Náhodná mapa
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/pygame/generovany-svet/1-vyskova-mapa/">
+                     <span class="md-ellipsis">
+                      1. Výšková mapa
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/pygame/generovany-svet/4-teren-s-biomami/">
+                     <span class="md-ellipsis">
+                      4. Terén s biómami
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/pygame/generovany-svet/5-celularny-automat/">
+                     <span class="md-ellipsis">
+                      5. Celulárny automat
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/pygame/generovany-svet/6-hra-zivot/">
+                     <span class="md-ellipsis">
+                      6. Hra život
+                     </span>
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="../../../programovanie/pygame/generovany-svet/7-posuvanie-a-priblizovanie/">
+                     <span class="md-ellipsis">
+                      7. Posúvanie a približovanie
+                     </span>
+                    </a>
+                   </li>
+                  </ul>
+                 </nav>
+                </li>
+               </ul>
+              </nav>
+             </li>
+             <li class="md-nav__item md-nav__item--nested">
+              <input class="md-nav__toggle md-toggle" id="__nav_3_5" type="checkbox"/>
+              <label class="md-nav__link" for="__nav_3_5" id="__nav_3_5_label" tabindex="0">
+               <span class="md-ellipsis">
+                Metodika pre učiteľov
+               </span>
+               <span class="md-nav__icon md-icon">
+               </span>
+              </label>
+              <nav aria-expanded="false" aria-labelledby="__nav_3_5_label" class="md-nav" data-md-level="2">
+               <label class="md-nav__title" for="__nav_3_5">
+                <span class="md-nav__icon md-icon">
+                </span>
+                Metodika pre učiteľov
+               </label>
+               <ul class="md-nav__list" data-md-scrollfix="">
+                <li class="md-nav__item">
+                 <a class="md-nav__link" href="../../../programovanie/metodika/abstrakt/">
+                  <span class="md-ellipsis">
+                   Abstrakt
+                  </span>
+                 </a>
+                </li>
+                <li class="md-nav__item">
+                 <a class="md-nav__link" href="../../../programovanie/metodika/uvod/">
+                  <span class="md-ellipsis">
+                   Úvod
+                  </span>
+                 </a>
+                </li>
+                <li class="md-nav__item">
+                 <a class="md-nav__link" href="../../../programovanie/metodika/tvorba-edukacnych-materialov/">
+                  <span class="md-ellipsis">
+                   Tvorba edukačných materiálov
+                  </span>
+                 </a>
+                </li>
+                <li class="md-nav__item">
+                 <a class="md-nav__link" href="../../../programovanie/metodika/ciel-a-metodika-prace/">
+                  <span class="md-ellipsis">
+                   Cieľ a metodika práce
+                  </span>
+                 </a>
+                </li>
+                <li class="md-nav__item">
+                 <a class="md-nav__link" href="../../../programovanie/metodika/vysledky-prace/">
+                  <span class="md-ellipsis">
+                   Výsledky práce
+                  </span>
+                 </a>
+                </li>
+                <li class="md-nav__item">
+                 <a class="md-nav__link" href="../../../programovanie/metodika/zaver/">
+                  <span class="md-ellipsis">
+                   Záver
+                  </span>
+                 </a>
+                </li>
+                <li class="md-nav__item">
+                 <a class="md-nav__link" href="../../../programovanie/metodika/kategorie-uloh/">
+                  <span class="md-ellipsis">
+                   Príloha - Zaradenie úloh do zbierky
+                  </span>
+                 </a>
+                </li>
+                <li class="md-nav__item">
+                 <a class="md-nav__link" href="../../../programovanie/metodika/skore-citatelnosti/">
+                  <span class="md-ellipsis">
+                   Príloha - Výpočet skóre čitateľnosti
+                  </span>
+                 </a>
+                </li>
+               </ul>
+              </nav>
+             </li>
+            </ul>
+           </nav>
+          </li>
+          <li class="md-nav__item md-nav__item--nested">
+           <input class="md-nav__toggle md-toggle" id="__nav_4" type="checkbox"/>
+           <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+            <span class="md-ellipsis">
+             1. ročník
+            </span>
+            <span class="md-nav__icon md-icon">
+            </span>
+           </label>
+           <nav aria-expanded="false" aria-labelledby="__nav_4_label" class="md-nav" data-md-level="1">
+            <label class="md-nav__title" for="__nav_4">
+             <span class="md-nav__icon md-icon">
+             </span>
+             1. ročník
+            </label>
+            <ul class="md-nav__list" data-md-scrollfix="">
+             <li class="md-nav__item">
+              <a class="md-nav__link" href="../../../1-rocnik/ucivo/">
+               <span class="md-ellipsis">
+                Učivo
+               </span>
+              </a>
+             </li>
+             <li class="md-nav__item">
+              <a class="md-nav__link" href="../../../1-rocnik/hodnotenie/">
+               <span class="md-ellipsis">
+                Hodnotenie
+               </span>
+              </a>
+             </li>
+             <li class="md-nav__item">
+              <a class="md-nav__link" href="../../../1-rocnik/cvicenia/">
+               <span class="md-ellipsis">
+                Cvičenia
+               </span>
+              </a>
+             </li>
+             <li class="md-nav__item">
+              <a class="md-nav__link" href="../../../1-rocnik/digitalizacia-udajov/">
+               <span class="md-ellipsis">
+                Digitalizácia údajov
+               </span>
+              </a>
+             </li>
+             <li class="md-nav__item">
+              <a class="md-nav__link" href="../../../1-rocnik/kontrolne-kody/">
+               <span class="md-ellipsis">
+                Kontrolné kódy
+               </span>
+              </a>
+             </li>
+             <li class="md-nav__item">
+              <a class="md-nav__link" href="../../../1-rocnik/velkost-suboru/">
+               <span class="md-ellipsis">
+                Veľkosť súboru
+               </span>
+              </a>
+             </li>
+             <li class="md-nav__item">
+              <a class="md-nav__link" href="../../../1-rocnik/zasady-pri-tvorbe-prezentacie/">
+               <span class="md-ellipsis">
+                Zásady pri tvorbe prezentácie
+               </span>
+              </a>
+             </li>
+            </ul>
+           </nav>
+          </li>
+          <li class="md-nav__item md-nav__item--nested">
+           <input class="md-nav__toggle md-toggle" id="__nav_5" type="checkbox"/>
+           <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+            <span class="md-ellipsis">
+             2. ročník
+            </span>
+            <span class="md-nav__icon md-icon">
+            </span>
+           </label>
+           <nav aria-expanded="false" aria-labelledby="__nav_5_label" class="md-nav" data-md-level="1">
+            <label class="md-nav__title" for="__nav_5">
+             <span class="md-nav__icon md-icon">
+             </span>
+             2. ročník
+            </label>
+            <ul class="md-nav__list" data-md-scrollfix="">
+             <li class="md-nav__item">
+              <a class="md-nav__link" href="../../../2-rocnik/ucivo/">
+               <span class="md-ellipsis">
+                Učivo
+               </span>
+              </a>
+             </li>
+             <li class="md-nav__item">
+              <a class="md-nav__link" href="../../../2-rocnik/hodnotenie/">
+               <span class="md-ellipsis">
+                Hodnotenie
+               </span>
+              </a>
+             </li>
+             <li class="md-nav__item">
+              <a class="md-nav__link" href="../../../2-rocnik/jazyk-html/">
+               <span class="md-ellipsis">
+                Jazyk HTML
+               </span>
+              </a>
+             </li>
+             <li class="md-nav__item">
+              <a class="md-nav__link" href="../../../2-rocnik/vyhladavanie-na-webe/">
+               <span class="md-ellipsis">
+                Vyhľadávanie na webe
+               </span>
+              </a>
+             </li>
+            </ul>
+           </nav>
+          </li>
+          <li class="md-nav__item md-nav__item--nested">
+           <input class="md-nav__toggle md-toggle" id="__nav_6" type="checkbox"/>
+           <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="0">
+            <span class="md-ellipsis">
+             3. ročník
+            </span>
+            <span class="md-nav__icon md-icon">
+            </span>
+           </label>
+           <nav aria-expanded="false" aria-labelledby="__nav_6_label" class="md-nav" data-md-level="1">
+            <label class="md-nav__title" for="__nav_6">
+             <span class="md-nav__icon md-icon">
+             </span>
+             3. ročník
+            </label>
+            <ul class="md-nav__list" data-md-scrollfix="">
+             <li class="md-nav__item">
+              <a class="md-nav__link" href="../../../3-rocnik/ucivo/">
+               <span class="md-ellipsis">
+                Učivo
+               </span>
+              </a>
+             </li>
+             <li class="md-nav__item">
+              <a class="md-nav__link" href="../../../3-rocnik/hodnotenie/">
+               <span class="md-ellipsis">
+                Hodnotenie
+               </span>
+              </a>
+             </li>
+             <li class="md-nav__item">
+              <a class="md-nav__link" href="../../../3-rocnik/multimedia/">
+               <span class="md-ellipsis">
+                Multimédia
+               </span>
+              </a>
+             </li>
+             <li class="md-nav__item">
+              <a class="md-nav__link" href="../../../3-rocnik/projekt-grafika/">
+               <span class="md-ellipsis">
+                Projekt - Rastrová grafika
+               </span>
+              </a>
+             </li>
+             <li class="md-nav__item">
+              <a class="md-nav__link" href="../../../3-rocnik/projekt-audio/">
+               <span class="md-ellipsis">
+                Projekt - Audiokniha
+               </span>
+              </a>
+             </li>
+            </ul>
+           </nav>
+          </li>
+          <li class="md-nav__item md-nav__item--nested">
+           <input class="md-nav__toggle md-toggle" id="__nav_7" type="checkbox"/>
+           <label class="md-nav__link" for="__nav_7" id="__nav_7_label" tabindex="0">
+            <span class="md-ellipsis">
+             Seminár
+            </span>
+            <span class="md-nav__icon md-icon">
+            </span>
+           </label>
+           <nav aria-expanded="false" aria-labelledby="__nav_7_label" class="md-nav" data-md-level="1">
+            <label class="md-nav__title" for="__nav_7">
+             <span class="md-nav__icon md-icon">
+             </span>
+             Seminár
+            </label>
+            <ul class="md-nav__list" data-md-scrollfix="">
+             <li class="md-nav__item">
+              <a class="md-nav__link" href="../../../seminar/ucivo/">
+               <span class="md-ellipsis">
+                Učivo
+               </span>
+              </a>
+             </li>
+             <li class="md-nav__item">
+              <a class="md-nav__link" href="../../../seminar/prezentacie/">
+               <span class="md-ellipsis">
+                Prezentácie
+               </span>
+              </a>
+             </li>
+             <li class="md-nav__item">
+              <a class="md-nav__link" href="../../../seminar/clanky/">
+               <span class="md-ellipsis">
+                Články o informatike
+               </span>
+              </a>
+             </li>
+             <li class="md-nav__item">
+              <a class="md-nav__link" href="../../../seminar/sutaze/">
+               <span class="md-ellipsis">
+                Súťaže
+               </span>
+              </a>
+             </li>
+             <li class="md-nav__item">
+              <a class="md-nav__link" href="../../../seminar/napady-na-programovanie/">
+               <span class="md-ellipsis">
+                Nápady na programovanie
+               </span>
+              </a>
+             </li>
+            </ul>
+           </nav>
+          </li>
+          <li class="md-nav__item">
+           <a class="md-nav__link" href="../../../ucitel/">
+            <span class="md-ellipsis">
+             O učiteľovi
+            </span>
+           </a>
+          </li>
+         </ul>
+        </nav>
+       </div>
+      </div>
+     </div>
+     <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc">
+      <div class="md-sidebar__scrollwrap">
+       <div class="md-sidebar__inner">
+        <nav aria-label="Obsah" class="md-nav md-nav--secondary">
+         <label class="md-nav__title" for="__toc">
+          <span class="md-nav__icon md-icon">
+          </span>
+          Obsah
+         </label>
+         <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix="">
+          <li class="md-nav__item">
+           <a class="md-nav__link" href="#delenie-pocitacov">
+            <span class="md-ellipsis">
+             Delenie počítačov
+            </span>
+           </a>
+          </li>
+          <li class="md-nav__item">
+           <a class="md-nav__link" href="#parametre-pocitacov">
+            <span class="md-ellipsis">
+             Parametre počítačov
+            </span>
+           </a>
+           <nav aria-label="Parametre počítačov" class="md-nav">
+            <ul class="md-nav__list">
+             <li class="md-nav__item">
+              <a class="md-nav__link" href="#vykonnost">
+               <span class="md-ellipsis">
+                Výkonnosť
+               </span>
+              </a>
+             </li>
+             <li class="md-nav__item">
+              <a class="md-nav__link" href="#priepustnost">
+               <span class="md-ellipsis">
+                Priepustnosť
+               </span>
+              </a>
+             </li>
+             <li class="md-nav__item">
+              <a class="md-nav__link" href="#subor-instrukcii-procesora">
+               <span class="md-ellipsis">
+                Súbor inštrukcií procesora
+               </span>
+              </a>
+             </li>
+             <li class="md-nav__item">
+              <a class="md-nav__link" href="#pamatova-kapacita">
+               <span class="md-ellipsis">
+                Pamäťová kapacita
+               </span>
+              </a>
+             </li>
+             <li class="md-nav__item">
+              <a class="md-nav__link" href="#dlzka-slova">
+               <span class="md-ellipsis">
+                Dĺžka slova
+               </span>
+              </a>
+             </li>
+             <li class="md-nav__item">
+              <a class="md-nav__link" href="#vybavovaci-cas-pamate">
+               <span class="md-ellipsis">
+                Vybavovací čas pamäte
+               </span>
+              </a>
+             </li>
+             <li class="md-nav__item">
+              <a class="md-nav__link" href="#cas-cyklu">
+               <span class="md-ellipsis">
+                Čas cyklu
+               </span>
+              </a>
+             </li>
+             <li class="md-nav__item">
+              <a class="md-nav__link" href="#sirka-toku-udajov">
+               <span class="md-ellipsis">
+                Šírka toku údajov
+               </span>
+              </a>
+             </li>
+             <li class="md-nav__item">
+              <a class="md-nav__link" href="#frekvencia-casovaca">
+               <span class="md-ellipsis">
+                Frekvencia časovača
+               </span>
+              </a>
+             </li>
+             <li class="md-nav__item">
+              <a class="md-nav__link" href="#spolahlivost">
+               <span class="md-ellipsis">
+                Spoľahlivosť
+               </span>
+              </a>
+             </li>
+             <li class="md-nav__item">
+              <a class="md-nav__link" href="#kompatibilita">
+               <span class="md-ellipsis">
+                Kompatibilita
+               </span>
+              </a>
+             </li>
+             <li class="md-nav__item">
+              <a class="md-nav__link" href="#stavebnicovost">
+               <span class="md-ellipsis">
+                Stavebnicovosť
+               </span>
+              </a>
+             </li>
+             <li class="md-nav__item">
+              <a class="md-nav__link" href="#casova-dostupnost">
+               <span class="md-ellipsis">
+                Časová dostupnosť
+               </span>
+              </a>
+             </li>
+             <li class="md-nav__item">
+              <a class="md-nav__link" href="#naroky-na-obsluhu">
+               <span class="md-ellipsis">
+                Nároky na obsluhu
+               </span>
+              </a>
+             </li>
+             <li class="md-nav__item">
+              <a class="md-nav__link" href="#ekonomicka-narocnost">
+               <span class="md-ellipsis">
+                Ekonomická náročnosť
+               </span>
+              </a>
+             </li>
+            </ul>
+           </nav>
+          </li>
+         </ul>
+        </nav>
+       </div>
+      </div>
+     </div>
+     <div class="md-content" data-md-component="content">
+      <article class="md-content__inner md-typeset">
+       <h1>
+        Klasifikácia PC
+       </h1>
+       <p>
+        <strong>
+         Počítač
+        </strong>
+        (PC) je stroj, ktorý môže riešiť najrozličnejšie druhy problémov s ľubovoľným množstvom údajov (číselných, abecedných, grafických, analógových z výrobného procesu atď.), ale iba vtedy, ak človek najprv analyzuje problém, ktorý treba riešiť, pripraví a presne oznámi počítaču formou, ktorej rozumie, čo má robiť a kedy to má urobiť. Počítač potom veľmi presne a rýchlo vykoná postupnosť požadovaných činností s dodanými údajmi a napokon dodá vypočítané výsledky.
+       </p>
+       <p>
+        Z toho vyplýva
+        <strong>
+         definícia počítača ako stroja, ktorý môže automaticky spracúvať údaje podľa zadaného programu
+        </strong>
+        .
+       </p>
+       <p>
+        Doteraz nebol vyvinutý počítač, ktorý by vedel myslieť - to je zatiaľ možné len v literatúre alebo filmoch kategórie sci-fi. Hlavným prínosom dnešných počítačov je skutočnosť, že dokážu
+        <strong>
+         bezchybne a rýchle spracovávať obrovské objemy údajov
+        </strong>
+        a
+        <strong>
+         zbavujú tak človeka neustále opakovaných a rutinných úkonov
+        </strong>
+        . Ľudský mozog sa ľahko unaví, počítač nie.
+       </p>
+       <h2 id="delenie-pocitacov">
+        Delenie počítačov
+       </h2>
+       <p>
+        Počítače môžeme deliť a klasifikovať podľa rôznych kritérií, napr.:
+       </p>
+       <ul>
+        <li>
+         podľa spôsobu zobrazenia spracúvania údajov na:
+         <ul>
+          <li>
+           analógové počítače,
+          </li>
+          <li>
+           číslicové počítače,
+          </li>
+          <li>
+           hybridné počítače.
+          </li>
+         </ul>
+        </li>
+        <li>
+         podľa spôsobu použitia na:
+         <ul>
+          <li>
+           univerzálne počítače,
+          </li>
+          <li>
+           špecializované počítače.
+          </li>
+         </ul>
+        </li>
+        <li>
+         podľa režimu spracovania údajov na:
+         <ul>
+          <li>
+           počítače pracujúce v dávkovom režime,
+          </li>
+          <li>
+           počítače pracujúce v interaktívnom režime.
+          </li>
+         </ul>
+        </li>
+        <li>
+         podľa ceny a (alebo) výkonnosti na:
+         <ul>
+          <li>
+           osobné počítače,
+          </li>
+          <li>
+           strediskové počítače,
+          </li>
+          <li>
+           superpočítače.
+          </li>
+         </ul>
+        </li>
+        <li>
+         podľa rozsahu súboru inštrukcií procesora na:
+         <ul>
+          <li>
+           počítače s úplným súborom inštrukcií procesora,
+          </li>
+          <li>
+           počítače s redukovaným súborom inštrukcií procesora.
+          </li>
+         </ul>
+        </li>
+        <li>
+         podľa počtu inštrukcií potrebných na spracovanie veľkých polí operandov na:
+         <ul>
+          <li>
+           skalárne počítače,
+          </li>
+          <li>
+           vektorové počítače.
+          </li>
+         </ul>
+        </li>
+       </ul>
+       <h2 id="parametre-pocitacov">
+        Parametre počítačov
+       </h2>
+       <p>
+        Úroveň počítačov možno charakterizovať ich technickými parametrami a funkčnými možnosťami. Medzi najdôležitejšie parametre počítačov, ktoré ovplyvňujú ich výkonnosť patria:
+       </p>
+       <ul>
+        <li>
+         výkonnosť (rýchlosť) počítača,
+        </li>
+        <li>
+         frekvencia časovača,
+        </li>
+        <li>
+         priepustnosť počítača,
+        </li>
+        <li>
+         spoľahlivosť,
+        </li>
+        <li>
+         súbor inštrukcií,
+        </li>
+        <li>
+         kompatibilita,
+        </li>
+        <li>
+         pamäťová kapacita,
+        </li>
+        <li>
+         stavebnicovosť (modulovosť),
+        </li>
+        <li>
+         vybavovací čas pamäte,
+        </li>
+        <li>
+         časová dostupnosť,
+        </li>
+        <li>
+         čas cyklu,
+        </li>
+        <li>
+         nároky na obsluhu,
+        </li>
+        <li>
+         šírka toku údajov,
+        </li>
+        <li>
+         ekonomická náročnosť
+        </li>
+       </ul>
+       <h3 id="vykonnost">
+        Výkonnosť
+       </h3>
+       <p>
+        <strong>
+         Výkonnosť
+        </strong>
+        (operačná rýchlosť) vyjadruje počet porovnateľných operácií, ktorý je určitý technický prostriedok schopný vykonať za jednotku času. Výkonnosť počítača (computer performance) vyjadruje rýchlosť jeho základnej jednotky pri vykonaní inštrukčného mixu.
+       </p>
+       <p>
+        Inštrukčný mix je postupnosť typických inštrukcií, ktorým sú priradené váhy podľa početnosti ich použitia v programoch pre vedecko-technické výpočty, alebo
+v programoch pre spracovanie údajov z oblasti riadenia a správy.
+       </p>
+       <p>
+        Výkonnosť počítača sa meria v tisícoch
+        <strong>
+         operácií za sekundu
+        </strong>
+        (Kops), alebo v miliónoch operácií za sekundu (Mops) a čoraz viac aj v počte operácií s pohyblivou rádovou čiarkou za sekundu (Flops = floating point operations per second). V súvislosti so znalostnými počítačmi 5. generácie bude dôležitý
+        <strong>
+         počet logických inferencií za sekundu
+        </strong>
+        (tzv. Lips = logical inferences per second). Používajú sa jednotky:
+       </p>
+       <ul>
+        <li>
+         <strong>
+          Mflops
+         </strong>
+         (M = mega =
+         <span class="arithmatex">
+          \(10^6\)
+         </span>
+         ) -
+         <span class="arithmatex">
+          \(10^6\)
+         </span>
+         operácií s pohyblivou rádovou čiarkou za sekundu,
+        </li>
+        <li>
+         <p>
+          <strong>
+           Gflops
+          </strong>
+          (G = giga =
+          <span class="arithmatex">
+           \(10^9\)
+          </span>
+          ) -
+          <span class="arithmatex">
+           \(10^9\)
+          </span>
+          operácií s pohyblivou rádovou čiarkou za sekundu
+         </p>
+        </li>
+        <li>
+         <p>
+          <strong>
+           MLips
+          </strong>
+          -
+          <span class="arithmatex">
+           \(10^6\)
+          </span>
+          logických inferencií (logických operácií vyvodzovania) za sekundu,
+         </p>
+        </li>
+        <li>
+         <strong>
+          Glips
+         </strong>
+         -
+         <span class="arithmatex">
+          \(10^9\)
+         </span>
+         logických inferencií za sekundu.
+        </li>
+       </ul>
+       <h3 id="priepustnost">
+        Priepustnosť
+       </h3>
+       <p>
+        <strong>
+         Priepustnosť počítača
+        </strong>
+        (throughput time) vyjadruje výkonnosť počítača v širšom slova zmysle, na ktorú vplývajú všetky zložky programového systému (základná jednotka, periférne zariadenie, operačný systém a aplikačné programy).
+       </p>
+       <p>
+        Vyjadruje sa počtom spracovaných prác za jednotku času v dávkovom režime spracovania údajov (ang. Job = práca) a časom odozvy (response time), t.j. reakciou počítačového systému na vloženie údajov používateľom a požiadavky na ich spracovanie v interaktívnom režime spracovania údajov.
+       </p>
+       <h3 id="subor-instrukcii-procesora">
+        Súbor inštrukcií procesora
+       </h3>
+       <p>
+        <strong>
+         Súbor inštrukcií procesora
+        </strong>
+        (processor instruction set) predstavuje počet a druhy strojových inštrukcií, ktoré sa vykonávajú v procesore pod mikroprogramových riadení. Charakterizuje funkčné možnosti procesora. (
+        <strong>
+         RISC
+        </strong>
+        a
+        <strong>
+         CISC
+        </strong>
+        ).
+       </p>
+       <h3 id="pamatova-kapacita">
+        Pamäťová kapacita
+       </h3>
+       <p>
+        <strong>
+         Pamäťová kapacita
+        </strong>
+        (memory capacity, storage capacity, memory size) je počet pamäťových jednotiek,
+ktoré možno zaznamenať na príslušný druh pamäte, príp. nosič údajov. Podľa druhu pamäte sa udáva v bitoch,
+bytoch, alebo slovách.
+       </p>
+       <ul>
+        <li>
+         <strong>
+          Bit
+         </strong>
+         (binary digit - dvojková číslica, čítaj „bit”) umožňuje záznam binárnej jednotky alebo nuly.
+         <strong>
+          Bit je najmenšia informačná jednotka
+         </strong>
+         . Používa sa kilobit (kb) =
+         <span class="arithmatex">
+          \(10^3\)
+         </span>
+         b.
+        </li>
+        <li>
+         <strong>
+          Byte
+         </strong>
+         (B - čítaj „bajt”) je súvislá postupnosť najčastejšie 8 bitov, ktorá slúži na zobrazenie jedného znaku pri spracovávaní údajov. Ide o pamäťovú jednotku v počítačoch s bytovou štruktúrou pamäte. 8 bitov umožňuje znázorniť 256 znakov. Byte je najmenšia adresovateľná jednotka. Používa sa:
+         <ul>
+          <li>
+           <strong>
+            1 kibibyte
+           </strong>
+           (KB =
+           <span class="arithmatex">
+            \(2^10\)
+           </span>
+           B = 1024 B),
+          </li>
+          <li>
+           <strong>
+            1 mebibyte
+           </strong>
+           (MB =
+           <span class="arithmatex">
+            \(2^20\)
+           </span>
+           B = 1048576 B),
+          </li>
+          <li>
+           <strong>
+            1 gibibyte
+           </strong>
+           (GB =
+           <span class="arithmatex">
+            \(2^30\)
+           </span>
+           B = 1073741824 B),
+          </li>
+          <li>
+           <strong>
+            1 tebibyte
+           </strong>
+           (TB =
+           <span class="arithmatex">
+            \(2^40\)
+           </span>
+           B = 1099511627776 B).
+          </li>
+         </ul>
+        </li>
+       </ul>
+       <h3 id="dlzka-slova">
+        Dĺžka slova
+       </h3>
+       <p>
+        <strong>
+         Dĺžku slova
+        </strong>
+        (word size) udáva počet jeho bitov. Slúži ako pamäťová jednotka v počítačoch so slovnou štruktúrou pamäte. Podľa typu počítača môže zahŕňať 8, 16, 32, 64, 128, prípadne viac bitov.
+       </p>
+       <h3 id="vybavovaci-cas-pamate">
+        Vybavovací čas pamäte
+       </h3>
+       <p>
+        <strong>
+         Vybavovací čas pamäte
+        </strong>
+        (access time) je čas od zadania príkazu na čítanie údajov z pamäte až po okamih ich sprístupnenia pre ďalšie operácie. Pre niektoré druhy pamätí (napr. hlavná pamäť) je konštantný, pre iné (napr. vonkajšie pamäte) je premenlivý. Pri hlavných pamätiach sa vyjadruje v mikrosekundách (μs =
+        <span class="arithmatex">
+         \(10^{-6}\)
+        </span>
+        s) a nanosekundách (ns =
+        <span class="arithmatex">
+         \(10^{-9}\)
+        </span>
+        s), pri vonkajších pamätiach v sekundách, alebo milisekundách (ms =
+        <span class="arithmatex">
+         \(10{-3}\)
+        </span>
+        s).
+       </p>
+       <h3 id="cas-cyklu">
+        Čas cyklu
+       </h3>
+       <p>
+        <strong>
+         Čas cyklu
+        </strong>
+        (cycle time) je najkratší možný čas medzi začiatkom dvoch po sebe nasledujúcich zápisov údajov do pamäte alebo výberom údajov z pamäte. Týka sa hlavnej pamäte a vyjadruje sa podobne ako vybavovací čas.
+       </p>
+       <h3 id="sirka-toku-udajov">
+        Šírka toku údajov
+       </h3>
+       <p>
+        <strong>
+         Šírka toku údajov
+        </strong>
+        vyjadruje počet súčasne prenášajúcich bitov po vnútorných prenosových cestách procesora. Môže mať 8, 16, 32, 64, alebo 128 bitov.
+        <strong>
+         Charakterizuje výkonnosť procesora
+        </strong>
+        .
+       </p>
+       <h3 id="frekvencia-casovaca">
+        Frekvencia časovača
+       </h3>
+       <p>
+        <strong>
+         Frekvencia časovača
+        </strong>
+        (timer freguency) je frekvencia zmien obsahu registra používaného na meranie času v počítači - časovača. Vyjadruje sa v megahertzoch (MHz =
+        <span class="arithmatex">
+         \(10^6\)
+        </span>
+        Hz).
+        <strong>
+         Charakterizuje rýchlosť procesora
+        </strong>
+        .
+       </p>
+       <h3 id="spolahlivost">
+        Spoľahlivosť
+       </h3>
+       <p>
+        <strong>
+         Spoľahlivosť
+        </strong>
+        (reliability) vyjadruje schopnosť počítačového systému vykonávať svoje funkcie s definovanou pravdepodobnosťou. Ako miera spoľahlivosti sa používa priemerný čas medzi výskytom poruchy (Mean Time Between Failure), ktorý sa udáva v hodinách. Spoľahlivosť technických prostriedkov ovplyvňuje ich poruchovosť a kvalita technického servisu pri potrebných opravách.
+       </p>
+       <h3 id="kompatibilita">
+        Kompatibilita
+       </h3>
+       <p>
+        <strong>
+         Kompatibilita
+        </strong>
+        (compatibility) je schopnosť počítačového systému spolupracovať s inými počítačovými systémami bez prispôsobenia a zmien. Kompatibilita môže byť technická (možnosť kombinovať navzájom rôzne počítačové systémy a ich funkčné jednotky) alebo programová (možnosť použiť programy v inom operačnom prostredí bez zmien, jej osobitným druhom je kompatibilita programovacích jazykov).
+       </p>
+       <h3 id="stavebnicovost">
+        Stavebnicovosť
+       </h3>
+       <p>
+        <strong>
+         Stavebnicovosť
+        </strong>
+        (modulovosť - modularity) je možnosť rozširovať, dopĺňať a zamieňať rôzne technické prostriedky počítača alebo časti programového vybavenie bez náročných úprav.
+       </p>
+       <h3 id="casova-dostupnost">
+        Časová dostupnosť
+       </h3>
+       <p>
+        <strong>
+         Časová dostupnosť
+        </strong>
+        (availability) je možnosť prístupu používateľa k technickým prostriedkom. Možno ju vyjadriť časom, ktorý uplynie od vzniku požiadavky na využitie určitého technického prostriedku do okamihu, keď tento prostriedok začal plniť požadovanú funkciu. Rieši sa viacerými spôsobmi:
+       </p>
+       <ul>
+        <li>
+         miniaturizáciou prostriedkov (čo vedie k znižovaniu cien týchto prostriedkov, nárokov na priestory, dopravu, energetickú náročnosť a ovládateľnosť),
+        </li>
+        <li>
+         individualizáciou prostriedkov (prostriedok je určený iba jednému používateľovi alebo ich úzkemu okruhu),
+        </li>
+        <li>
+         sprístupnením a súčasným využívaním strediskových počítačov pomocou komunikačných prostriedkov pre široký okruh používateľov.
+        </li>
+       </ul>
+       <h3 id="naroky-na-obsluhu">
+        Nároky na obsluhu
+       </h3>
+       <p>
+        <strong>
+         Nároky na obsluhu
+        </strong>
+        sú časové požiadavky na prípravu používateľa, nároky na kvalifikáciu pre prácu s daným počítačovým systémom.
+       </p>
+       <h3 id="ekonomicka-narocnost">
+        Ekonomická náročnosť
+       </h3>
+       <p>
+        <strong>
+         Ekonomická náročnosť
+        </strong>
+        zahŕňa náklady na obstaranie a prevádzku počítačového systému alebo jeho zložky. Medzi tieto nákladové položky patria:
+       </p>
+       <ul>
+        <li>
+         náklady na obstaranie počítačového systému,
+        </li>
+        <li>
+         náklady na údržbu a opravy počítačového systému,
+        </li>
+        <li>
+         náklady na prípravu používateľa a obsluhy,
+        </li>
+        <li>
+         ostatné prevádzkové náklady.
+        </li>
+       </ul>
+      </article>
+     </div>
+     <script>
+      var tabs=__md_get("__tabs");if(Array.isArray(tabs))e:for(var set of document.querySelectorAll(".tabbed-set")){var tab,labels=set.querySelector(".tabbed-labels");for(tab of tabs)for(var label of labels.getElementsByTagName("label"))if(label.innerText.trim()===tab){var input=document.getElementById(label.htmlFor);input.checked=!0;continue e}}
+     </script>
+     <script>
+      var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))
+     </script>
+    </div>
+    <button class="md-top md-icon" data-md-component="top" hidden="" type="button">
+     <svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+      <path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8v12Z">
+      </path>
+     </svg>
+     Na začiatok
+    </button>
+   </main>
+   <footer class="md-footer">
+    <nav aria-label="Pätka" class="md-footer__inner md-grid">
+     <a aria-label="Späť: Digitalizácia zvuku" class="md-footer__link md-footer__link--prev" href="../../digitalizacia/zvuk/">
+      <div class="md-footer__button md-icon">
+       <svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+        <path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z">
+        </path>
+       </svg>
+      </div>
+      <div class="md-footer__title">
+       <span class="md-footer__direction">
+        Späť
+       </span>
+       <div class="md-ellipsis">
+        Digitalizácia zvuku
+       </div>
+      </div>
+     </a>
+     <a aria-label="Ďalej: Koncepcia počítača von Neumannovho typu" class="md-footer__link md-footer__link--next" href="../von-neumann/">
+      <div class="md-footer__title">
+       <span class="md-footer__direction">
+        Ďalej
+       </span>
+       <div class="md-ellipsis">
+        Koncepcia počítača von Neumannovho typu
+       </div>
+      </div>
+      <div class="md-footer__button md-icon">
+       <svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+        <path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4Z">
+        </path>
+       </svg>
+      </div>
+     </a>
+    </nav>
+    <div class="md-footer-meta md-typeset">
+     <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+       <div class="md-copyright__highlight">
+        © 2024 Miroslav Hájek
+       </div>
+       Made with
+       <a href="https://squidfunk.github.io/mkdocs-material/" rel="noopener" target="_blank">
+        Material for MkDocs
+       </a>
+      </div>
+     </div>
+    </div>
+   </footer>
+  </div>
+  <div class="md-dialog" data-md-component="dialog">
+   <div class="md-dialog__inner md-typeset">
+   </div>
+  </div>
+  <div class="md-progress" data-md-component="progress" role="progressbar">
+  </div>
+  <script id="__config" type="application/json">
+   {"base": "../../..", "features": ["navigation.tabs", "navigation.sections", "navigation.top", "search.suggest", "search.highlight", "content.tabs.link", "content.code.annotation", "content.code.copy", "navigation.footer", "navigation.tracking", "navigation.indexes", "navigation.instant", "navigation.instant.progress", "search.share", "content.action.edit", "content.action.view", "toc.follow"], "search": "../../../assets/javascripts/workers/search.b8dbb3d2.min.js", "translations": {"clipboard.copied": "Skop\u00edrovan\u00e9 do schr\u00e1nky", "clipboard.copy": "Kop\u00edrova\u0165 do schr\u00e1nky", "search.result.more.one": "1 \u010fal\u0161\u00ed na tejto str\u00e1nke", "search.result.more.other": "# \u010fal\u0161\u00edch na tejto str\u00e1nke", "search.result.none": "\u017diadne vyhovuj\u00face dokumenty", "search.result.one": "Vyhovuj\u00faci dokument: 1", "search.result.other": "Vyhovuj\u00face dokumenty: #", "search.result.placeholder": "Pre vyh\u013ead\u00e1vanie za\u010dni p\u00edsa\u0165", "search.result.term.missing": "Ch\u00fdbaj\u00faci", "select.version": "Vyberte verziu"}}
+  </script>
+  <script src="../../../assets/javascripts/bundle.fe8b6f2b.min.js">
+  </script>
+  <script src="../../../javascripts/katex.js">
+  </script>
+  <script src="https://unpkg.com/katex@0/dist/katex.min.js">
+  </script>
+  <script src="https://unpkg.com/katex@0/dist/contrib/auto-render.min.js">
+  </script>
+ </body>
+</html>
