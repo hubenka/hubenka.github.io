@@ -14,5 +14,5 @@ publish: true
     - Prezentácia - Kvíz s hypertextom
     - Projekt - Excel
     - Písomka - programovanie (premenné a výpočet)
-    - Samostatná práca - dobrovoľné úlohy z učebnice (aspoň 1 povinná)
+    - Samostatná práca - dobrovoľné úlohy z učebnice (aspoň 2 povinné)
     - Projekt - kreslenie scenérie

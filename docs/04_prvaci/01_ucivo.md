@@ -7,19 +7,19 @@ publish: true
 ## Reprezentácie a nástroje, Softvér a hardvér (12 h)
 
 - **Základné pojmy**
-    - chápe základné pojmy v informatike, napr. informácia, súbor
-    - pozná jednotky informácie
+    - základné pojmy v informatike
+    - jednotky informácie
 - **Časti počítača a ich parametre**
     - bloková schéma
     - generácie počítačov
-    - vie popísať princíp fungovania počítača
-    - rozumie parametrom počítačovej zostavy
+    - princíp fungovania počítača
+    - parametre počítačovej zostavy
     - výber vstupných a výstupných zariadení k počítaču doma a v škole
 - **Binárny kód**
-    - chápe rozdiel medzi šifrou a kódom a použite dvojkovej číselnej sústavy
-    - prevedie číslo do 2 a 16. číselnej sústavy
+    - rozdiel medzi šifrou a kódom a použite dvojkovej číselnej sústavy
+    - prevod čísla do 2 a 16. číselnej sústavy
 - **Digitalizácia znakov, obrazu, zvuku**
-    - vie digitalizovať bežné vstupné údaje
+    - digitalizácia bežných vstupných údajov
 
 ## Reprezentácie a nástroje (20 h)
 
@@ -35,7 +35,7 @@ publish: true
     - formátovať bunky - symboly, mena, zarovnanie, úprava desatinných miest
     - hárky
     - vie použiť preddefinované vzorce
-    - vytvoriť vlastný vzorec
+    - vlastný vzorec
     - vytvorenie nákupného zoznamu
     - sporenie a termínované vklady – výpočet úrokov, výpočet dĺžky sporenia
     - čitateľnosť grafov a tabuliek
@@ -45,31 +45,32 @@ publish: true
 ## Informačná spoločnosť (2 h)
 
 - **Bezpečnosť na internete**
-    - chápe nebezpečnosť a riziká používania internetu
-    - rozumie dodržiavaniu autorských práv programov
-    - licenciách programov
+    - riziká používania internetu
+    - dodržiavanie autorských práv programov
+    - licencie programov
 - **Dodržiavanie autorských práv programov**
-    - vyhľadanie a inštalácia voľných programov na vytvorenie, vyhľadanie, sťahovanie a  úpravu zvukových súborov
+    - vyhľadanie a inštalácia voľných programov na vytvorenie, vyhľadanie, sťahovanie a úpravu zvukových súborov
 
 ## Algoritmické riešenie problémov (32 h)
 
 - **Algoritmy a programovanie**
 - **Analýza zadania**
-    - Vedieť analyzovať problém.
-    - Navrhnúť algoritmus riešenia  problému,
-    - Zapísať algoritmus v zrozumiteľnej formálnej podobe.
+    - analýza problému
+    - návrh algoritmu riešenia problému
+    - zápis algoritmu v zrozumiteľnej formálnej podobe
 - **Výber vstupných údajov**
-    - Vedieť určiť potrebné vstupy a výstupy pre  zadaný problém.
+    - určenie potrebné vstupy a výstupy pre zadaný problém.
 - **Tvorba algoritmu**
-    - Overiť správnosť algoritmu.
-    - Rozpoznať a odstrániť syntaktické chyby,
-    - Opraviť chyby vzniknuté počas behu programu,
-    - Identifikovať miesta programu, na ktorých môže dôjsť chybám počas behu programu
-    - Dodržiavať zásady čitateľného zápisu algoritmov.
-    - Riešiť problémy pomocou algoritmov, vedieť ich zapísať, hľadať a opravovať chyby.
+    - overenie správnosti algoritmu.
+    - rozpoznanie odstránenie syntaktických chýb,
+    - opravenie chýb vzniknutých počas behu programu,
+    - identifikácia miest programu, na ktorých môže dôjsť chybám počas behu programu
+    - dodržiavanaie zásad čitateľného zápisu algoritmov
+    - riešenie problémov pomocou algoritmov, vedieť ich zapísať, hľadať a opravovať chyby.
 - **Programovacie prostredie Python**
-    - Vie použiť podmieňovacie príkazy, príkazy cyklu, vie pracovať s textovým súborom (čítanie a zápis).
-    - Ovláda funkciu časovača a prácu s tlačidlami myši.
-    - Vie pracovať v grafickom režime
+    - Použitie podmieňovacích príkazov, príkazov cyklu
+    - operácie s textovým súborom (čítanie a zápis)
+    - funkcia časovača a prácu s tlačidlami myši
+    - práca v grafickom režime
 	
 		
