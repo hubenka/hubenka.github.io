@@ -35,7 +35,7 @@ Seminár z informatiky pre 3. ročník SŠ (Septima, III.A, IV.BA) kladie dôraz
 
 
 ## 4. ročník
-Seminár z informatiky pre 4. ročník SŠ (Oktáva, IV.A, V.BA) je zameraný najmä na prípravu žiakov na maturitnú skúšku a vysokoškolské štúdium STEM predmetov. Nosnou činnosťou je samostaná práca v Problémovom vyučovaní a logická argumentácia faktov pri ich prezentovaní. Predmet rekapituluje tématické celky z predošlých ročníkoch v nových súvislostiach. Žiaci spoznajú širší spoločenský kontext informatiky a presahy do rozličných odvetví ľudského pôsobenia.
+Seminár z informatiky pre 4. ročník SŠ (Oktáva, IV.A, V.BA) je zameraný najmä na prípravu žiakov na maturitnú skúšku a vysokoškolské štúdium STEM predmetov. Nosnou činnosťou je samostaná práca v problémovom vyučovaní a logická argumentácia faktov pri ich prezentovaní. Predmet rekapituluje tématické celky z predošlých ročníkoch v nových súvislostiach. Žiaci spoznajú širší spoločenský kontext informatiky a presahy do rozličných odvetví ľudského pôsobenia.
 
 
 Na seminári sú počas každého z polrokov dominantné odlišné zamerania:
@@ -52,8 +52,8 @@ Na seminári sú počas každého z polrokov dominantné odlišné zamerania:
 - Odlišné úlohy pre žiaov maturujúcich a nematurujúcich z informatiky:
 - **Maturanti** sa zamieravajú na programovanie a sú priebežne testovaný z maturitných okruhov a typových úloh z programovania
     - Desaťminutovka – digitalizácia údajov *(výpočet príkladov)*
-    - 1. písomka z programovania – premenné, podmienky, cykly *(open-book exam)*
-    - 2. písomka z programovania – zoznamy, reťazce, súbory *(bazilisčí alebo trojstupňový test)*
+    - 1.písomka z programovania – premenné, podmienky, cykly *(open-book exam)*
+    - 2.písomka z programovania – zoznamy, reťazce, súbory *(bazilisčí alebo trojstupňový test)*
     - Ústna odpoveď z maturitných okruhov
     - Minutová prezentácia textu z 1. polroka
 - **Nematuranti** vypracujú projekt zameraný na dátovú analýzu otvorených dát v tabuľkovom editore a výsledky prezentujú na slajdoch

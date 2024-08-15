@@ -1,20 +1,27 @@
 ---
 title: Úvod
-slug: uvod
 slug: .
 publish: true 
 ---
 
 # Vitajte na stránke Informatiky
 
-Pripravujeme na školský rok 2024/2025 ...
+- Stránka školy: [Gymnázium, Hubeného 23](https://ghubeneho.edupage.org/)
+- Školský rok: 2024/2025
+- Učiteľ: [Ing. Miroslav Hájek](ucitel/)
 
-Stránka školy: [Gymnázium, Hubeného 23](https://ghubeneho.edupage.org/)
+## V akom si ročníku?
+- [1.ročník SŠ (Kvinta / I.A)](1-rocnik/ucivo/)
+- [2.ročník SŠ (Sexta / II.A)](2-rocnik/ucivo/)
+- [3.ročník SŠ (Septima / III.A)](3-rocnik/ucivo/)
+- [Seminár z Informatiky](seminar/ucivo/)
+
 
 ## Učebnice
-1. [AbcPython](https://abcpython.input.sk/)
-2. [Programujeme v Pythone](http://www.programujemevpythone.sk/)
-3. [Python](https://python.input.sk/)
-4. [Python tutoriál](https://people.ksp.sk/~ajo/osp/python_tutorial.pdf)
-5. [Kuchárka KSP](https://www.ksp.sk/kucharka/)
-6. [Príručka digitálnej bezpečnosti](https://bezpecnenanete.eset.com/sk/materialy-pre-ucitelov-na-stiahnutie/)
+- [Zbierka úloh z programovania](programovanie/zbierka-uloh/premenne/uvod/)
+- [Učebné texty z informatiky](ucebnica/informatika-ako-veda/zakladne-pojmy/)
+- [abcPython - Pracovné listy pre Python](https://abcpython.input.sk/)
+- [Python úlohy](https://python2016-sphinx.readthedocs.io)
+- [Kuchárka KSP](https://www.ksp.sk/kucharka/)
+- [(Ne)bezepečne v sieti](https://myslim.eu/wp-content/uploads/2021/10/Nebezpecne-v-sieti.pdf)
+- [Príručka digitálnej bezpečnosti](https://bezpecnenanete.eset.com/sk/wp-content/uploads/2021/10/Prirucka-digitalnej-bezpecnosti-pre-ucitelov.pdf)
