@@ -8,7 +8,7 @@ publish: true
 
 - Napíšte cez Edupage (pre žiakov a rodičov)
 - Email: hajek@ghubba.sk (externe)
-- Konzultačné hodiny: ? (dohodou vopred)
+- Konzultačné hodiny: Pondelok, 15:00 - 16:00 (dohodou vopred)
 
 
 ## Čo sa učíme?

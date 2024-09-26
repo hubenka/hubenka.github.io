@@ -14,8 +14,11 @@ publish: true
 - [1.ročník SŠ (Kvinta / I.A)](1-rocnik/ucivo/)
 - [2.ročník SŠ (Sexta / II.A)](2-rocnik/ucivo/)
 - [3.ročník SŠ (Septima / III.A)](3-rocnik/ucivo/)
-- [Seminár z Informatiky](seminar/ucivo/)
+- [Seminár z Informatiky (3. ročník SŠ)](seminar/3-rocnik/)
+- [Seminár z Informatiky (4. ročník SŠ)](seminar/4-rocnik/)
 
+## Úlohy
+- [Klikni sem](https://drive.google.com/drive/folders/1o_mDATlKcuHqpf8s7bfoi-0bzChwsr-6?usp=drive_link)
 
 ## Učebnice
 - [Zbierka úloh z programovania](programovanie/zbierka-uloh/premenne/uvod/)

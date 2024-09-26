@@ -9,7 +9,7 @@ publish: true
 - Definícia počítačových sietí, história sietí
 - Delenie sietí podľa rozlohy
 - Fyzické topológie, logické topológie
-- Prenosové médiá
+- **[Prenosové médiá](/2-rocnik/prenosove-media)**
 - Vrstvený model ISO/OSI TCP/IP model
 - Základné stavebné prvky siete
 
