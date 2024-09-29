@@ -4,6 +4,12 @@ slug: ucivo
 publish: true 
 ---
 
+## Úlohy
+- [Klikni sem](https://drive.google.com/drive/folders/1o_mDATlKcuHqpf8s7bfoi-0bzChwsr-6?usp=drive_link)
+
+---
+
+
 ## Reprezentácie a nástroje, Softvér a hardvér (12 h)
 
 - **Základné pojmy**

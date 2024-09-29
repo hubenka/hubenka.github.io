@@ -17,9 +17,6 @@ publish: true
 - [Seminár z Informatiky (3. ročník SŠ)](seminar/3-rocnik/)
 - [Seminár z Informatiky (4. ročník SŠ)](seminar/4-rocnik/)
 
-## Úlohy
-- [Klikni sem](https://drive.google.com/drive/folders/1o_mDATlKcuHqpf8s7bfoi-0bzChwsr-6?usp=drive_link)
-
 ## Učebnice
 - [Zbierka úloh z programovania](programovanie/zbierka-uloh/premenne/uvod/)
 - [Učebné texty z informatiky](ucebnica/informatika-ako-veda/zakladne-pojmy/)
