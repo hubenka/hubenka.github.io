@@ -5,7 +5,7 @@ publish: true
 ---
 
 - **1. polrok**
-    - Písomka - počítačové siete
+    - ~~Písomka - počítačové siete~~ Projekt - LAN sieť u nás doma
     - Projekt - profil a príspevky na sociálnej siete Mastodon podľa pokynov + prezentácia
     - Projekt - spolupráca cez kolaboratívne nástroje
     - Úloha - obrana proti falošným správam na sociálnej sieti
