@@ -16,6 +16,8 @@ Seminár z informatiky pre 3. ročník SŠ (Septima, III.A, IV.BA) kladie dôraz
 - Rozsah: 20 vyučovacích hodín
 - **Návod na tvorbu webu:**
     - [HTML jednoduché stránky](/2-rocnik/jazyk-html)
+    - [CSS - úlohy](/seminar/css)
+    - [Fraebné palety](https://coolors.co/)
     - [Prezentácia: Vytváranie webových stránok](http://bilgym5.anabe.sk/HTML%20a%20CSS_for%205.pdf)
     - [Jak Psát Web [CZ]](https://www.jakpsatweb.cz/)
     - [MDN Web Docs [EN]](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started)

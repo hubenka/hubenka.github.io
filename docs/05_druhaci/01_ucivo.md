@@ -8,7 +8,7 @@ publish: true
 
 Zisti ako funguje vaša domáca LAN sieť! :)  Kresbu ponechám na tvojej fantázii, musí však obsahovať nasledujúce:
 
-1. **Zakresli všetky zariadenia v LAN sieti** pripoejné cez akékoľvek prenosové médium. Patria sem hlavne aktívne sieťové prvky, koncové zariadenia ako sú počítače, mobily, televízor a pod.
+1. **Zakresli všetky zariadenia v LAN sieti** pripojené cez akékoľvek prenosové médium. Patria sem hlavne aktívne sieťové prvky, koncové zariadenia ako sú počítače, mobily, televízor a pod.
 2. **Pomenuj zariadenia** v sieti a zapíš ich **IP adresy (IPv4), MAC adresy, informácie o sieťovej karty** zistené podľa MAC adresy (napr. [https://macaddress.io](https://macaddress.io) alebo [https://maclookup.app](https://maclookup.app)).
     - Adresy zariadení nemusia byť priamo vo vašom obrázku, môžu byť napr. v tabuľke veďla. Adresy zistíte buď priamo v zariadení (cez sieťové nastavenia / `ipconfig`) alebo z iného zariadenia skenovaním siete: (v `cmd.exe` cez príkaz: `arp -a`)
 3. Zisti **vlastnosti svojho internetové pripojenia**. Nápoveda aké vlastnosti je potrebné zistiť nájdeš na: [http://porovnavacinternetu.sk](http://porovnavacinternetu.sk), ale minimálne: **poskytovateľ, rýchlosť sťahovania, rýchlosť nahrávania, typ pripojenia**).
