@@ -14,16 +14,23 @@ Seminár z informatiky pre 3. ročník SŠ (Septima, III.A, IV.BA) kladie dôraz
 - **Webová stránka v HTML a CSS**
 - Téma: "Školský časopis sa prezentuje na webe"
 - Rozsah: 20 vyučovacích hodín
-- **Návod na tvorbu webu:**
-    - [HTML jednoduché stránky](/2-rocnik/jazyk-html)
+- **Úlohy:**
     - [CSS - úlohy](/seminar/css)
-    - [Fraebné palety](https://coolors.co/)
-    - [Prezentácia: Vytváranie webových stránok](http://bilgym5.anabe.sk/HTML%20a%20CSS_for%205.pdf)
-    - [Jak Psát Web [CZ]](https://www.jakpsatweb.cz/)
-    - [MDN Web Docs [EN]](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
 - **Školský časopis**
     - [Stránka školy](https://ghubeneho.edupage.org/a/skolsky-casopis-3)
     - [Kompletné podklady (Sharepoint)](https://ghubbask.sharepoint.com/:f:/s/INF-Seminr-3/EvwobVq8HzxFrWi3DFf1jJMBSVKHdBSMcCK_vYfOGt4nZA?e=6hJ1wh)
+- **Návod na tvorbu webu:**
+    - [HTML jednoduché stránky](/2-rocnik/jazyk-html)
+    - [Farebné palety](https://coolors.co/)
+    - [Prezentácia: Vytváranie webových stránok](http://bilgym5.anabe.sk/HTML%20a%20CSS_for%205.pdf)
+    - [Jak Psát Web [CZ]](https://www.jakpsatweb.cz/)
+    - [MDN Web Docs [EN]](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
+- **Programy na tvorbu dizajnu webu**
+    - [Google Draw](https://docs.google.com/drawings/)
+    - [LibreOffice Draw](https://www.libreoffice.org/discover/draw/)
+    - [Inkscape](https://inkscape.org/)
+    - [Figma](https://www.figma.com/)
+    - [PenPot](https://penpot.app/)
 
 
 ---

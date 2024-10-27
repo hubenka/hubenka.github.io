@@ -4,55 +4,56 @@ slug: ucivo
 publish: true 
 ---
 
-## Projekt: Počítačová sieť u nás doma
+## Cvičenie: Prečítaj správy medz počítačmi
 
-Zisti ako funguje vaša domáca LAN sieť! :)  Kresbu ponechám na tvojej fantázii, musí však obsahovať nasledujúce:
+### Návod
 
-1. **Zakresli všetky zariadenia v LAN sieti** pripojené cez akékoľvek prenosové médium. Patria sem hlavne aktívne sieťové prvky, koncové zariadenia ako sú počítače, mobily, televízor a pod.
-2. **Pomenuj zariadenia** v sieti a zapíš ich **IP adresy (IPv4), MAC adresy, informácie o sieťovej karty** zistené podľa MAC adresy (napr. [https://macaddress.io](https://macaddress.io) alebo [https://maclookup.app](https://maclookup.app)).
-    - Adresy zariadení nemusia byť priamo vo vašom obrázku, môžu byť napr. v tabuľke veďla. Adresy zistíte buď priamo v zariadení (cez sieťové nastavenia / `ipconfig`) alebo z iného zariadenia skenovaním siete: (v `cmd.exe` cez príkaz: `arp -a`)
-3. Zisti **vlastnosti svojho internetové pripojenia**. Nápoveda aké vlastnosti je potrebné zistiť nájdeš na: [http://porovnavacinternetu.sk](http://porovnavacinternetu.sk), ale minimálne: **poskytovateľ, rýchlosť sťahovania, rýchlosť nahrávania, typ pripojenia**).
-    - Veľa z vlastností dokážeš priamo zmerať: [https://meracinternetu.sk](https://meracinternetu.sk) alebo [https://www.speedtest.net/](https://www.speedtest.net/)
-4. Zisti a vypíš **cestu z vašej LAN siete cez WAN (internet) k tebou vybranej doméne** (webovej stránke). Použi príkaz `tracert`. Pre viac detailov si môžeš prečítať [popis trasovania cesty](https://cs.wikipedia.org/wiki/Traceroute).
-    - Zapíš aj časy k jednotilivým miestam na trase.
-    - Pre IP adresy po trase zisti aj ich zemepisnú polohu pomocou napr. [https://ipinfo.io/](https://ipinfo.io/)
-4. *(riešiť len v prípade že `tracert` nevypisuje trasu)* Zapíš IP adresy pre aspoň tri rôzne domény. Použi príkaz `nslookup` v `cmd.exe`.
+1. Nainštaluj si program [Wireshark](https://www.wireshark.org/)
 
-Projekt môže byť spracovaný ľubovoľne podľa dohody s učiteľom: na papieri, v počítači, na výkrese.
+2. Odkúšaj si nahrávanie *sieťovej premávky* - to sú všetky správy, ktoré si posielajú počítače medzi sebou. Naprv zatvor všetky nepotrebné programy (karty prehliadača), ktoré môžu posielať nadbytočné správy.
 
-**Bonus:**
+3. Kliknutím na sieťovú kartu sa spustí nahrávanie premávky určenej tvojmu počítaču.
+![Vyber sieťovej karty](/2-rocnik/assets/vyber-rozhranie.png)
 
-Ľubovoľná jedna z úloh je bodovaná:
+4. Spusti program, ktorý sa pripája na internet a chceš ho zaznamenať. Chvíľu potom zastav nahrávanie pomocou červeného štvorčeka
+![Tlačidlá](/2-rocnik/assets/ws-tlacidla.png)
 
-- Umelecký nákres počítačovej siete
-- Podľa masky siete LAN zistite koľko najviac koncových zariadení sa dokáže pripojiť cez tvoj smerovač v LAN.
-- Používate vo vašej lokálnej siete IPv6 adresy? - ak áno zapíšte ich do tabuľky ku zariadeniam
+5. Nájdi správu na ktorú sa pýta úlohu a rozklikni si vrstvy TCP/IP na nájdenie odpovede
 
+6. Spusti nahrávanie znovu pomocou zeleného tlačidla
 
-### Body:
-- Termín: do 28.10.2024
-- Maximum 20 bodov
+### Úlohy
 
-1. 6 b
-2. 6 b
-3. 4 b
-4. 4 b
+1. Aké všetky sieťové protokoly sú použité v HTTP správe pri dopyte na webovú stránku?: [http://example.net](http://example.net)
 
-Bonus
-5. (Bonus) 2 b
+2. Koľko milisekúnd prejde medzi dopytom od tvojho počítača na webovú stránku (z úlohy 1) do prijatia odpovede?
 
+3. Aká je IP adresa tvojho počítača a adresáta z úlohy 1?
 
+4. Čím sa líši dopyt na webovú stránku [https://example.net](https://example.net) od úlohy 1?
 
----
+5. Podľa akého údaju v HTTP správe počítač vie, že sa stránka našla (vyskúšaj: [https://www.raca.sk/](https://www.raca.sk/)) alebo sa nenašla (vyskúšaj: [https://www.raca.sk/stranka](https://www.raca.sk/stranka)). Ako sa líšia tieto dve situácie?
+
+6. Čo všetko vieš zistiť z HTTP správy o počítači, ktorý ti posiela naspäť webovú stránku (o serveri)?
+
+7. Z vrstvy pre Ethernet II z ľubovoľnej predošlej úlohy vypíš MAC adresu susedného uzla v sieti (adresáta).
+
+8. Aké všetky skratky protokolov aplikačnej vrstvy si zachytil v záznamoch sieťovej premávky? Napíš aspoň 5 so stručným vysvetlením ich činnosti (načo sú dobré?)
+
+9. Napíš vymyslené prihlasovacie meno a heslo do toho formulára [http://vbsca.ca/login/login.asp](http://vbsca.ca/login/login.asp). Akými názvami sú v správe označené meno a heslo, dajú sa vôbec odčítať zo správy?
+
+10. (Bonus) Aký sieťový protokol a obsah správy používa `tracert google.sk` na zistenie routerov po ceste?
+
 
 ## Komunikácia a spolupráca (6 h)
 
-- Definícia počítačových sietí, história sietí
-- Delenie sietí podľa rozlohy
-- Fyzické topológie, logické topológie
-- **[Prenosové médiá](/2-rocnik/prenosove-media)**
-- Základné stavebné prvky siete
-- Vrstvený model ISO/OSI TCP/IP model
+- [x] Definícia počítačových sietí, história sietí
+- [x] Delenie sietí podľa rozlohy
+- [x] Fyzické topológie, logické topológie
+- [x] **[Prenosové médiá](/2-rocnik/prenosove-media)**
+- [x] Základné stavebné prvky siete
+- [x] Vrstvený model ISO/OSI TCP/IP model
+- [ ] **[Projekt: Počítačová sieť u nás doma](/2-rocnik/projekt-siet)**
 
 
 ## Komunikácia a spolupráca, Informačná spoločnosť (4 h)
