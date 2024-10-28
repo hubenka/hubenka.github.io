@@ -4,13 +4,13 @@ slug: ucivo
 publish: true 
 ---
 
-## Cvičenie: Prečítaj správy medz počítačmi
+## Cvičenie: Prečítaj správy medzi počítačmi
 
 ### Návod
 
 1. Nainštaluj si program [Wireshark](https://www.wireshark.org/)
 
-2. Odkúšaj si nahrávanie *sieťovej premávky* - to sú všetky správy, ktoré si posielajú počítače medzi sebou. Naprv zatvor všetky nepotrebné programy (karty prehliadača), ktoré môžu posielať nadbytočné správy.
+2. Odskúšaj si nahrávanie *sieťovej premávky* - to sú všetky správy, ktoré si posielajú počítače medzi sebou. Naprv zatvor všetky nepotrebné programy (karty prehliadača), ktoré môžu posielať nadbytočné správy.
 
 3. Kliknutím na sieťovú kartu sa spustí nahrávanie premávky určenej tvojmu počítaču.
 ![Vyber sieťovej karty](/2-rocnik/assets/vyber-rozhranie.png)

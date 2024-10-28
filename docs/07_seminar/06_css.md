@@ -103,18 +103,13 @@ Vytvor si nový HTML dokument. Obsahuje dva HTML elementy `<div>`, každý s rov
         <li>
             <a href="https://hnonline.sk/finweb">Správy</a>
         </li>
-    </ul>
-    <ul>
+
         <li>
             <a href="https://zive.aktuality.sk/ai/">Technológie</a>
         </li>
-    </ul>
-    <ul>
         <li>
             <a href="https://www.bratislavskenoviny.sk/">Mesto</a>
         </li>
-    </ul>
-    <ul>
         <li>
             <a href="https://www.cas.sk/sport/">Šport</a>
         </li>
