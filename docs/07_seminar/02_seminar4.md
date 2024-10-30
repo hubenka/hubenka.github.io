@@ -14,17 +14,9 @@ Seminár z informatiky pre 4. ročník SŠ (Oktáva, IV.A, V.BA) je zameraný na
 - [Učebnica programovania](https://abcpython.input.sk/)
 
 
-### Témy
+### Osobnosti IT
 
-#### 1. Digitalizácia údajov
-Esej príčin a následkov (do 7.10.):
-
-1. Ako je možné, že sa kamera zmestí do vrecka?
-2. Je koniec koncertom a divadlám?
-3. Prečo nemáme verný záznam reality pre všetky zmysly?
-4. Ako technológie sprostredkujú informácie hendikepovaným?
-
-Rozsah textu najmenej 1 A4, veľkosť písma 12pt, riadkovanie 1.5, uvedený názov témy ako nadpis a autor. Obsahovo min. 4 argumenty podľa oblastí ("rebier ryby") z vytvoreného diagramu "rybej kosti"
+- [Popis osobností](/seminar/osobnosti-it/)
 
 
 ### Prehľad
@@ -32,7 +24,7 @@ Na seminári sú počas každého z polrokov dominantné odlišné zamerania:
 #### 1. polrok
 
 - Príprava na teoretické okruhy maturitnej skúšky, prekladané problémovým vyučovaním programovania na typových úlohách. Písanie na teoretické okruhy:
-- **Digitalizácia údajov** - esej príčin a následkov *(úvaha)*
+- **[Digitalizácia údajov](/seminar/temy/)** - esej príčin a následkov *(úvaha)*
 - **Hardvér a softvér** -  odpovede na otázky k filmu *(refrerát)*
 - **Počítačová sieť** – fiktívny interview s odborníkom ako zvuková nahrávka *(interview)*
 - **Počítačová bezpečnosť** - práca s článkom o kybernetickom útoku alebo zraniteľnosti *(tabuľka)*

@@ -1,5 +1,5 @@
 ---
-title: Projekt: Počítačová sieť u nás doma
+title: Projekt - Počítačová sieť u nás doma
 slug: projekt-siet
 publish: true
 ---
