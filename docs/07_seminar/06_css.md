@@ -118,3 +118,99 @@ Vytvor si nový HTML dokument. Obsahuje dva HTML elementy `<div>`, každý s rov
 ```
 6. **Vertikálne menu** - Upravte menu z predošlej úlohy, aby boli odkazy umiestnené naľavo obrazovky a pod sebou.
 
+## Kapitola č.3 - Workshop DOM (Document Object Model) a Javascript
+
+Predloha pre stránku, do ktorej pridáme úpravu textu a ponechanie zmeneného textu po obnovení stránky
+
+```html
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Redakčný systém časopisu</title>
+        <meta charset="utf-8" />
+        <style>
+            body {
+                display: flex;
+                flex-direction: row;
+                justify-content: center;
+                align-items: center;
+                font-family: 'Open Sans', 'Arial', 'sans';
+                font-size: 12pt;
+                background-color: lightblue;
+            }
+
+            main {
+                width: 60%;
+                margin-top: 4rem;
+                background-color: white;
+                padding: 4rem 6rem;
+                border-radius: 10px;
+            }
+
+            h1 {
+                text-align: center;
+                margin-bottom: 3rem;
+            }
+
+            p {
+                text-align: justify;
+                line-height: 2;
+            }
+
+            #ponuka {
+                display: flex;
+                flex-direction: row;
+                justify-content: right;
+            }
+
+            button {
+                border: 1px solid gray;
+                background-color: lightgreen;
+                width: 8rem;
+                padding: 1rem;
+                cursor: pointer;
+                font-weight: bold;
+            }
+
+            input {
+                display: block;
+                width: 100%;
+                margin-top: 1rem;
+                margin-bottom: 1rem;
+                padding: 0.5rem;
+                box-sizing: border-box;
+                font-family: 'Open Sans', 'Arial', 'sans';
+                font-size: 12pt;
+            }
+
+            textarea {
+                width: 100%;
+                height: 20rem;
+                padding: 0.5rem;
+                box-sizing: border-box;
+                font-family: 'Open Sans', 'Arial', 'sans';
+                font-size: 12pt;
+            }
+        </style>
+    </head>
+    <body>
+        <main>
+            <div id="ponuka">
+                <button id="tlacidlo">Upraviť</button>
+            </div>
+            <div id="editor">
+                <h1 id="nadpis">Čo je to školský parlament?</h1>
+                <p id="clanok">Školský parlament je nezávislý a nestranný orgán, ktorý zastupuje záujmy voči vedeniu školy,
+školskej rade a organizuje akcie. Zasadá každý mesiac. Poplatok pre žiakov na činnosť školského
+parlamentu je jedno euro. Členom školského parlamentu sa môže stať každý žiak, ktorý na začiatku
+školského roka bude zvolený za predsedu triedy. Pokiaľ majú žiaci nejaké výhrady, nápady alebo sťažnosti,
+môžu sa obrátiť na školský parlament cez predsedu svojej triedy, koordinátora školského parlamentu,
+predsedu školského parlamentu, podpredsedu školského parlamentu alebo anonymne, vhodením podnetu do urny
+umiestnenej vo vestibule školy. Školský parlament má organizačnú a odporúčaciu právomoc, ale nemá rozhodovaciu právomoc.
+                </p>
+            </div>
+        </main>
+    </body>
+</html>
+```
+
