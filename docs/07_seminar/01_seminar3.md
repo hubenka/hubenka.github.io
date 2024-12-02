@@ -13,9 +13,10 @@ Seminár z informatiky pre 3. ročník SŠ (Septima, III.A, IV.BA) kladie dôraz
 
 - **Webová stránka v HTML a CSS**
 - Téma: "Školský časopis sa prezentuje na webe"
-- Rozsah: 20 vyučovacích hodín
+- Rozsah: 20 vyučovacích hodín (do 9.12.2024)
 - **Úlohy:**
     - [CSS - úlohy](/seminar/css)
+    - [JS - workshop](/seminar/js-workshop)
 - **Školský časopis**
     - [Stránka školy](https://ghubeneho.edupage.org/a/skolsky-casopis-3)
     - [Kompletné podklady (Sharepoint)](https://ghubbask.sharepoint.com/:f:/s/INF-Seminr-3/EvwobVq8HzxFrWi3DFf1jJMBSVKHdBSMcCK_vYfOGt4nZA?e=6hJ1wh)
@@ -35,17 +36,18 @@ Seminár z informatiky pre 3. ročník SŠ (Septima, III.A, IV.BA) kladie dôraz
 
 ---
 
+### Informačná spoločnosť
+
+- Sociálne siete a virálne príspevky
+- Téma: "Ako a prečo napísať/nepísať virálny príspevok?"
+- Rozsah: 2 vyučovacie hodiny
+
 ### Reprezentácie a nástroje
 
 - Multimédia: video a animácia 
 - Téma: "Mediálna kampaň: Softvér uľahčuje život a je nepostrádateľný"
 - Rozsah: 14 vyučovacích hodín
 
-### Informačná spoločnosť
-
-- Sociálne siete a virálne príspevky
-- Téma: "Ako a prečo napísať/nepísať virálny príspevok?"
-- Rozsah: 2 vyučovacie hodiny
 
 ### Algoritmické riešenie problémov
 
