@@ -14,7 +14,7 @@ Seminár z informatiky pre 3. ročník SŠ (Septima, III.A, IV.BA) kladie dôraz
 - **Multimédia: video a animácia**
 - Téma: "Mediálna kampaň: Softvér uľahčuje život a je nepostrádateľný"
 - Rozsah: 14 vyučovacích hodín
-- **[Zadanie projektu](/seminar/video-zadanie)**
+- **[Zadanie projektu](/seminar/video)**
 
 ---
 

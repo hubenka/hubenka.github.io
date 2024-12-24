@@ -1,7 +1,7 @@
 site_name: Informatika - Gymnázium Hubeného
 site_url: https://hubenka.github.io
 copyright: >
-  &copy; 2024 Miroslav Hájek
+  &copy; 2025 Miroslav Hájek
 use_directory_urls: true
 theme:
   name: material
