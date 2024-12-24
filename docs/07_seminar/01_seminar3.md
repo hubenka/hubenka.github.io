@@ -8,12 +8,24 @@ publish: true
 
 Seminár z informatiky pre 3. ročník SŠ (Septima, III.A, IV.BA) kladie dôraz na tímovú spoluprácu a praktické zručnosti s informačnými a komunikačnými technológiami. V predmete predvláda projektové a problémové vyučovanie organizované ako skupinové činnosti. Výtvory žiakov sú hodnotené vzájomne na základe vopred dohodnutých kritérii. Podľa možností bude zaradená pozvaná prednáška alebo exkurzia. Žiaci majú možnosť zapojiť sa do informatických súťaží: Zenit, KSP, OI, Junior Internet, SOČ. 
 
-### Komunikácia a spolupráca
+### 3. Reprezentácie a nástroje
 (Aktuálne)
+
+- **Multimédia: video a animácia**
+- Téma: "Mediálna kampaň: Softvér uľahčuje život a je nepostrádateľný"
+- Rozsah: 14 vyučovacích hodín
+- **[Zadanie projektu](/seminar/video-zadanie)**
+
+---
+
+### 1. Komunikácia a spolupráca
 
 - **Webová stránka v HTML a CSS**
 - Téma: "Školský časopis sa prezentuje na webe"
-- Rozsah: 20 vyučovacích hodín (do 9.12.2024)
+- Rozsah: 20 vyučovacích hodín
+- **Študentské webstránky**
+    - [Tím A](/students/web24-25/team-A/index.html)
+    - [Tím B](/students/web24-25/team-B/index.html)
 - **Úlohy:**
     - [CSS - úlohy](/seminar/css)
     - [JS - workshop](/seminar/js-workshop)
@@ -34,22 +46,14 @@ Seminár z informatiky pre 3. ročník SŠ (Septima, III.A, IV.BA) kladie dôraz
     - [PenPot](https://penpot.app/)
 
 
----
-
-### Informačná spoločnosť
+### 2. Informačná spoločnosť
 
 - Sociálne siete a virálne príspevky
 - Téma: "Ako a prečo napísať/nepísať virálny príspevok?"
 - Rozsah: 2 vyučovacie hodiny
 
-### Reprezentácie a nástroje
 
-- Multimédia: video a animácia 
-- Téma: "Mediálna kampaň: Softvér uľahčuje život a je nepostrádateľný"
-- Rozsah: 14 vyučovacích hodín
-
-
-### Algoritmické riešenie problémov
+### 4. Algoritmické riešenie problémov
 
 - Programovanie v jazyku Python 
 - Téma: "Počítačová hra: Utopická alebo dystopická (nad)vláda robotov"
