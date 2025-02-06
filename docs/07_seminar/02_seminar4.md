@@ -14,6 +14,10 @@ Seminár z informatiky pre 4. ročník SŠ (Oktáva, IV.A, V.BA) je zameraný na
 - [Učebnica programovania](https://abcpython.input.sk/)
 
 
+### Vyhľadávanie na webe
+
+- [Úlohy - Vyhľadávanie](/seminar/vyhladavanie/)
+
 ### Osobnosti IT
 
 - [Popis osobností](/seminar/osobnosti-it/)
@@ -31,7 +35,7 @@ Na seminári sú počas každého z polrokov dominantné odlišné zamerania:
 - **Umelá inteligencia** – sci-fi poviedka *(rozprávanie)*
 
 #### 2. polrok
-- Odlišné úlohy pre žiaov maturujúcich a nematurujúcich z informatiky:
+- Odlišné úlohy pre žiakov maturujúcich a nematurujúcich z informatiky:
 - **Maturanti** sa zamieravajú na programovanie a sú priebežne testovaný z maturitných okruhov a typových úloh z programovania
     - Desaťminutovka – digitalizácia údajov *(výpočet príkladov)*
     - 1.písomka z programovania – premenné, podmienky, cykly *(open-book exam)*

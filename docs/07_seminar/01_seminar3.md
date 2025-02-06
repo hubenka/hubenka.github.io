@@ -6,7 +6,7 @@ publish: true
 
 ## Seminár z Informatiky pre 3. ročník
 
-Seminár z informatiky pre 3. ročník SŠ (Septima, III.A, IV.BA) kladie dôraz na tímovú spoluprácu a praktické zručnosti s informačnými a komunikačnými technológiami. V predmete predvláda projektové a problémové vyučovanie organizované ako skupinové činnosti. Výtvory žiakov sú hodnotené vzájomne na základe vopred dohodnutých kritérii. Podľa možností bude zaradená pozvaná prednáška alebo exkurzia. Žiaci majú možnosť zapojiť sa do informatických súťaží: Zenit, KSP, OI, Junior Internet, SOČ. 
+Seminár z informatiky pre 3. ročník SŠ (Septima, III.A, IV.BA) kladie dôraz na tímovú spoluprácu a praktické zručnosti s informačnými a komunikačnými technológiami. V predmete predvláda projektové a problémové vyučovanie organizované ako skupinové činnosti. Výtvory žiakov sú hodnotené vzájomne na základe vopred dohodnutých kritérií. Podľa možností bude zaradená pozvaná prednáška alebo exkurzia. Žiaci majú možnosť zapojiť sa do informatických súťaží: Zenit, KSP, OI, Junior Internet, SOČ. 
 
 ### 3. Reprezentácie a nástroje
 (Aktuálne)
@@ -15,6 +15,9 @@ Seminár z informatiky pre 3. ročník SŠ (Septima, III.A, IV.BA) kladie dôraz
 - Téma: "Mediálna kampaň: Softvér uľahčuje život a je nepostrádateľný"
 - Rozsah: 14 vyučovacích hodín
 - **[Zadanie projektu](/seminar/video)**
+- **Úlohy**
+    - [Sekvencia záberov](/seminar/video-strih)
+    - [Filmová hudba a ruchy](/seminar/video-hudba)
 
 ---
 
