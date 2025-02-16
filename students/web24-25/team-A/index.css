@@ -1,0 +1,86 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    font-family:Impact, 'Arial Narrow Bold', sans-serif;
+    background-color: rgb(40, 40, 40);
+    width: 80%;
+    margin: auto;
+}
+.clanok {
+    width: auto;
+    background-color:rgba(87, 85, 85, 0.226);
+    padding-bottom: 30px;
+}
+
+.hlava{
+    width: auto;
+    display: flex;
+}
+.nazov-box{
+    width: 90%;
+}
+
+.nazov{
+    margin-top: 4vw;
+    border-radius: 2vw;
+    margin-left: 5%;
+    text-decoration: bold;
+    color: rgb(255, 255, 255);
+    font-size: 6vw;
+
+}
+
+.ciara{
+    background-color: rgb(255, 255, 255);
+    height: 5px;
+    width: 90%;
+    border-radius: 1vw 1vw 1vw 1vw;
+    margin: auto;
+}
+
+.clanok-obsah{
+    display: flex;
+    margin-top: 30px;
+}
+.text{
+    color: rgb(211, 211, 205);
+    margin-top: 2%;
+    margin-left: 10%;
+    margin-right: 10%;
+    word-wrap: break-word;
+}
+
+
+/*menu-hore*/
+
+.menu {
+    position: fixed;
+    height: 40px;
+    background-color: rgb(49, 49, 49);
+    width: 100%;
+    margin-left: -10%;
+    display: flex;
+    justify-content: space-between;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border: 1vw 1vw 1vw 1vw;
+    
+}
+
+button {
+    border: none;
+    background-color: transparent;
+}
+
+.spet-box {
+    margin: 10px;
+
+}
+
+.edit-box {
+    right: 0;
+    margin: 5px;
+}
