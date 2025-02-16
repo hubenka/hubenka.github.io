@@ -18,6 +18,7 @@ Seminár z informatiky pre 3. ročník SŠ (Septima, III.A, IV.BA) kladie dôraz
 - **Úlohy**
     - [Sekvencia záberov](/seminar/video-strih)
     - [Filmová hudba a ruchy](/seminar/video-hudba)
+    - [Rozhovory na titulkovanie](https://drive.google.com/drive/folders/1SMvjVWEuHCJylrwmpsryLgX9S_woJgMC?usp=drive_link)
 
 ---
 

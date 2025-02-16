@@ -14,6 +14,10 @@ Seminár z informatiky pre 4. ročník SŠ (Oktáva, IV.A, V.BA) je zameraný na
 - [Učebnica programovania](https://abcpython.input.sk/)
 
 
+### Úryvky programov - súbory
+
+- [Programy - úlohy](/seminar/uryvky-programov)
+
 ### Vyhľadávanie na webe
 
 - [Úlohy - Vyhľadávanie](/seminar/vyhladavanie/)
