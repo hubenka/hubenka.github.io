@@ -39,7 +39,15 @@ publish: true
 - [ ] Web2 - diskusné fóra a blogy
 - [ ] Virtuálna realita
 - [ ] E-learning, dištančné vzdelávanie
-- [ ] Internetové obchody, ochrana údajov, elektronické bankovníctvo
+- [ ] Internetové obchody, elektronické bankovníctvo
+    - [Internet banking](https://app.vub.sk/inbizdemo/inbiz.html)
+    - [Eshop](https://de8.webroyal.sk/)
+    - **Úlohy**
+        1. Zostatok na bežnom účte
+        2. Vyplňte platbu kamarátovi/kamarátke za zmrzlinu cez IB a navrhnite iné spôsoby ako mu/jej vrátiť peniaze
+        3. Vyplňte trvalý príkaz za obedy v našej škole
+        4. Platba z bežného účtu – za tovar v e-shope podľa pokynov
+        5. Opíšte postup vytvorenia inkasa za dátový paušál na mobile
 - [ ] Malware, bezpečnosť a ochrana údajov
 
 ## Algoritmické riešenie problémov (7h)
