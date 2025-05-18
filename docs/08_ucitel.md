@@ -36,4 +36,4 @@ bavilo fotografovať a natáčať [videá](https://www.youtube.com/user/skGeoTV)
 
 Vyštudoval som s vyznamením informatiku a učiteľské minimum na Slovenskej technickej univerzite v Bratislave ([FIIT STU](https://www.fiit.stuba.sk/) a [ÚM STU](https://www.stuba.sk/buxus/generate_page.php?page_id=1347)). Odborne sa zaujímam o témy [edge computing](https://en.wikipedia.org/wiki/Edge_computing) pre [internet vecí](https://en.wikipedia.org/wiki/Internet_of_things) a [spracovanie signálov](https://en.wikipedia.org/wiki/Signal_processing). Týmto oblastiam som sa venoval aj vo svojej [bakalárskej](https://opac.crzp.sk/?fn=detailBiblioForm&sid=4F55101800366CEF5FF3C1DB109A) a [diplomovej](https://opac.crzp.sk/?fn=detailBiblioForm&sid=4F9CB80EDA44B4B668003C797770) práci.
 
-Okrem vyučovania informatiky na Gymnáziu, pracujem v telekomunikačnej spoločnosti [VNET](https://www.vnet.sk/) ako softvérový vývojár. Tiež som aktívny ako dobrovoľník v občianskom združení [ESN STUBA](https://stuba.esn.sk/).
+Okrem vyučovania informatiky na Gymnáziu Hubeného, pracujem v telekomunikačnej spoločnosti [VNET](https://www.vnet.sk/) ako softvérový vývojár.

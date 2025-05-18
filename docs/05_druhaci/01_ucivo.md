@@ -24,22 +24,22 @@ publish: true
 
 ## Komunikácia a spolupráca, Informačná spoločnosť (7 h)
 
-- [ ] **[Štruktúra HTML - hlavná stránka](/2-rocnik/jazyk-html/)**
-- [ ] Štruktúra HTML - podstránky
-- [ ] Odkazy
-- [ ] Pozadie stránky a umiestnenie obrázkov
-- [ ] Tabuľky
-- [ ] Fotoalbum
-- [ ] Publikovanie web stránky na webe
+- [x] **[Štruktúra HTML - hlavná stránka](/2-rocnik/jazyk-html/)**
+- [x] Štruktúra HTML - podstránky
+- [x] Odkazy
+- [x] Pozadie stránky a umiestnenie obrázkov
+- [x] Tabuľky
+- [x] Fotoalbum
+- [x] Publikovanie web stránky na webe
 
 
 ## Komunikácia a spolupráca, Informačná spoločnosť (6 h)
 
-- [ ] Sociálne siete
-- [ ] Web2 - diskusné fóra a blogy
-- [ ] Virtuálna realita
-- [ ] E-learning, dištančné vzdelávanie
-- [ ] Internetové obchody, elektronické bankovníctvo
+- [x] Sociálne siete
+- [x] Web2 - diskusné fóra a blogy
+- [x] Virtuálna realita
+- [x] E-learning, dištančné vzdelávanie
+- [x] **Internetové obchody, elektronické bankovníctvo**
     - [Internet banking](https://app.vub.sk/inbizdemo/inbiz.html)
     - [Eshop](https://de8.webroyal.sk/)
     - **Úlohy**
@@ -53,6 +53,10 @@ publish: true
 ## Algoritmické riešenie problémov (7h)
 
 - [ ] Typ znak, znakové reťazce
+    - Regulárne výrazy
+        - Testery: [Regex101](https://regex101.com/), [Debugex](https://www.debuggex.com/)
+        - Hra: [Regex Learn](https://regexlearn.com/cs-cz)
+        - Príkazy: [Cvičenia](https://www.viemeinformatiku.sk/cvicenia-regularne-vyrazy-skupiny-znakov)
 - [ ] Funkcie na prácu s textovými reťazcami
 - [ ] Jednorozmerné polia – naplnenie, deklarácia
 - [ ] Vyhľadávacie funkcie
@@ -60,5 +64,5 @@ publish: true
 ## Informačná spoločnosť (2 h)
 
 - [x] Riziká informačných technológií.
-- Výhody a nevýhody pôsobenia počítačov na spoločnosť
-- Zdravotné riziká práce s IKT
+- [x] Výhody a nevýhody pôsobenia počítačov na spoločnosť
+- [x] Zdravotné riziká práce s IKT
