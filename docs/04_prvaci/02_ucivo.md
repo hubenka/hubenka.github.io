@@ -4,13 +4,9 @@ slug: ucivo
 publish: true 
 ---
 
-## Úlohy
-- [Klikni sem](https://drive.google.com/drive/folders/1o_mDATlKcuHqpf8s7bfoi-0bzChwsr-6?usp=drive_link)
-
----
-
-
-## Reprezentácie a nástroje, Softvér a hardvér (12 h)
+## Tematické celky
+    
+### Reprezentácie a nástroje, Softvér a hardvér (12 h)
 
 - **Základné pojmy**
     - základné pojmy v informatike
@@ -27,7 +23,7 @@ publish: true
 - **Digitalizácia znakov, obrazu, zvuku**
     - digitalizácia bežných vstupných údajov
 
-## Reprezentácie a nástroje (20 h)
+### Reprezentácie a nástroje (20 h)
 
 - **Textový editor**
     - automatické tvary, vzorce a grafy
@@ -48,7 +44,7 @@ publish: true
 - **Prezentačný softvér**
 
 
-## Informačná spoločnosť (2 h)
+### Informačná spoločnosť (2 h)
 
 - **Bezpečnosť na internete**
     - riziká používania internetu
@@ -57,7 +53,7 @@ publish: true
 - **Dodržiavanie autorských práv programov**
     - vyhľadanie a inštalácia voľných programov na vytvorenie, vyhľadanie, sťahovanie a úpravu zvukových súborov
 
-## Algoritmické riešenie problémov (32 h)
+### Algoritmické riešenie problémov (32 h)
 
 - **Algoritmy a programovanie**
 - **Analýza zadania**
@@ -79,4 +75,18 @@ publish: true
     - funkcia časovača a prácu s tlačidlami myši
     - práca v grafickom režime
 	
-		
+
+## Hodnotenie
+
+- **1. polrok**
+    - Desaťminutovka - premena číselných sústav
+    - Projekt - Poskladanie počítača z komponentov
+    - Písomka - Digitalizácia údajov
+    - Práca na hodine - Textový editor - obrázky
+    - Písomka - formátovanie dokumentu podľa pokynov
+- **2. polrok**
+    - Prezentácia - Kvíz s hypertextom
+    - Projekt - Excel
+    - Písomka - programovanie (premenné a výpočet)
+    - Samostatná práca - dobrovoľné úlohy z učebnice (aspoň 2 povinné)
+    - Projekt - kreslenie scenérie
