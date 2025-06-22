@@ -46,18 +46,16 @@ slug: 2-rocnik
 ## Hodnotenie
 
 ### 1. polrok
-- Praktické cvičenie - konfigurácia domáceho smerovača
-- Referát - LAN sieť u nás doma
+1. Praktické cvičenie - konfigurácia domáceho smerovača
+2. Prezentácia - LAN sieť u nás doma
+3. Referát - článok o trendoch v internetových technológiach
+4. Tímová práca - organizovanie pobytu alebo podujatia (kombinácia vyhľadávačov)
+5. Referát - nájdi najlepší hoax
+5. Tímová práca - nakupovanie na internete - zaobstaraj občerstvenie alebo zariaď izbu 
 
 ### 2. polrok
-- Práca na hodine - webová stránka - Fotoalbum
-- Projekt - moja webová stránka v HTML
-- Projekt - môj blog cez Blogger (CMS)
-- Úloha - programovanie so zoznamami - nákupný košík, známky
-
-
-
-
-
-
-
+1. Cvičenie - HTML - návrh dizajnu a opis značkami
+2. Cvičenie - HTML - rozšírenie existujúceho webu
+3. Cvičenie - vlastný blog - zaujímové aktivity
+4. Didaktický test - vysvetli fungovanie programov
+5. Cvičenie - programovanie s textom - vlastná databáza alebo četbot
