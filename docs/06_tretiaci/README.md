@@ -46,9 +46,9 @@ slug: 3-rocnik
     - Automatizácia pracovnej sily a nové povolania
     - Vzdelávanie v budúcnosti
 
-### Hodnotenie
+## Hodnotenie
 
-## 1. polrok
+### 1. polrok
 
 1. Cvičenie - ako ma ovplyvňujú masmédia?
 2. Cvičenie - verohodná koláž
@@ -56,7 +56,7 @@ slug: 3-rocnik
 4. Prezentácia - rastrová grafika - fotopríbeh
 5. Prezentácia - vektorová grafika - mapa
 
-## 2. polrok
+### 2. polrok
 
 1. Prezentácia - audiokniha
 2. Prezentácia - téma z umelej inteligencie
