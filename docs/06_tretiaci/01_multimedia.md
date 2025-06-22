@@ -1,6 +1,6 @@
 ---
 title: Multimédia
-publish: true
+publish: false
 ---
 
 ## Úprava fotografií v GIMP

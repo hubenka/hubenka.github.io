@@ -1,7 +1,7 @@
 ---
 title: Videotvorba - Hudba a ruchy
 slug: video-hudba
-publish: true 
+publish: false 
 ---
 
 ### Voľne dostupné nahrávky

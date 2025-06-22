@@ -1,7 +1,7 @@
 ---
 title: Softvér uľahčuje život a je nepostrádateľný
 slug: video
-publish: true 
+publish: false 
 ---
 
 Vytvorte krátke reklamné / osvetové video z oblasti života, kde softvér uľahčuje život alebo je docela nevyhutný. Dĺžka výledného videa ideálne 30s - 2min. 

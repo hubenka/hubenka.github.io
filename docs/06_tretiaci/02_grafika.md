@@ -1,7 +1,7 @@
 ---
-title: Projekt - Rastrová grafika
-slug: projekt-grafika
-publish: true 
+title: Rastrová grafika
+slug: grafika
+publish: false 
 ---
 
 Neoodeliteľným prvkom multimediálneho obsahu súčasnosti sú všeljaké obrázky, objavujúce sa najčastejšie v podobe fotografii, ale aj ako ilustrácie, či diagramy. Ako sa hovorí: obrázok je hoden aj tisíc slov. Prvým krokom je vybrať, vytvoriť alebo odfotiť požadovaný objekt záujmu, ktorý sa prirodzene odvíja od cieľovej tématiky. Napriek všetkému úsiliu sa stáva, že je nutné častokrát grafiku prispôsobovať alebo vylepšiť a z toho dôvodu siahneme po schopnom grafickom editore s potrebnými nástrojmi, v našom prípade je ním [GIMP](https://www.gimp.org/).

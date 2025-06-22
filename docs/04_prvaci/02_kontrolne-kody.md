@@ -1,6 +1,6 @@
 ---
 title: Kontrolné kódy
-publish: true
+publish: false
 ---
 
 ## Úlohy

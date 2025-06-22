@@ -1,7 +1,7 @@
 ---
 title: Videotvorba - Sekvencia záberov
 slug: video-strih
-publish: true 
+publish: false 
 ---
 
 ### Programy

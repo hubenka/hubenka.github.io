@@ -1,7 +1,7 @@
 ---
 title: Úryvky programov
 slug: uryvky-programov
-publish: true
+publish: false
 ---
 
 ### 1. úloha

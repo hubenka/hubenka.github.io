@@ -1,7 +1,7 @@
 ---
 title: Projekt z programovania
 slug: projekt-z-programovania
-publish: true 
+publish: false 
 ---
 
 ## Dioráma ekosystému

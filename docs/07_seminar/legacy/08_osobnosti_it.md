@@ -1,7 +1,7 @@
 ---
 title: Osobnosti informatiky
 slug: osobnosti-it
-publish: true
+publish: false
 ---
 
 ## Steve Wozniak

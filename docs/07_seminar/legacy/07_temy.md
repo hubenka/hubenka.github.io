@@ -1,7 +1,7 @@
 ---
 title: Témy pre Seminár 4.ročník
 slug: temy
-publish: true
+publish: false
 ---
 
 ## 1. Digitalizácia údajov

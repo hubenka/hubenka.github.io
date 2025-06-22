@@ -1,7 +1,7 @@
 ---
-title: Projekt - Počítačová sieť u nás doma
+title: Počítačová sieť u nás doma
 slug: projekt-siet
-publish: true
+publish: false
 ---
 
 Zisti ako funguje vaša domáca LAN sieť! :)  Kresbu ponechám na tvojej fantázii, musí však obsahovať nasledujúce:

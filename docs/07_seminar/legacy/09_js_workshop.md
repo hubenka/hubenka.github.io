@@ -1,7 +1,7 @@
 ---
 title: Workshop Javascript
 slug: js-workshop
-publish: true
+publish: false
 ---
 
 ## Kompletné riešenie

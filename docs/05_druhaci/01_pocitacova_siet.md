@@ -1,7 +1,7 @@
 ---
 title: Prenosové média
-slug: prenosove-media
-publish: true
+slug: pocitacova-siet
+publish: false
 ---
 
 ## 1. Prezentácia

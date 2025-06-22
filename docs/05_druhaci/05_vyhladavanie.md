@@ -1,6 +1,6 @@
 ---
 title: Vyhľadávanie na webe
-publish: true
+publish: false
 ---
 
 1. Nájdite trasu na bicykli zo Šafárikovho námestia k bunkru BS-6. Koľko to trvá a ako je to ďaleko?

@@ -4,24 +4,23 @@ slug: .
 publish: true 
 ---
 
-# Vitajte na stránke Informatiky
+# Informatika @ Gymnázium Hubeného
 
 - Stránka školy: [Gymnázium, Hubeného 23](https://ghubeneho.edupage.org/)
-- Školský rok: 2024/2025
+- Školský rok: 2025/2026
 - Učiteľ: [Ing. Miroslav Hájek](ucitel/)
 
 ## V akom si ročníku?
-- [1.ročník SŠ (Kvinta / I.A)](1-rocnik/ucivo/)
-- [2.ročník SŠ (Sexta / II.A)](2-rocnik/ucivo/)
-- [3.ročník SŠ (Septima / III.A)](3-rocnik/ucivo/)
-- [Seminár z Informatiky (3. ročník SŠ)](seminar/3-rocnik/)
-- [Seminár z Informatiky (4. ročník SŠ)](seminar/4-rocnik/)
+- [**1.ročník** | Kvinta, I.A](1-rocnik/)
+- [**2.ročník** | Sexta, II.A](2-rocnik/)
+- [**3.ročník** | Septima, III.A](3-rocnik/)
+- [**Seminár z informatiky**](seminar/)
 
 ## Učebnice
-- [Zbierka úloh z programovania](programovanie/zbierka-uloh/premenne/uvod/)
-- [Učebné texty z informatiky](ucebnica/informatika-ako-veda/zakladne-pojmy/)
-- [abcPython - Pracovné listy pre Python](https://abcpython.input.sk/)
-- [Python úlohy](https://python2016-sphinx.readthedocs.io)
-- [Kuchárka KSP](https://www.ksp.sk/kucharka/)
-- [(Ne)bezepečne v sieti](https://myslim.eu/wp-content/uploads/2021/10/Nebezpecne-v-sieti.pdf)
-- [Príručka digitálnej bezpečnosti](https://bezpecnenanete.eset.com/sk/wp-content/uploads/2021/10/Prirucka-digitalnej-bezpecnosti-pre-ucitelov.pdf)
+1. [Učebné texty z informatiky](ucebnica/informatika-ako-veda/zakladne-pojmy/)
+2. [abcPython - Pracovné listy pre Python](https://abcpython.input.sk/)
+3. [Zbierka úloh z programovania](programovanie/zbierka-uloh/premenne/uvod/)
+4. [Python - rozširujúce úlohy](https://python2016-sphinx.readthedocs.io)
+5. [Kuchárka KSP](https://www.ksp.sk/kucharka/)
+6. [(Ne)bezepečne v sieti](https://myslim.eu/wp-content/uploads/2021/10/Nebezpecne-v-sieti.pdf)
+7. [Príručka digitálnej bezpečnosti](https://bezpecnenanete.eset.com/sk/wp-content/uploads/2021/10/Prirucka-digitalnej-bezpecnosti-pre-ucitelov.pdf)

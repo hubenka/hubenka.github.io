@@ -9,7 +9,6 @@ publish: true
 Seminár z informatiky pre 3. ročník SŠ (Septima, III.A, IV.BA) kladie dôraz na tímovú spoluprácu a praktické zručnosti s informačnými a komunikačnými technológiami. V predmete predvláda projektové a problémové vyučovanie organizované ako skupinové činnosti. Výtvory žiakov sú hodnotené vzájomne na základe vopred dohodnutých kritérií. Podľa možností bude zaradená pozvaná prednáška alebo exkurzia. Žiaci majú možnosť zapojiť sa do informatických súťaží: Zenit, KSP, OI, Junior Internet, SOČ. 
 
 
-
 ---
 
 ### 1. Komunikácia a spolupráca

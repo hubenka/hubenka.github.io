@@ -1,7 +1,7 @@
 ---
 title: CSS úlohy
 slug: css
-publish: true
+publish: false
 ---
 
 ## Kapitola č.1 - Box Model

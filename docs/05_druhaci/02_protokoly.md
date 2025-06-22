@@ -1,7 +1,7 @@
 ---
-title: TCP/IP model - Prečítaj správy medzi počítačmi
-slug: tcp-ip-model
-publish: true
+title: Prečítaj správy medzi počítačmi
+slug: protokoly
+publish: false
 ---
 
 ## Návod

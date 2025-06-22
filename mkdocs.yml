@@ -8,7 +8,6 @@ theme:
   features:
     - navigation.tabs
     - navigation.sections
-    # - toc.integrate # puts toc inside menu
     - navigation.top
     - search.suggest
     - search.highlight
@@ -23,7 +22,6 @@ theme:
     - search.share
     - content.action.edit
     - content.action.view
-    - toc.follow
   language: sk
   palette:
     - scheme: default
@@ -40,7 +38,15 @@ theme:
       accent: lime
 plugins:
   - search
-  - pub-meta
+  - pub-meta:
+      overview:
+        enable: true
+        default: auto
+        key_name: slug
+      publish:
+        search_in_hidden: false
+        search_in_draft: false
+
 
 markdown_extensions:
   - pymdownx.highlight:
@@ -69,4 +75,5 @@ extra_javascript:
   - https://unpkg.com/katex@0/dist/contrib/auto-render.min.js
 extra_css:
   - https://unpkg.com/katex@0/dist/katex.min.css
+  - styles/custom.css
 
