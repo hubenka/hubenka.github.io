@@ -25,6 +25,7 @@ publish: true
 - [Vyhláška o strednej škole 224/2022 Z. z.](https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2022/224/)
 - [Zákon o pedagogických zamestnancoch 138/2019 Z. z.](https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2019/138/)
 - [Ministerstvo školstva SR](https://www.minedu.sk/vychova-a-vzdelavanie-v-strednych-skolach/)
+- [Kalendár školského roka](https://calendar.zoznam.sk/school-sksk.php)
 
 
 ## Ing. Miroslav Hájek
