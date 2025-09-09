@@ -45,7 +45,7 @@ Zvoľ si jednu doménu webstránky, ktorú navštevuješ (odlišnú od príkladu
 
 ## Porovnávač internetového pripojenia
 - [Telekomunikačný úrad](https://www.teleoff.gov.sk/)
-- [Porovnanie](http://porovnavacinternetu.sk/)
+- [Porovnanie](https://porovnavac.teleoff.gov.sk/sk/porovnavac-cien-komunikacnych-sluzieb/)
 
 ### Úloha č.4
 **Nájdi dve najvýhodnejšie ponuky internetového pripojenia** u teba doma od rôznych firiem (alebo na ľubovoľnej inej adrese). Využi porovnávač od telekomunikačného úradu a potom stránky firiem poskytujúcich internet. Porovnávač má totiž niekedy zastarané informácie o ponuke. Porovnávaj hlavne na základe rýchlosti pripojenia (download/upload), typy prenosového média, a mesačnej ceny.
