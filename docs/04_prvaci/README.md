@@ -8,8 +8,8 @@ slug: 1-rocnik
 ### Informatika ako veda
 
 - [x] Základné pojmy informatiky
-- [x] Hardvér počítača
 - [x] Digitalizácia údajov
+- [x] Hardvér počítača
 
 ### Kancelársky softvér
 
