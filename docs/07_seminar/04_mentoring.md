@@ -6,10 +6,12 @@ publish: true
 Počas semináru z informatiky budete si budete pomáhať vo dvojiciach: mentor - mentee.
 
 Každá z rolí má svoj cieľ, ktorý sa snaží počas polroka naplniť:
-- Mentor: zdokonaľuje sa vo vysvetlovaní algoritmizácie (programovania), hlavne na maturitných zadaniach.
-- Mentee: učí sa programovanie od základov, aby vytvoril jednoduchú počítačovú hru
 
-Dvojice (mentor - mentee) sú:
+- **Mentor**: zdokonaľuje sa vo vysvetlovaní algoritmizácie (programovania), hlavne na maturitných zadaniach.
+- **Mentee**: učí sa programovanie od základov, aby vytvoril jednoduchú počítačovú hru
+
+**Dvojice** (mentor - mentee) sú:
+
 - Veronika (4R) - Nina (3R)
 - Thiera (4R) - Lea (3R)
 - Adam (4R) - Alex (4R)
@@ -25,6 +27,7 @@ Dvojice (mentor - mentee) sú:
 
 ## Úloha č.2
 (15 minút) V triede sa rozdelíte na dve skupiny mentori a mentees:
+
 - Ak si v skupine mentori: Vytvorte spoločne jeden autoevaluačný dotazník pre mentees
 - Ak si v skupine mentees: Vytvorte spoločne jeden autoevaluačný dotazník pre mentorov
 
