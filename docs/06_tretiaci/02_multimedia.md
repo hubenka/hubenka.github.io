@@ -5,7 +5,7 @@ publish: false
 
 ## Úprava fotografií v GIMP
 
-1. **Digitálna fotografia** - nastavenia fotoaparátu
+1. **Digitálna fotografia** - nastavenia fotoaparátu - demonštrácia analógový Minolta fotoaparát so Zoom objektívom, Fotodióda - na multimeter, na Arduino GND a A0 pin.
 2. **Farebné korekcie** - Uprav jeden horšie vyzerajúci obrázok, ktorý si vyberieš v *Učebné materiály > ColorGrading* alebo *Krajinka* alebo *NightPhotography*. Popíš a odôvodni úpravy, ktoré si spravil.
 3. **Súborové formáty** - Odfotografuj dva predmety (smartfónom alebo fotoaparátom) - v interiéri, v exteriéri. Z EXIF údajov obrázkov vyčítajte v počítači nasledujúce údaje:
     - model fotoaparátu,

@@ -39,7 +39,7 @@ Preskúmaj mapu podmorských káblov a mapu IXP na internete z odkazov vyššie.
 - Kde sú miesta po ceste: [https://ipinfo.io/142.250.185.99](https://ipinfo.io/142.250.185.99)
 - [Trace route](https://cs.wikipedia.org/wiki/Traceroute) - napr. `tracert google.com`
 
-### Úloha č.3
+### Úloha č.4
 Zvoľ si jednu doménu webstránky, ktorú navštevuješ (odlišnú od príkladu vyššie). V príkazovom riadku (`cmd.exe`) a s príkazom `tracert` **zisti kade cestuje správa, ktorú pošle tvoj počítač** zvolenej doméne (inému počítaču). Každé miesto na trase má byť zaznačené pomocou názov počítača, IP adresy, mesta, a času cesty od tvojho počítača. 
 
 
@@ -47,7 +47,7 @@ Zvoľ si jednu doménu webstránky, ktorú navštevuješ (odlišnú od príkladu
 - [Telekomunikačný úrad](https://www.teleoff.gov.sk/)
 - [Porovnanie](https://porovnavac.teleoff.gov.sk/sk/porovnavac-cien-komunikacnych-sluzieb/)
 
-### Úloha č.4
+### Úloha č.5
 **Nájdi dve najvýhodnejšie ponuky internetového pripojenia** u teba doma od rôznych firiem (alebo na ľubovoľnej inej adrese). Využi porovnávač od telekomunikačného úradu a potom stránky firiem poskytujúcich internet. Porovnávač má totiž niekedy zastarané informácie o ponuke. Porovnávaj hlavne na základe rýchlosti pripojenia (download/upload), typy prenosového média, a mesačnej ceny.
 
 ## Bezdrôtové mobilné siete
@@ -55,7 +55,7 @@ Zvoľ si jednu doménu webstránky, ktorú navštevuješ (odlišnú od príkladu
 - [Mapa pokrytia Orange](https://www.orange.sk/onas/mapa-pokrytia/)
 
 
-### Úloha č.5
+### Úloha č.6
 Prehliadni si mapy pokrytia mobilným signálom na Slovensku. **Aké sú rozdiely v pokrytí signálom** medzi 2G, 3G, 4G, 5G a z akých technických dôvodov?
 
 
