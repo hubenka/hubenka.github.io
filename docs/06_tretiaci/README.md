@@ -3,62 +3,30 @@ title: 3. ročník
 slug: 3-rocnik
 ---
 
-## Učivo
+## Multimédia
 
-### Multimédia
+*Multimédiá sú kombináciou textu, zvuku, grafiky, animácie, interaktivity a videa; podmnožina hypermédií. Sú určené na informovanie a zábavu publika.*
 
-- [x] Multimédia okolo nás
-    - Spoločenské dopady znalostnej spoločnosti
-    - Technické prostriedky
-- [x] Rastrová grafika
-    - Fotografia a fotoaparát
-    - Korekcia jasu a farieb
-    - Filtre
-    - Masky
-    - Retuš
-- [x] Vektorová grafika
-    - Objekty a cesty
-    - Vrstvy
-- [x] Audio
-    - Viacstopová časová os
-    - Zvukové efekty
-- [x] Video (*)
-    - Stop motion animácia
+### Fotobanka
 
-### Umelá inteligencia
+- [Google Disk](https://drive.google.com/drive/folders/1tfJHXX2bLNsZm33MQggL4TUIicXuSeIz?usp=sharing)
 
-- [x] Exponenciálny rast
-    - Turingov test
-    - Singularita
-- [x] Veľké dáta
-    - Strojové učenie a neurónové siete
-    - Generatívna AI
-    - AI v smartfóne
-- [x] Robotika
-    - Samoriadiace autá
-    - Humanoidy
-- [x] Zdravie
-    - AI v zdravotníctve
-    - DNA a génové manipulácie
-- [x] Život v budúcnosti
-    - Inteligentná domácnosť
-    - Energetika v budúcnosti
-    - Automatizácia pracovnej sily a nové povolania
-    - Vzdelávanie v budúcnosti
+### Fotografovanie
 
-## Hodnotenie
+[Prezentácia](/slides/digitalna-fotografia.pdf)
 
-### 1. polrok
+#### Úloha č.1 - Metadáta
 
-1. Cvičenie - ako ma ovplyvňujú masmédia?
-2. Cvičenie - verohodná koláž
-3. Cvičenie - reštaurovanie fotografie z negatívu
-4. Prezentácia - rastrová grafika - fotopríbeh
-5. Prezentácia - vektorová grafika - mapa
+Odfotografuj dva predmety (smartfónom alebo fotoaparátom) - jeden v interiéri, jene v exteriéri. Z [EXIF](https://en.wikipedia.org/wiki/Exif) metadát obrázkov vyčítaj v počítači nasledujúce údaje:
 
-### 2. polrok
+- model fotoaparátu,
+- formát súboru,
+- rozlíšenie (výška x šírka, megapixele),
+- ohnisková vzdialenosť objektívu (aj 35mm ekvivalent),
+- rýchlosť závierky (resp. expozičný čas),
+- clonové číslo,
+- ISO (citlivosť snímača).
 
-1. Prezentácia - audiokniha
-2. Prezentácia - téma z umelej inteligencie
-3. Diskusia - k témam prezentácii z umelej inteligencie
-4. Cvičenie - používanie AI nástrojov
+Porovnaj odčítané veličiny medzi dvoma obrázkami.
+
+Pomôcka: EXIF údaje nájdeš vo vlastnostiach súboru alebo pomocou programu [MediaInfo](https://mediaarea.net/en/MediaInfo)
