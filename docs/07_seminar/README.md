@@ -15,6 +15,9 @@ publish: true
 - [Zbierka úloh z programovania](/programovanie/zbierka-uloh/premenne/uvod)
 - [Učebnica programovania](https://abcpython.input.sk/)
 
+## Editor
+- [CodeHS - Editor na programovanie](https://codehs.com/explore/sandbox)
+
 ## Učivo
 
 - rovnako očíslované témy sa odohrajú v rovnakom čase

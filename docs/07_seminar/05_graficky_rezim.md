@@ -7,7 +7,7 @@ publish: true
 ## Demonštrácia
 
 - [Učebnica AbcPython - 5.hodina - Súradnice](https://abcpython.input.sk/p05.html)
-- [Učebnica AbcPython - 8.hodina - Podprogramy](https://abcpython.input.sk/p05.html)
+- [Učebnica AbcPython - 8.hodina - Podprogramy](https://abcpython.input.sk/p08.html)
 - Ukážka - 8.hodina / cv.7 v Tkinter
 
 ## Cvičenie 

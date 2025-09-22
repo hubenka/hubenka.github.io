@@ -12,6 +12,7 @@ publish: true
 **Vypíš cez aké rôzne prepojenia** (drôtové aj bezdrôtové) si počítače medzi sebou posielajú správy?
 Ku každému médiu (spôsobu prepojeniu) **priraď nosič informácií** z pohľadu fyziky.
 
+---
 
 ## Káble internetu
 - [Mapa - Podmorské káble](https://www.submarinecablemap.com/)
@@ -23,6 +24,7 @@ Preskúmaj mapu podmorských káblov a mapu IXP na internete z odkazov vyššie.
 
 *(V jednom meste stačí navštíviť jedno IXP. Ďalší "skok" po trase je do najbližšieho mesta v smere najkratšej trasy. Na jednom svetadieli navštív najviac 4 IXP, ostatné medzi zastávky môžeš preskočiť)*
 
+---
 
 ## Kapacita sieťovej linky
 - [Diagram topológie siete](https://www.vnet.sk/sk/spolocne/topologia-siete/)
@@ -34,6 +36,7 @@ Preskúmaj mapu podmorských káblov a mapu IXP na internete z odkazov vyššie.
 
 *Pozn.: Exaktný názov pre sieť pripojenú do peeringového uzla je [Autonómny systém (AS)](https://cs.wikipedia.org/wiki/Autonomn%C3%AD_syst%C3%A9m)*
 
+---
 
 ## Trasovanie správy
 - Kde sú miesta po ceste: [https://ipinfo.io/142.250.185.99](https://ipinfo.io/142.250.185.99)
@@ -42,6 +45,7 @@ Preskúmaj mapu podmorských káblov a mapu IXP na internete z odkazov vyššie.
 ### Úloha č.4
 Zvoľ si jednu doménu webstránky, ktorú navštevuješ (odlišnú od príkladu vyššie). V príkazovom riadku (`cmd.exe`) a s príkazom `tracert` **zisti kade cestuje správa, ktorú pošle tvoj počítač** zvolenej doméne (inému počítaču). Každé miesto na trase má byť zaznačené pomocou názov počítača, IP adresy, mesta, a času cesty od tvojho počítača. 
 
+---
 
 ## Porovnávač internetového pripojenia
 - [Telekomunikačný úrad](https://www.teleoff.gov.sk/)
