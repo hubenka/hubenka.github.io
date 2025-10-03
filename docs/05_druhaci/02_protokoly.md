@@ -1,7 +1,7 @@
 ---
 title: Prečítaj správy medzi počítačmi
 slug: protokoly
-publish: false
+publish: true
 ---
 
 ## Návod

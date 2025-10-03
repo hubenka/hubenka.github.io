@@ -11,11 +11,10 @@ slug: 3-rocnik
 
 - [Google Disk](https://drive.google.com/drive/folders/1tfJHXX2bLNsZm33MQggL4TUIicXuSeIz?usp=sharing)
 
-### Fotografovanie
-
-[Prezentácia](/slides/digitalna-fotografia.pdf)
 
 #### Úloha č.1 - Metadáta
+
+- [Prezentácia o fotografovaní](/slides/digitalna-fotografia.pdf)
 
 Odfotografuj dva predmety (smartfónom alebo fotoaparátom) - jeden v interiéri, jene v exteriéri. Z [EXIF](https://en.wikipedia.org/wiki/Exif) metadát obrázkov vyčítaj v počítači nasledujúce údaje:
 
@@ -30,3 +29,12 @@ Odfotografuj dva predmety (smartfónom alebo fotoaparátom) - jeden v interiéri
 Porovnaj odčítané veličiny medzi dvoma obrázkami.
 
 Pomôcka: EXIF údaje nájdeš vo vlastnostiach súboru alebo pomocou programu [MediaInfo](https://mediaarea.net/en/MediaInfo)
+
+
+#### Úloha č.2 - Korekcia jasu a farieb
+Nájdi a stiahni si z Fotobanky a priečinku ColorGrading jednu fotku, ktorú budeš upravovať v programe GIMP. 
+
+- Vylepši kompozíciu fotky napr. nástrojmi na obdĺžníkový výber (zachovaj pôvodný pomer strán) alebo otočenia.
+- Vylepši fotku zmenou nastavení z ponuky "Farby" (napr. jas, kontrast, farebné vyváženie, sýtosť, krivky). Všímaj si zmeny v histograme obrázka.
+- Upravenú fotku vyexportuj vo formáte JPG. Zároveň si ulož projekt GIMPu. 
+- Pôvodnú a upravenú fotografiu vzájomne porovnaj.

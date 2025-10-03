@@ -20,27 +20,23 @@ publish: true
 
 ## Učivo
 
-- rovnako očíslované témy sa odohrajú v rovnakom čase
-- časový rozsah (z 66/60 hodín):
-    1. 8.september - 15.december (26 hodín)
-    2. 6.január - 23.marec (20 hodín)
-    3. 30.marec - 25.máj/22.jún (14/20 hodín)
-
-### 3.ročník
-
-- [x] (1) Programovanie - s cieľom odprezentovať svoju vianočnú hru "Sen snehovej vločky"
-- [x] (2) Webová stránka - "Školský časopis sa prezentuje na webe"
-- [x] (3) Multimédia (video a animácia) - "Inteligencia umelej inteligencie"
 
 ### 4.ročník
 
-- [x] (1) Programovanie - typové maturitné úlohy - vzájomné učenie medzi tretiakmi a štvrtákmi
-- [x] (2) Teoretické okruhy
+- [x] (1.polrok) Programovanie - typové maturitné úlohy - vzájomné učenie medzi tretiakmi a štvrtákmi
+- [x] (2.polrok - od februára) Teoretické okruhy
     1. Digitalizácia údajov - esej príčin a následkov *(úvaha)* + výpočet veľkosti súboru
     2. Hardvér a softvér -  odpovede na otázky k filmu *(refrerát)*
     3. Počítačová sieť – fiktívny interview s odborníkom ako zvuková nahrávka *(interview)*
     4. Počítačová bezpečnosť - práca s článkom o kybernetickom útoku alebo zraniteľnosti *(INSERT)*
     5. Umelá inteligencia
-- [x] (3) Príprava k maturitnej skúške - testovanie
+- [x] (2.polrok - od apríla) Príprava k maturitnej skúške - testovanie
     1. Ústne odpovede k teórii (písomný test s otvorením odpoveďami)
     2. Didaktický test z programovania (45 minút)
+    
+    
+### 3.ročník
+
+- [x] (1.polrok) Programovanie - s cieľom odprezentovať svoju vianočnú hru "Sen snehovej vločky"
+- [x] (2.polrok - od februára) Multimédia (video a animácia) - Reklamná kampaň - "Nástrahy a inteligencia umelej inteligencie"
+- [x] (2.polrok - od apríla) Webová stránka - webová prezentácia video reklamnej kampani

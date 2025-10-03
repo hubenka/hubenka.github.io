@@ -1,6 +1,6 @@
 ---
 title: Digitalizácia údajov
-publish: false
+publish: true
 ---
 
 ## Úlohy
