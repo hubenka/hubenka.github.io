@@ -27,6 +27,7 @@ Vyber si jednu z ponúkaných tém fotoreportáže, ktorú spracuješ s použit�
 ## Výsledok
 Do úlohy v Edupage odovzdaj:
 
+- krátky textový popis každého obrázka z koláže (max. 2 vety na obrázok)
 - všetky zdrojové (pôvodné) obrázky,
 - jeden výsledný vyexportovaný obrázok plagátu v JPG,
 - súbor projektu programu GIMP (XCF) s kartami všetkých upravovaných obrázkov aj ich koláže.

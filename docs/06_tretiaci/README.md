@@ -7,34 +7,28 @@ slug: 3-rocnik
 
 *Multimédiá sú kombináciou textu, zvuku, grafiky, animácie, interaktivity a videa; podmnožina hypermédií. Sú určené na informovanie a zábavu publika.*
 
-### Fotobanka
 
-- [Google Disk](https://drive.google.com/drive/folders/1tfJHXX2bLNsZm33MQggL4TUIicXuSeIz?usp=sharing)
+## Propagačný leták školy
+**Učivo:** [Grafický dizajn](https://visibility.sk/blog/slovnik/graficky-dizajn/)
 
+1. Organizácie často majú grafické manuály pre zachovanie ich [vizuálnej identity](https://visibility.sk/blog/slovnik/vizualna-identita/) značky. Pozri napr.:
 
-#### Úloha č.1 - Metadáta
-
-- [Prezentácia o fotografovaní](/slides/digitalna-fotografia.pdf)
-
-Odfotografuj dva predmety (smartfónom alebo fotoaparátom) - jeden v interiéri, jene v exteriéri. Z [EXIF](https://en.wikipedia.org/wiki/Exif) metadát obrázkov vyčítaj v počítači nasledujúce údaje:
-
-- model fotoaparátu,
-- formát súboru,
-- rozlíšenie (výška x šírka, megapixele),
-- ohnisková vzdialenosť objektívu (aj 35mm ekvivalent),
-- rýchlosť závierky (resp. expozičný čas),
-- clonové číslo,
-- ISO (citlivosť snímača).
-
-Porovnaj odčítané veličiny medzi dvoma obrázkami.
-
-Pomôcka: EXIF údaje nájdeš vo vlastnostiach súboru alebo pomocou programu [MediaInfo](https://mediaarea.net/en/MediaInfo)
+- [STU](https://www.stuba.sk/buxus/docs/stu/informacie_pre/media/graficky_manual/dizajnmanual.pdf) 
+- [ESN](https://issuu.com/esnint/docs/visual_identity_manual_-_2023)
 
 
-#### Úloha č.2 - Korekcia jasu a farieb
-Nájdi a stiahni si z Fotobanky a priečinku ColorGrading jednu fotku, ktorú budeš upravovať v programe GIMP. 
+Naša škola takýto manuál nemá. V záujme dobrého grafického dizajnu je prispôsobenie si princípov z existujúcich grafických manuálov.
 
-- Vylepši kompozíciu fotky napr. nástrojmi na obdĺžníkový výber (zachovaj pôvodný pomer strán) alebo otočenia.
-- Vylepši fotku zmenou nastavení z ponuky "Farby" (napr. jas, kontrast, farebné vyváženie, sýtosť, krivky). Všímaj si zmeny v histograme obrázka.
-- Upravenú fotku vyexportuj vo formáte JPG. Zároveň si ulož projekt GIMPu. 
-- Pôvodnú a upravenú fotografiu vzájomne porovnaj.
+2. Pozri si rôzne prelohy letákov a iných propagačných materiálov na webe. Hľadaj kľúčové slová v obrázkoch napr. `leaflet template` alebo `tri fold brochure leaflet template`. Existujú aj stránky, kde nájdeš pekné šablóny, ktoré môžeš použiť, napr. [Canva](https://www.freepik.com/free-photos-vectors/trifold-brochure) a [Freepik](https://www.freepik.com/free-photos-vectors/trifold-brochure). Daj pozor na správne uvedenie autora vo svojom výtvore.
+
+3. Vytvor leták pre propagáciu našej školy s využitím textov a obrázkov nájdených tu. Môžeš si vytvoriť aj vlastnú grafiku. 
+
+- Veľkosť max. A4 ako skladací leták alebo A5 prípadne menší. Rozlíšenie pdf výstupu bude 300 dpi. Výber programu na vytvorenie grafiky je na tebe - najlepší však bude cloudový nástroj - aby si vedel svoj výtvor dokončiť aj neskôr.
+
+- [AKTUÁLNY TEXT](/slides/brozura/zadanie-aktualne.docx)
+
+Predošlé letáky na inšpiráciu:
+
+- [Skladací leták 2020/21](/slides/brozura/skladacky-20-21.docx)
+- [Skladací leták - ďalšie](/slides/brozura/skladacky.doc)
+- [Informácie o štúsiu](/slides/brozura/informacie-o-studiu-24-25.doc)
