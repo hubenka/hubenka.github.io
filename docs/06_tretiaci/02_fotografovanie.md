@@ -1,6 +1,6 @@
 ---
-title: Úprava fotografií
-slug: ucivo
+title: Fotografie
+slug: fotografie
 publish: true
 ---
 

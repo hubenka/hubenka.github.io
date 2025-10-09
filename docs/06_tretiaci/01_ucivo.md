@@ -14,7 +14,8 @@ publish: true
     - Fotografia a fotoaparát
     - Korekcia jasu a farieb
     - Filtre
-    - Masky
+    - Grafický dizajn
+    - Vrstvy a Masky
     - Retuš
 - [x] Vektorová grafika
     - Objekty a cesty
@@ -50,10 +51,10 @@ publish: true
 
 ### 1. polrok
 
-1. Cvičenie - ako ma ovplyvňujú masmédia?
-2. Cvičenie - verohodná koláž
-3. Cvičenie - reštaurovanie fotografie z negatívu
-4. Prezentácia - rastrová grafika - fotopríbeh
+1. Cvičenie - Exif metadáta
+2. Cvičenie - propagačný leták
+3. Cvičenie - ofarbovanie častí obrázkov
+4. Prezentácia - rastrová grafika - fotoreportáž
 5. Prezentácia - vektorová grafika - mapa
 
 ### 2. polrok
