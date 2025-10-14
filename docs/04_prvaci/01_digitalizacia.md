@@ -42,7 +42,6 @@ Výsledný súbor má 18 750 kB.
     - áno
     - nie
 14. Zistite akú veľkosť by mal nekomprimovaný súbor obrázka, ktorého metadáta vidíte na priloženej snímke obrazovky. Výsledok: ____ B
-
     ![Vlastnosti súboru](img/vlastnosti-suboru.png)
 15. Zakódujte cestu robota po záhrade, keď vychádza z políčka označeného Š a končí na políčku označenom C, pričom ide najkratšou možnou cestou. Vie sa pohybovať iba v štyroch základných smeroch: S = hore, V = vpravo, J = dole,  Z = vľavo. Robot môže ísť iba po šedých políčkach (cesta). Modrá je voda a zelený je záhon. Komprimujte zostavenú cestu prostredníctvom RLE (Run-Length Encoding).
     - Cesta robota: ____
@@ -65,7 +64,6 @@ Výsledný súbor má 18 750 kB.
 25. Doplňte paritný bit do každého bajtu správy a výsledok ponechajte v hexadecimálnej sústave.
 26. Vysvetlite princíp asymetrického šifrovania
 27. Stiahnite si jeden textový súbor, jednu zvukovú nahrávku a jeden obrázok. Mali by ste ich vedieť zobraziť alebo prehrať u seba na počítači, v opačnom prípade si skúste stiahnuť iný súbor (súbory s príponami .txt, .jpg, .mp3 by mali všade fungovať).
-
     - Úloha č.1: Podľa vlastností stiahnutých súborov zistite ich skutočnú veľkosť a tiež vypočítajte veľkosť súborov podľa spôsobu, ktorý sme si demonštrovali na hodine. Napr. nás zaujíma aké rozlíšenie, bitovú hĺbku a veľkosť má obrázok v skutočnosti, a koľko má podľa výpočtu. (Pre podrobnejšie informácie o súboroch môžete dobrovoľne vyskúšať aj program Media Info. https://mediaarea.net/en/MediaInfo)
     - Úloha č.2: Stiahnite si obrázok "farby.png" a podľa farebnej pipety zistite RGB trojice čísel, ktoré majú jednotlivé farebné prúžky.
     - Úloha č.3 (dobrovoľná): Vyskúšajte si v programe Audacity (https://www.audacityteam.org/) čo sa stane s nahrávkou, keď zmeníte  vzorkovaciu frekvenciu (návod: https://www.youtube.com/watch?v=LzZxJ_QyOyc). Vypočujte si a zhodnoďte.
