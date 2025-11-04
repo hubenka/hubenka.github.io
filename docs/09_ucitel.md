@@ -16,8 +16,8 @@ publish: true
 - [Cieľové požiadavky na vedomosti a zručnosti maturantov z informatiky](https://www.statpedu.sk/files/articles/nove_dokumenty/cielove-poziadavky-pre-mat-skusky/informatika.pdf)
 
 ## Ako sa správame?
-- [Školský poriadok](https://cloud-b.edupage.org/cloud/skolsky_poriadok24.pdf?z%3AivRemevhSjDLyiXJ7IRnHOL55jm3fLTSk8umTykW%2FYPrU86besrj0hBMENrr7qFF)
-- [Klasifikačný poriadok](https://cloud-7.edupage.org/cloud/klasifikacny_por._24-25.pdf?z%3AMsblcQSypRdAcrkc6HO%2F6k8vOnkZWJ31JVaSXu8%2FvrZQuj6wwExuVDoTZlr%2BPRLt)
+- [Školský poriadok](https://cloud-b.edupage.org/cloud/skolsky_poriadok25.pdf?z%3A2rl93yj8PAxGS%2Bcr6Jar0uJYq5Fyk9pi%2FomnGPTaJxaZJdZ%2BPGW0mc1zg0NI45OaHrRJMxmpRBNzB3U9dDDTwg%3D%3D)
+- [Klasifikačný poriadok](https://cloud-2.edupage.org/cloud/klasifikacny_por._25-26.pdf?z%3AEMuCb6khhFaaFBHsE8XFVC%2FoLw06lnhYaTXGvV8AypGeraNkvkz%2BktrlF%2FC4sQbfMgGjwnQAdv1bYq3T8dRKnw%3D%3D)
 - [Prevádzkový poriadok odbornej učebne informatiky](https://cloud-d.edupage.org/cloud/Prevadzkovy_poriadok_ucebne_informatiky.pdf?z%3AEtZC0JrfAv4eUoeqLy7yUmRjc3NTBo8tpK67085c5P4alL4VMdjqTfylgjyI4uhX)
 
 ## Aké princípy a postupy nasledujeme?

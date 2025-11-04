@@ -4,6 +4,28 @@ slug: jazyk-html
 publish: false
 ---
 
+## Webové služby
+
+- [x] E-learning, dištančné vzdelávanie
+- [x] **Internetové obchody, elektronické bankovníctvo**
+    - [Internet banking](https://app.vub.sk/inbizdemo/inbiz.html)
+    - [Eshop](https://de8.webroyal.sk/)
+    - **Úlohy**
+        1. Zostatok na bežnom účte
+        2. Vyplňte platbu kamarátovi/kamarátke za zmrzlinu cez IB a navrhnite iné spôsoby ako mu/jej vrátiť peniaze
+        3. Vyplňte trvalý príkaz za obedy v našej škole
+        4. Platba z bežného účtu – za tovar v e-shope podľa pokynov
+        5. Opíšte postup vytvorenia inkasa za dátový paušál na mobile
+- [ ] Malware, bezpečnosť a ochrana údajov
+
+## Algoritmické riešenie problémov
+
+- [ ] Typ znak, znakové reťazce
+    - Regulárne výrazy
+        - Testery: [Regex101](https://regex101.com/), [Debugex](https://www.debuggex.com/)
+        - Hra: [Regex Learn](https://regexlearn.com/cs-cz)
+        - Príkazy: [Cvičenia](https://www.viemeinformatiku.sk/cvicenia-regularne-vyrazy-skupiny-znakov)
+
 
 ## Základná stránka
 
