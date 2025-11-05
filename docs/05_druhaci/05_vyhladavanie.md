@@ -3,6 +3,13 @@ title: Vyhľadávanie na webe
 publish: true
 ---
 
+Počas riešenia nasledujúcich úloh preskúmaš vyhľadávania na webových stránkach (WWW). 
+
+Po niekoľkých hodín si vytvoríš vypracovaním úloh z tohto pracovného listu tvoje [portfólio](https://visibility.sk/blog/slovnik/portfolio/)
+Portfólio bude popisovať rôzne tebou navštívené webové stránky, postupy, porovnania a osvedčené odporúčania pre online vyhľadávanie.
+
+Portfólio je na záver témy známkované. Musí byť vyhotovené buď ako digitálny dokument (PDF) na cloudovom úložisku alebo papiere v "doskách" (lištová väzba alebo papierový zakladač).
+
 ## A. Faktografické informácie
 
 1. Vypíš si heslovite najdôležitejšie informácie o osobnosti informatiky. Bližie si prečítaj o jednej z týchto osobností: Alan Turing, Charles Babbage, Ada Lovelace, Tim Berners-Lee, John von Neumann. Využi online encyklopédiu, napr. Wikipedia alebo Britannica. Tvoje poznámky budú zachytávať:
@@ -11,10 +18,11 @@ publish: true
 	- prečo sú významnou osobnosťou informatiky - jedna hlavná zásluha a aspoň tri veci, ktoré spravili v odbore
 	- jedno ocenenie, ktoré dostali a za čo
 2. Zisti v obchodnom registri [ORSR.sk](https://www.orsr.sk/) alebo [Nové ORSR](https://sluzby.orsr.sk/)
-   - sídlo a deň vzniku spoločnosti FaxCopy a.s.
-   - spoločníkov a ich vklady vo FLORABEL s.r.o.
+	- sídlo a deň vzniku spoločnosti FaxCopy a.s.
+	- spoločníkov a ich vklady vo FLORABEL s.r.o.
 3. Porovnaj zisky a tržby dvoch veľkých kníhkupectiev za rok 2024: Martinus, s.r.o. a Panta Rhei, s.r.o. [finstat.sk](https://www.finstat.sk/)
 4. Ktorý zákon a určuje dĺžku povinnej školskej dochádzky a čo nej píše? [slov-lex.sk](https://www.slov-lex.sk/)
+5. Porovnaj svoje zistenia z predošlých úloh s odpoveďou z veľkého jazykového modelu (LLM): [ai.iedu.sk](https://ai.iedu.sk/nastroje-ai/)
 
 ## B. Mapové informácie
 
