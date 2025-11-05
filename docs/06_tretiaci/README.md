@@ -3,25 +3,63 @@ title: 3. ročník
 slug: 3-rocnik
 ---
 
-## Multimédia
-
-*Multimédiá sú kombináciou textu, zvuku, grafiky, animácie, interaktivity a videa; podmnožina hypermédií. Sú určené na informovanie a zábavu publika.*
+## Učivo
 
 
-## Propagačný leták školy
-**Učivo:** [Grafický dizajn](https://visibility.sk/blog/slovnik/graficky-dizajn/)
+### Multimédia
 
-1. Organizácie často majú grafické manuály pre zachovanie ich [vizuálnej identity](https://visibility.sk/blog/slovnik/vizualna-identita/) značky. Naša škola takýto manuál nemá. V záujme dobrého grafického dizajnu je prispôsobenie si princípov z existujúcich grafických manuálov. Ako príklad dizajn manuálu pozri napr.:
-    - [STU](https://www.stuba.sk/buxus/docs/stu/informacie_pre/media/graficky_manual/dizajnmanual.pdf) 
-    - [ESN](https://issuu.com/esnint/docs/visual_identity_manual_-_2023)
-2. Pozri si rôzne prelohy letákov a iných propagačných materiálov na webe. Hľadaj kľúčové slová v obrázkoch napr. `leaflet template` alebo `tri fold brochure leaflet template`. Existujú aj stránky, kde nájdeš pekné šablóny, ktoré môžeš použiť, napr. [Canva](https://www.freepik.com/free-photos-vectors/trifold-brochure) a [Freepik](https://www.freepik.com/free-photos-vectors/trifold-brochure). Daj pozor na správne uvedenie autora vo svojom výtvore.
-3. Vytvor leták pre propagáciu našej školy s využitím textov a obrázkov nájdených tu. Môžeš si vytvoriť aj vlastnú grafiku. 
-    - Veľkosť max. A4 ako skladací leták alebo A5 prípadne menší. Rozlíšenie pdf výstupu bude 300 dpi. Výber programu na vytvorenie grafiky je na tebe - najlepší však bude cloudový nástroj - aby si vedel svoj výtvor dokončiť aj neskôr.
-    - [AKTUÁLNY TEXT](/slides/brozura/zadanie-aktualne.docx)
+- [x] Multimédia okolo nás
+- [x] Rastrová grafika
+    - Fotografia a fotoaparát
+    - Korekcia jasu a farieb
+    - Filtre
+    - Grafický dizajn
+    - Vrstvy a Masky
+    - Retuš
+    - Orez a koláž
+- [x] Vektorová grafika
+    - Objekty a cesty
+    - Vrstvy
+- [x] Audio
+    - Viacstopová časová os
+    - Zvukové efekty
+- [x] Video (*)
+    - Stop motion animácia
 
+### Umelá inteligencia
 
-Predošlé letáky na inšpiráciu:
+- [x] Exponenciálny rast
+    - Turingov test
+    - Singularita
+- [x] Veľké dáta
+    - Strojové učenie a neurónové siete
+    - Generatívna AI
+    - AI v smartfóne
+- [x] Robotika
+    - Samoriadiace autá
+    - Humanoidy
+- [x] Zdravie
+    - AI v zdravotníctve
+    - DNA a génové manipulácie
+- [x] Život v budúcnosti
+    - Inteligentná domácnosť
+    - Energetika v budúcnosti
+    - Automatizácia pracovnej sily a nové povolania
+    - Vzdelávanie v budúcnosti
 
-- [Skladací leták 2020/21](/slides/brozura/skladacky-20-21.docx)
-- [Skladací leták - ďalšie](/slides/brozura/skladacky.doc)
-- [Informácie o štúsiu](/slides/brozura/informacie-o-studiu-24-25.doc)
+## Hodnotenie
+
+### 1. polrok
+
+1. Cvičenie - Exif metadáta
+2. Cvičenie - propagačný leták
+3. Cvičenie - ofarbovanie častí obrázkov
+4. Prezentácia - rastrová grafika - fotoreportáž
+5. Prezentácia - vektorová grafika - mapa
+
+### 2. polrok
+
+1. Prezentácia - audiokniha
+2. Prezentácia - téma z umelej inteligencie
+3. Diskusia - k témam prezentácii z umelej inteligencie
+4. Cvičenie - používanie AI nástrojov

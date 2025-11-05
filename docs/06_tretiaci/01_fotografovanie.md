@@ -4,6 +4,10 @@ slug: fotografie
 publish: true
 ---
 
+## Multimédia
+
+*Multimédiá sú kombináciou textu, zvuku, grafiky, animácie, interaktivity a videa; podmnožina hypermédií. Sú určené na informovanie a zábavu publika.*
+
 
 ### Fotobanka
 
