@@ -1,5 +1,5 @@
 ---
-title: Časovač a animácia
+title: Časovač
 publish: true
 ---
 
@@ -12,7 +12,7 @@ publish: true
 Cieľ: Programovo ovládať herné a neherné postavy v 2D grafike
 
 - Rozpohybovať svoje postavičky (Spraviť funkciu pre kreslenie postavičky bolu na DÚ)
-    - Herná postava bude reagovať na stlačenie kláves na kláavesnici
+    - Herná postava bude reagovať na stlačenie kláves na klávesnici
     - NPC (nehrateľné postavičky) sa budú samovoľne pohybovať medzi určenými bodmi
 
 
