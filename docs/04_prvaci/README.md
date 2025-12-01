@@ -3,6 +3,13 @@ title: 1. ročník
 slug: 1-rocnik
 ---
 
+## Word
+
+- [Súbory TU](https://drive.google.com/drive/folders/1Q8f2RnjWe9mWEHfIGR4H_rm1oHvNtaEf?usp=sharing)
+
+
+---
+
 ## Digitalizácia údajov
 
 ### Učebnica

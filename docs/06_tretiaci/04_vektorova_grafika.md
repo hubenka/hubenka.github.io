@@ -1,20 +1,23 @@
 ---
-title: Vektorová grafika
+title: Vektorová grafika - Projekt
 slug: vektorova-grafika
 publish: true 
 ---
 
-## Úloha č.1 - Myšlienková mapa
+## Magický svet rozprávok
 
-1. Nainštaluj si na počítač program na úpravu vektorovej grafiky [Inkscape](https://inkscape.org/)
-2. Vo dvojici si zakreslite na papieri do myšlienkovej mapy jednu tému alebo jej časť z vášho seminára. 
-3. Dvojice si vymenia papiere. Myšlienkovú mapu zo papiera vytvorte ako dvojica v Inkscape.
+- [Pozn.: divergentné myslenie](https://ludusacademy.sk/kreativnyblog/tvoriv%C3%A9-divergentn%C3%A9-myslenie-v-ka%C5%BEdodennom-%C5%BEivote)
 
----
+Nakresli v [Inkscape](https://inkscape.org/) obrázok vektorovej grafiky podľa zvolenej témy.
+- Využite farebné geometrické útvary, čiary, vrstvy, kombinácie ciest (https://inkscape.org/doc/tutorials/advanced/tutorial-advanced.html)
 
-## Úloha č.2 - Projekt - Magický svet rozprávok
-- *Sem príde úplné zadanie* - nebuď až tak zvedavý/á, dočkáš sa čoskoro 😉
-- Dve témy:
-    - Rozprávková postavička s charakterovým profilom a životným príbehom
-    - Fiktívna krajina rozprávkového kráľovstva (a.k.a. "Narnia") s dejinnými udalosťami
-- Termín: do 15.12.2025
+- **Témy:**
+    1. Rozprávková postavička s charakterovým profilom a životným príbehom - z požadovaného počtu geometrických tvarov 
+    2. Fiktívna krajina rozprávkového kráľovstva ("Narnia") s dejinnými udalosťami - mapa alebo scenéria
+- **Termín:** do 15.12.2025
+
+#### Postup
+
+1. Každý si vyberie tému
+2. Rozdelíme sa na skupiny. Najprv jednotlivec vymyslí 2 spôsoby hodnotenia - čo má téma obsahovať. Neskôr skupina zostaví spoločný zoznam kritérií, ktoré sa budú hodnotiť a za koľko bodov.
+3. Začneme kresliť projekty (2 týždne)
