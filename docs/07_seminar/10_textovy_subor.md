@@ -37,6 +37,7 @@ V textovom súbore (jedla.txt) sú uložené informácie o označených jedlách
 jedla (z - zelená, c - červená, m – modrá, h - hnedá). 
 
 Vytvorte program, ktorý:
+
 0. Vytvorí súbor s náhodným počtom jedál z farebných označení.
 1. Z textového súboru zistí celkový počet jedál na nasledujúci deň.
 2. Spočíta, počet jednotlivých jedál a vypíše ich počty (zvlášť jednotlivé farby).
@@ -48,6 +49,7 @@ Vytvorte program, ktorý:
 V textovom súbore máme zapísaný priebeh hry „Háďa“. V riadku sú znaky, ktoré reprezentujú smer pohybu hadíka. Jeden znak reprezentuje jeden krok, napr. HHHHHHDDDDLLLLLLLLLDHH
 
 Vytvorte program, ktorý:
+
 1. zisti počet riadkov v súbore zisti, koľko krokov má najdlhšia hra
 2. vytvorí kópiu textového súboru tak, že kópiu vytvorí v komprimovanom tvare použitím metódy opakujúcich sa znakov, napr. 6H 4D 9L 1D 2H
 3. Zakreslí cestu hadu do grafickej plochy.
