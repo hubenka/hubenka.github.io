@@ -29,8 +29,8 @@ publish: true
 
 ### 4 - Instagram
 
-![Detektor lži](/2-rocnik/assets/detektor-lži-1.jpg)
-![Detektor lži](/2-rocnik/assets/detektor-lži-2.jpg)
+![Detektor lži](/2-rocnik/assets/detektor-lzi-1.jpg)
+![Detektor lži](/2-rocnik/assets/detektor-lzi-2.jpg)
 
 
 ### 5 - YouTube
