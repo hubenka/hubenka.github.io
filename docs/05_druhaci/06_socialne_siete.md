@@ -19,7 +19,7 @@ publish: true
 
 ### 2 - Facebook
 
-![Diskusia](/2-rocnik/assets/šimečka.jpg)
+![Diskusia](/2-rocnik/assets/diskusia.jpg)
 
 ### 3 - Instagram
 
