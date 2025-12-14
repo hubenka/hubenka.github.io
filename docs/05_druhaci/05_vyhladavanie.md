@@ -5,7 +5,7 @@ publish: true
 
 Počas riešenia nasledujúcich úloh preskúmaš vyhľadávania na webových stránkach (WWW). 
 
-Po niekoľkých hodín si vytvoríš vypracovaním úloh z tohto pracovného listu tvoje [portfólio](https://visibility.sk/blog/slovnik/portfolio/)
+Po niekoľkých hodín si vytvoríš vypracovaním úloh z tohto pracovného listu tvoje [portfólio](https://visibility.sk/blog/slovnik/portfolio/).
 Portfólio bude popisovať rôzne tebou navštívené webové stránky, postupy, porovnania a osvedčené odporúčania pre online vyhľadávanie.
 
 Portfólio je na záver témy známkované. Musí byť vyhotovené buď ako digitálny dokument (PDF) na cloudovom úložisku alebo papiere v "doskách" (lištová väzba alebo papierový zakladač).
