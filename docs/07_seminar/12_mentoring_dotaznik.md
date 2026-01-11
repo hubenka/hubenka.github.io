@@ -32,7 +32,7 @@ Každá z rolí mala svoj cieľ, ktorý sa snaží počas polroka naplniť:
 
 ## SOM MENTOR
 
-- [Mentor Dotazník](https://forms.gle/Ew4ZvhSVFc23QBKu6)
+[Mentor Dotazník](https://forms.gle/Ew4ZvhSVFc23QBKu6)
 
 1. Tvoje meno a priezvisko
 2. V akých situáciach som poskytol svojmu menteemu konštruktívnu spätnú väzbu s uznaním úspechov jeho práce?
@@ -44,7 +44,7 @@ Každá z rolí mala svoj cieľ, ktorý sa snaží počas polroka naplniť:
 
 ## SOM MENTEE
 
-- [Mentee Dotazník](https://forms.gle/AiT7j1x784jeLpBMA)
+[Mentee Dotazník](https://forms.gle/AiT7j1x784jeLpBMA)
 
 1. Tvoje meno a priezvisko
 2. Aké boli plusy a mínusy tvojho mentora pri tvojom zlepšovaní sa v programovaní?
