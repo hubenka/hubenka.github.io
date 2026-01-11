@@ -3,6 +3,24 @@ title: 2. ročník
 slug: 2-rocnik
 ---
 
+## Nakupovanie na internete - Zariaď si detskú izbu
+
+Detskú izbu v novom príbytku, kam ste sa presťahovali, budeš zariaďovať **vo dvojici** (pre jednu osobu alebo súrodencov, výber je vás).
+
+Izba je úplne prázdna, steny sú čerstvo vymalované na bielo, podlaha sú laminátové parkety, vo výške 90 cm začína parapet okna. Výška stropu je 260 cm, z ktorého zatiaľ visí žiarovka na kábli. Pôdorys izby o rozmeroch 2,8 x 4,2 metra je nakreslený nižšie.
+
+![Diskusia](/2-rocnik/assets/izba-podorys.jpg)
+
+**Izbu je potrebné zariadiť nábytkom a doplnkami**, ideálne s cenovkou **najviac do 2000 €**. **Výsledná tabuľka** bude obsahovať najmenej názvy produktov, ich ceny a rozmery, spôsob dopravy, spôsob platby, obchod, odkaz na webstránku obchodu s produktom. **Izbu je potrebné naskicovať** a uviesť rozmery.
+
+**Bonus:** Namodelujte si izbu v softvéri na to určenom (2D alebo aj 3D) napr. [Sweet Home 3D](https://www.sweethome3d.com/cs/).
+
+Po každej hodine je povinné odovzdať priebežnú prácu do Edupage.
+
+
+---
+
+
 ## Učivo
 
 ### Počítačové siete

@@ -3,6 +3,20 @@ title: 3. ročník
 slug: 3-rocnik
 ---
 
+## Audio
+
+- [Súbory TU](https://drive.google.com/drive/folders/1kWf3uGmJsd-5su9iUoXNi3MZlI2RqHJ3?usp=drive_link)
+
+### Úlohy
+
+1. Stiahni si a nainštaluj open-source program na úpravu zvuku [Audacity](https://www.audacityteam.org/)
+    - Stručný návod k Audacity nájdeš na odkaze vyššie.
+2. Zo súborov si stiahni Audacity projekt (.aup) s názvom "Na západe nič nového" a súvisicu hudbu v dvoch súboroch .mp3.
+3. Do časovej osi v Audacity pridaj na vhodné miesta k nahrávke úryvku z knihy stiahnutú hudbu. Použi ďalšie stopy pre každú zo skladieb.
+4. Použi efekt zhlasenia na začiatku a stíšenia na konci skladby. (fade in / fade out). 
+
+---
+
 ## Učivo
 
 

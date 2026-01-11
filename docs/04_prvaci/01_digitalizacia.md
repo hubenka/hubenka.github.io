@@ -3,6 +3,37 @@ title: Digitalizácia údajov
 publish: true
 ---
 
+---
+
+## Digitalizácia údajov
+
+### Učebnica
+
+- [Digitalizácia textu](/ucebnica/digitalizacia/text/)
+- [Digitalizácia obrazu](/ucebnica/digitalizacia/obraz/)
+- [Digitalizácia zvuku](/ucebnica/digitalizacia/zvuk/)
+
+---
+
+### Prezentácie
+
+- [Základy pojmy informatiky a Stavba počítača](/slides/zaklady-informatiky.pdf)
+- [Digitalizácia údajov](/slides/digitalizacia-udajov.pdf)
+
+---
+
+### Úloha:
+
+Vypočítaj veľkosti rôznych typov súborov v počítači podľa vlastností súboru alebo programu [MediaInfo](https://mediaarea.net/en/MediaInfo). Porovnaj výpočet so skutočnosťou veľkosťou. 
+
+- Textové súbory: .txt,
+- Obrazové súbory: .jpg, .png,
+- Zvukové súbory: .wav, .mp3
+
+- [Súbory TU](https://drive.google.com/drive/folders/1Q8f2RnjWe9mWEHfIGR4H_rm1oHvNtaEf?usp=sharing)
+
+---
+
 ## Úlohy
 
 1. Ako sa nazýva základná jednotka informácie? ____
