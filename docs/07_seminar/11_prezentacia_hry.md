@@ -14,6 +14,7 @@ publish: true
 ## Hodnotenie hier
 
 **Maximálne za 20 bodov**. Skladá sa z 2 častí:
+
 - **Biznis prezentácia = 8 b**
     - Táto časť zodpovedá na otázky pre koncových používateľov (**čo to je za hru**) 
     - a vyzýva na podporu veľkolepejšej myšlienky hry (**ako môže vyzerať do budúcna**)
