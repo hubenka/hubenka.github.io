@@ -1,6 +1,6 @@
 ---
 title: Časovač
-publish: true
+publish: false
 ---
 
 ## Demonštrácia

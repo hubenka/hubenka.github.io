@@ -3,7 +3,7 @@ title: Textový súbor
 publish: true
 ---
 
-## Návod z učebnie
+## Návod z učebnice
 
 - [Textové súbory v Pythone](https://python2016-sphinx.readthedocs.io/sk/latest/07.html)
 

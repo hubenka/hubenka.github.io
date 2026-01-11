@@ -1,6 +1,6 @@
 ---
 title: Cyklus
-publish: true
+publish: false
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: CSS úlohy
 slug: css
-publish: false
+publish: true
 ---
 
 ## Kapitola č.1 - Box Model
@@ -20,7 +20,7 @@ p {
     margin: 10px;
 }
 
-// Selektor identifikítoru (id="uvod")
+// Selektor identifikátoru (id="uvod")
 #uvod {
     text-align: center;
     color: red;
