@@ -11,9 +11,9 @@ slug: 3-rocnik
 
 1. Stiahni si a nainštaluj open-source program na úpravu zvuku [Audacity](https://www.audacityteam.org/)
     - Stručný návod k Audacity nájdeš na odkaze vyššie.
-2. Zo súborov si stiahni Audacity projekt (.aup) s názvom "Na západe nič nového" a súvisicu hudbu v dvoch súboroch .mp3.
+2. Zo súborov si stiahni Audacity projekt (.aup) s názvom "Na západe nič nového" a súvisiacu hudbu v dvoch súboroch .mp3.
 3. Do časovej osi v Audacity pridaj na vhodné miesta k nahrávke úryvku z knihy stiahnutú hudbu. Použi ďalšie stopy pre každú zo skladieb.
-4. Použi efekt zhlasenia na začiatku a stíšenia na konci skladby. (fade in / fade out). 
+4. Použi efekt zvýšenia hlastitosť na začiatku a stíšenia na konci skladby. (fade in / fade out). 
 
 ---
 

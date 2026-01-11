@@ -1,6 +1,6 @@
 ---
 title: Mentoring
-publish: true
+publish: false
 ---
 
 Počas semináru z informatiky budete si budete pomáhať vo dvojiciach: mentor - mentee.

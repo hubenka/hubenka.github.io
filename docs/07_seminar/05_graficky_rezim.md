@@ -1,6 +1,6 @@
 ---
 title: Grafický režim
-publish: true
+publish: false
 ---
 
 

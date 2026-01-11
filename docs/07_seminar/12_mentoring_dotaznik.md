@@ -32,23 +32,23 @@ Každá z rolí mala svoj cieľ, ktorý sa snaží počas polroka naplniť:
 
 ## SOM MENTOR
 
-- Link na google forms
+- [Mentor Dotazník](https://forms.gle/Ew4ZvhSVFc23QBKu6)
 
-0. Tvoje meno a priezvisko
-1. V akých situáciach som poskytol svojmu menteemu konštruktívnu spätnú väzbu s uznaním úspechov jeho práce?
-2. Ako sa prejavilo na spolupráci s menteem, že som sa snažil mať pochopenie, že práca s neznámymi vecami môže byť stresujúca?
-3. Kedy som priznal svoju nevedomosť pri mentorovaní?
-4. Ako som viedol menteeho, aby nachádzal odpovede sám / sama?
-5. Za akých okolností by som chcel byť mentorom znovu? 
+1. Tvoje meno a priezvisko
+2. V akých situáciach som poskytol svojmu menteemu konštruktívnu spätnú väzbu s uznaním úspechov jeho práce?
+3. Ako sa prejavilo na spolupráci s menteem, že som sa snažil mať pochopenie, že práca s neznámymi vecami môže byť stresujúca?
+4. Kedy som priznal svoju nevedomosť pri mentorovaní?
+5. Ako som viedol menteeho, aby nachádzal odpovede sám / sama?
+6. Za akých okolností by som chcel byť mentorom znovu? 
 
 
 ## SOM MENTEE
 
-- Link na google forms
+- [Mentee Dotazník](https://forms.gle/AiT7j1x784jeLpBMA)
 
-0. Tvoje meno a priezvisko
-1. Aké boli plusy a mínusy tvojho mentora pri tvojom zlepšovaní sa v programovaní?
-2. Ako komunikoval tvoj mentor/ka, keď si narazil na prekážky pri riešení problémov?
-3. V akých situáciach si bol závislý od svojho mentora/ky?
-4. Kedy si bol naopak dostatočne sebavedomý/á a samostatný/á od svojho mentora?
-5. Čo by si robil inak ako svoj mentor/ka?
+1. Tvoje meno a priezvisko
+2. Aké boli plusy a mínusy tvojho mentora pri tvojom zlepšovaní sa v programovaní?
+3. Ako komunikoval tvoj mentor/ka, keď si narazil na prekážky pri riešení problémov?
+4. V akých situáciach si bol závislý od svojho mentora/ky?
+5. Kedy si bol naopak dostatočne sebavedomý/á a samostatný/á od svojho mentora?
+6. Čo by si robil inak ako svoj mentor/ka?

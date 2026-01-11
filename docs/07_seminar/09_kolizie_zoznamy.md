@@ -1,6 +1,6 @@
 ---
 title: Kolízie a zoznamy
-publish: true
+publish: false
 ---
 
 ## Návod - Detekcia kolízie medzi obdĺžníkmi

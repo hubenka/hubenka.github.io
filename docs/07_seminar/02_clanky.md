@@ -1,7 +1,7 @@
 ---
 title: Články o informatike
 slug: clanky
-publish: true 
+publish: false 
 ---
 
 ## Programovanie v Pythone
