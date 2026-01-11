@@ -9,7 +9,7 @@ Detskú izbu v novom príbytku, kam ste sa presťahovali, budeš zariaďovať **
 
 Izba je úplne prázdna, steny sú čerstvo vymalované na bielo, podlaha sú laminátové parkety, vo výške 90 cm začína parapet okna. Výška stropu je 260 cm, z ktorého zatiaľ visí žiarovka na kábli. Pôdorys izby o rozmeroch 2,8 x 4,2 metra je nakreslený nižšie.
 
-![Diskusia](/2-rocnik/assets/izba-podorys.jpg)
+![Izba](/2-rocnik/assets/izba-podorys.png)
 
 **Izbu je potrebné zariadiť nábytkom a doplnkami**, ideálne s cenovkou **najviac do 2000 €**. **Výsledná tabuľka** bude obsahovať najmenej názvy produktov, ich ceny a rozmery, spôsob dopravy, spôsob platby, obchod, odkaz na webstránku obchodu s produktom. **Izbu je potrebné naskicovať** a uviesť rozmery.
 
