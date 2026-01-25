@@ -1,7 +1,7 @@
 ---
-title: Audiokniha
+title: Audiokniha - projekt
 slug: audio
-publish: false 
+publish: true 
 ---
 
 Tvorcovia aplikácie na mobil, ktorá umožňuje si zakúpiť trháky beletrie ako audioknihy, strácajú poslucháčov. Prišli preto s myšlienkou minutových upútavok, ktoré sa budú dať prehrať pred zakúpením celej audioknihy. Inšpirovali sa trailermi na filmy, preto musí byť upútavka pútavejšia ako samotná audiokniha. Keďže je kníh veľa, zapojili do tejto úlohy aj vás.
