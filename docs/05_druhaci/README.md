@@ -11,7 +11,8 @@ slug: 2-rocnik
     - [Čo to je?](https://www.financnykompas.sk/financna-encyklopedia-pojmy/elektronicke-bankovnictvo)
     - [Ako platiť kartou cez internet](https://www.raiffeisen.sk/sk/o-banke/uzitocne-tipy/tipy/ako-platit-kartou-cez-internet-prezrite-si-navod-aj-bezpecnostne-tipy.html)
 - IBAN a číslo karty
-    - [Čo je IBAN?](https://www.creditcardvalidator.org/generator)
+    - [Čo je IBAN?](https://nbs.sk/platby/vseobecne-informacie/iban/)
+    - [Generátor čísel kariet](https://www.creditcardvalidator.org/generator)
     - [Generátor IBAN](https://www.generateiban.com/)
 - DEMO 
     - [Platobná brána](https://help.comgate.cz/docs/en/payment-gateway-demo)
