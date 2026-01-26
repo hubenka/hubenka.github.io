@@ -24,10 +24,10 @@ slug: 2-rocnik
 Úlohy 1 a 2 odovzdajte na papieri. Úlohu 3 odovzdajte elektronicky. Obe sú známkované.
 
 1. Otvori si demo platobnej brány a vypíš aké údaje do akých políčok zadáš pri platbe kartou?
-    - Zopovedz postup ako sa dá platiť smartfónom?
+    - Zopovedz postup ako sa dá pridať karta do smartfónu a následne platiť smartfónom v platobnom termináli?
 2. Otvor si demo internet banking a vypíš aké údaje do akých políčok zadáš pri vytvorení nového:
     - platobného príkazu?
-    - trvalého príkazu?
+    - trvalého príkazu? Platba v oboch prípadoch bude za váš obed v školskej jedálni (jeden mesiac, na celý školský rok).
 3. Dokonči úlohu "Nakupovanie na internete". Učiteľovi na email (hajek@ghubba.sk) alebo na Edupage pošli:
     - hotovú tabuľku s údajmi o nábytku a doplnkoch (rozpočet do 2000€) (.xlsx)
     - skicu izby s umiestneným nábytku (.jpg)
