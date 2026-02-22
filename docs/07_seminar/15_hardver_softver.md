@@ -33,6 +33,17 @@ Vylosuješ si číslo od 1 do 8 a spracuješ na hodine otázky do slajdov zo vš
 
 ### C
 
+1. Aké sú úlohy operačného systému?
+2. Z akých morálnych a spoločenských potrieb sa zrodilo hnutie slobodného softvéru? (zastúpené Free Sofware Foundation)
+3. Aké sú rozdiely medzi slobodným (free software) a otvoreným (open source) softvérom?
+4. Aké sú odôvodnenia existencie pre proprietárny softvér (prečo za softvér máme vôbec platiť)?
+5. Aké práva a slobody má garantovať slobodný a otvorený softvér a akými licenciami sa tieto práva kodifikujú?
+6. Aké možnosti ponúka slobodný a otvorený softvér pre podnikanie?
+7. Ktoré aplikácie (programy / produkty) tvorili významné miľníky, aby sa slobodný softvér dostal do povedomia firiem a spoločnosti?
+8. Prečo nastal rozkol medzi predstaviteľmi z hnutia slobodného a z hnutia otvoreného softvéru a ako sa prejavil?
+
+### D
+
 1. Chcem vyskúšať Linux ako používateľ Windowsu, aké má výhody napríklad Linux oproti Windowsu, resp. je ťažké si zvyknúť na tento presun?
 2. Chcem využívať Linux na hranie hier s GPU od Nvidia ako sa môže správať Linux pri hraní hier a je tento proces o nieco zložitejší alebo nie?
 3. Už v 80-tych rokoch sa hovorilo o tom, že bude OS uzatvorený systém bez nijakých možností šírenia, ako sa to prejavuje dnes? Predpovedali budúcnosť alebo nie?
@@ -42,7 +53,7 @@ Vylosuješ si číslo od 1 do 8 a spracuješ na hodine otázky do slajdov zo vš
 7. Kedy došiel boom Linux v jeho využití, a ako ho využívali?
 8. Na aký finančný problém narazili vývojári, keď sa Microsoft začal pretláčať na HTTP a HTML?
 
-### D
+### E
 
 1. Čo znamená skratka „GNU“?
 2. Kde vznikli prvé biznisy založené na GNU softvéri a filozofii?
@@ -54,17 +65,6 @@ Vylosuješ si číslo od 1 do 8 a spracuješ na hodine otázky do slajdov zo vš
 8. Keď sa spomína slovo „free“, v akom zmysle je väčšinou myslené?
 
 
-### E
-
-1. Čo je hardvér? (jeden príklad z bežného počítača)
-2. Čo je softvér? (jeden príklad)
-3. Čo je Linux? (hardvér alebo softvér)
-4. Na akých typoch hardvéru môže Linux bežať (napr. osobný počítač, server)?
-5. Prečo je dôležité, aby softvér dobre spolupracoval s hardvérom?
-6. Čo znamená „slobodný softvér“ (free software) podľa Richard Stallman?
-7. Ako pomáhala komunita ľuďom nainštalovať Linux na ich počítače?
-8. Aký je hlavný rozdiel medzi otvoreným (open source) a proprietárnym softvérom?
-
 ### F
 
 1. Na základe akých potrieb softvérovej komunity vznikol slobodný softvér?
@@ -75,3 +75,17 @@ Vylosuješ si číslo od 1 do 8 a spracuješ na hodine otázky do slajdov zo vš
 6. Prečo bol zámer postaviť jadro operačného systému GNU Hurd na princípe mikrokernelu?
 7. Aké dôvody viedli k zažalovaniu Microsoftu za monopolné správanie v roku 1998?
 8. Aký vplyv v súčasnosti majú na nás praktiky technologických firiem podobné vtedajšiemu monopolnému správaniu sa Microsoftu?
+
+
+### G
+
+1. Čo je hardvér? (jeden príklad z bežného počítača)
+2. Čo je softvér? (jeden príklad)
+3. Čo je Linux? (hardvér alebo softvér)
+4. Na akých typoch hardvéru môže Linux bežať (napr. osobný počítač, server)?
+5. Prečo je dôležité, aby softvér dobre spolupracoval s hardvérom?
+6. Čo znamená „slobodný softvér“ (free software) podľa Richard Stallman?
+7. Ako pomáhala komunita ľuďom nainštalovať Linux na ich počítače?
+8. Aký je hlavný rozdiel medzi otvoreným (open source) a proprietárnym softvérom?
+
+
