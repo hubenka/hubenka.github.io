@@ -1,5 +1,5 @@
 ---
-title: Audiokniha - projekt
+title: Audiokniha - Projekt
 slug: audio
 publish: true 
 ---
@@ -8,9 +8,9 @@ Tvorcovia aplikácie na mobil, ktorá umožňuje si zakúpiť trháky beletrie a
 
 Zvoľte si **úryvok z vašej obľúbenej knihy**, ktorého prečítanie nahlas bude trvať **aspoň 60 sekúnd** (odhadom min. 100 slov). Nahrajte váš hlas pri čítaní vybraného úryvku do počítača – či už priamo cez mikrofón alebo cez smartfón.
 
-V programe Audacity pridajte k nahrávke hlasu vhodný **hudobný podmaz (min. 1 pesnička) a zvukové efekty (min. 3 rôzne efekty)**. Hudobná skladba a efekty musia byť voľne dostupné na internete a opatrené licenciou, ktorá umožňuje úpravu (napr. Public Domain, Creative Commons BY/NC/SA).
+V programe Audacity pridajte k nahrávke hlasu vhodný **hudobný podmaz (min. 1 pesnička) a zvukové ruchy (min. 3 rôzne ruchy)**. Hudobná skladba a efekty musia byť voľne dostupné na internete a opatrené licenciou, ktorá umožňuje úpravu (napr. Public Domain, Creative Commons BY/NC/SA).
 
-**Výsledný zvukový mix** musí mať v celej svojej dĺžke **vyvážené úrovne hlasitosti**. To prinajmenšom znamená zrozumiteľný hlasový prejav bez šumu v popredí, a primerane hlasnú hudbu a efekty v pozadí.
+**Výsledný zvukový mix** musí mať v celej svojej dĺžke **vyvážené úrovne hlasitosti**. To prinajmenšom znamená zrozumiteľný hlasový prejav bez šumu v popredí, a primerane hlasnú hudbu a ruchy v pozadí.
 
 Pošlite **export zvukového mixu (.mp3)**. A tiež **dokument vo Worde (.docx)** (nadpis, autor) s postupom krokov pri úprave (číslované odrážky), zdroje hudby a efektov podľa pravidiel licencie skladby (odrážky), 1 snímku obrazovky celej časovej osi v audacity (obrázok).
 
