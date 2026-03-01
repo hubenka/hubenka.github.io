@@ -1,6 +1,6 @@
 ---
 title: Digitalizácia údajov
-publish: true
+publish: false
 ---
 
 ---
