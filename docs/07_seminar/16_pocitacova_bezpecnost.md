@@ -20,9 +20,9 @@ Prečítaj si pridelený článok z: [Učebnica informačnej bezpečnosti pre st
 
 Pri čítaní textu z učebnice si vytvor poznámky technikou [INSERT](https://cs.wikipedia.org/wiki/Metoda_INSERT) - *Interactive noting system for effective reading and thinking*
 
-- √ Fajkou, si označ informácie, ktoré boli pre teba známa.
-- − Mínusom, si označ informácie, ktoré sú v rozpore s tým čo vieš.
-- + Plusom, si označ informácie, ktoré sú pre teba nové.
-- ? Otáznikom, si označ informácie, ktorým nerozumieš alebo chceš o nich vedieť viac.
+- `√` Fajkou, si označ informácie, ktoré boli pre teba známa.
+- `−` Mínusom, si označ informácie, ktoré sú v rozpore s tým čo vieš.
+- `+` Plusom, si označ informácie, ktoré sú pre teba nové.
+- `?` Otáznikom, si označ informácie, ktorým nerozumieš alebo chceš o nich vedieť viac.
 
 Informácie značené plusom a fajkou si vypíš. Informácie označené mínusom a otázníkom si over alebo si dohľadaj ďalšie informácie.
