@@ -1,6 +1,6 @@
 ---
 title: Prezentácia vianočných hier
-publish: true
+publish: false
 ---
 
 ## Priebeh prezentácie

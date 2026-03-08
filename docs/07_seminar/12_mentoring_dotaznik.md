@@ -1,6 +1,6 @@
 ---
 title: Dotazník pre mentoring
-publish: true
+publish: false
 ---
 
 ## Sebahodnotenie - dotazník pre mentoringový program

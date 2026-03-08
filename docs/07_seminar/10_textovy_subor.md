@@ -1,6 +1,6 @@
 ---
 title: Textový súbor
-publish: true
+publish: false
 ---
 
 ## Návod z učebnice

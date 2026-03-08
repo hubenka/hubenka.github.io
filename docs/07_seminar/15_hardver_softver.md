@@ -1,7 +1,7 @@
 ---
 title: Hardvér a softvér
 slug: hw-and-sw
-publish: true
+publish: false
 ---
 
 ## Úloha

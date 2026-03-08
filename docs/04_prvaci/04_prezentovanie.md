@@ -1,6 +1,6 @@
 ---
 title: Zásady pri tvorbe prezentácie
-publish: false
+publish: true
 ---
 
 **Pôvodný autor**: RNDr. Gabriela Kövesiová, Gymnázium Štefana Moysesa, Moldava nad Bodvou
