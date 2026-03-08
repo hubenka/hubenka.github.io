@@ -12,5 +12,6 @@ publish: true
 7. [Umelá inteligencia vo smartfóne](/slides/ui-smartfony-domacnost.pdf)
 8. [Vektory](/slides/vektory.pdf)
 9. [Neurónové siete](/slides/neuronove-siete.pdf)
-10. [Kybernetická bezpečnosť](/slides/kyberneticka-bezpecnost.pdf.pdf)
-11. [Digitálne umenie](/slides/digitalne-umenie.pdf)
+10. [Kybernetická bezpečnosť](/slides/kyberneticka-bezpecnost.pdf)
+11. [Bezpečnosť hesiel](/slides/Bezpecnost-hesiel.pdf)
+12. [Digitálne umenie](/slides/digitalne-umenie.pdf)
