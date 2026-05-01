@@ -15,3 +15,4 @@ publish: true
 10. [Kybernetická bezpečnosť](/slides/kyberneticka-bezpecnost.pdf)
 11. [Bezpečnosť hesiel](/slides/Bezpecnost-hesiel.pdf)
 12. [Digitálne umenie](/slides/digitalne-umenie.pdf)
+13. [Inteligentné mestá](/slides/urban-iot.pdf)
