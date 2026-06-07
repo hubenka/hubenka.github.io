@@ -11,7 +11,7 @@ publish: true
 
 ## Úlohy
 
-1. Vyberte si obrázok podľa svojte čísla. Prekreslite ho s určeným súradníc dôležitých pre nakreslenie. Použite iba obdĺžníky.
+1. Vyberte si obrázok podľa svojho čísla. Prekreslite ho s určeným súradníc dôležitých pre nakreslenie. Použite iba obdĺžníky.
 
 2. Napíšte kód pre program v jazyku Python, ktorý nakreslí obrázok.
 
