@@ -1,7 +1,7 @@
 ---
 title: Fotografie
 slug: fotografie
-publish: true
+publish: false
 ---
 
 ## Multimédia

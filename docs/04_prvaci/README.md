@@ -1,12 +1,8 @@
 ---
 title: 1. ročník
 slug: 1-rocnik
+publish: true
 ---
-
-## Excel - Tabuľkový kalkulátor
-
-- [Odkaz na úlohy TU](https://drive.google.com/drive/folders/13piV6MzvlgD483KleXzq3CfO17KdygRd?usp=drive_link)
-
 
 --- 
 
@@ -14,44 +10,37 @@ slug: 1-rocnik
 
 ### Informatika ako veda
 
-- [x] Základné pojmy informatiky
-- [x] Digitalizácia údajov
-- [x] Hardvér počítača
+- [ ] Základné pojmy informatiky
+- [ ] Digitalizácia údajov
+- [ ] Hardvér počítača
 
 ### Kancelársky softvér
 
-- [x] Textový procesor
-- [x] Tabuľkový kalkulátor
-- [x] Prezentačný softvér
+- [ ] Práca s textom *(MS Word)*
+- [ ] Práca s prezentáciami *(MS Powerpoint)*
+- [ ] Práca s tabuľkami *(MS Excel)*
 
-### Algoritmické riešenie problémov 
+### Algoritmizácia
 
-- [x] Algoritmus a programovací jazyk
-- [x] Syntaktické a sémantické chyby
-- [x] Premenné
-- [x] Grafický režim
-- [x] Vetvenie
-- [x] Cyklus
-- [x] Funkcie
-- [x] Udalosti z klávesnice a myši
-- [x] Časovač
-
-### Informačná spoločnosť
-
-- [x] Bezpečnosť na internete
-- [x] Autorské práva programov
+- [ ] Algoritmus a programovací jazyk *(Python)*
+- [ ] Postupnosť príkazov
+- [ ] Premenné
+- [ ] Vstup a výstup
+- [ ] Grafický režim
+- [ ] Vetvenie
+- [ ] Cyklus
 
 
 ## Hodnotenie
 
 ### 1. polrok
 
-1. Didaktický test - premena číselných sústav
-2. Praktické cvičenie - digitalizácia údajov a kompresia súborov
-3. Referát - poskladanie počítača z komponentov
-4. Praktické cvičenie - textový procesor - článok v časopise
-5. Open-book test - textový procesor - formátovanie knihy
-6. Prezentácia - kvíz s hypertextom
+1. Didaktický test - množstvo informácie
+2. Praktické cvičenie - kompresia súborov
+3. Referát - porovnanie parametrov notebookov/smartfónov
+4. Praktické cvičenie - práca s textom - seminárna práca k stavbe PC
+5. Open-book test - práca s textom - formátovanie článku
+6. Praktické cvičenie  - prezentácia - interaktívna úniková miestnosť
 
 ### 2. polrok
 

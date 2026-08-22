@@ -10,6 +10,56 @@ publish: true
 
 **Seminár z informatiky pre 4. ročník SŠ** (Oktáva, IV.A, V.BA) je zameraný najmä na prípravu žiakov na maturitnú skúšku a vysokoškolské štúdium STEM predmetov. Nosnou činnosťou je samostaná práca v problémovom vyučovaní a logická argumentácia faktov pri ich prezentovaní. Predmet rekapituluje tématické celky z predošlých ročníkoch v nových súvislostiach. Žiaci spoznajú širší spoločenský kontext informatiky a presahy do rozličných odvetví ľudského pôsobenia.
 
+
+---
+
+## Učivo
+
+### Programovanie
+
+#### Techniky
+
+- [ ] Mentoringová spolupráca
+- [ ] Revízia kódu
+- [ ] Ladenie kódu
+- [ ] Testovanie kódu
+
+#### Jazyk Python
+
+- [ ] Sekvencia príkzov
+- [ ] Premenné
+- [ ] Vetvenie
+- [ ] Cyklus
+- [ ] Súbory
+- [ ] Jednorozmerné zoznamy
+- [ ] Grafický režim
+- [ ] Udalosti klávesnice a myši
+- [ ] Časovač
+
+#### Hodnotenie
+
+- 4.ročník - didaktické testy z úloh z programovacieho jazyka (aspoň 3 testy)
+- 3.ročník - grafický program interaktívnej simulácie v spolupráci s mentorom (aspoň 3 miľníky + prezentácia)
+- Spoločné - mentoring
+
+
+### Teória
+
+- [ ] Reprezentácia a nástroje
+- [ ] Softvér a Hardvér
+- [ ] Komunikácia a spolupráca
+- [ ] Informačná spoločnosť
+- [ ] Opakovanie teórie
+
+
+#### Hodnotenie
+
+- 4.ročník - ústné odpovede k témam a pojmové mapy
+- 3.ročník - tímový multimediálny projekt - k témam z teórie (aspoň 3 miľníky + report)
+    - Výsledný produkt môže byť rôzny - video / animácia / webstránka
+
+---
+
 ## Oplatí sa prečítať
 - [Cieľové požiadavky na vedomosti a zručnosti maturantov z informatiky](https://www.statpedu.sk/files/articles/nove_dokumenty/cielove-poziadavky-pre-mat-skusky/informatika.pdf)
 - [Zbierka úloh z programovania](/programovanie/zbierka-uloh/premenne/uvod)
@@ -18,25 +68,4 @@ publish: true
 ## Editor
 - [CodeHS - Editor na programovanie](https://codehs.com/explore/sandbox)
 
-## Učivo
 
-
-### 4.ročník
-
-- [x] (1.polrok) Programovanie - typové maturitné úlohy - vzájomné učenie medzi tretiakmi a štvrtákmi
-- [x] (2.polrok - od februára) Teoretické okruhy
-    1. Digitalizácia údajov - esej príčin a následkov *(úvaha)* + výpočet veľkosti súboru
-    2. Hardvér a softvér -  odpovede na otázky k filmu *(refrerát)*
-    3. Počítačová sieť – fiktívny interview s odborníkom ako zvuková nahrávka *(interview)*
-    4. Počítačová bezpečnosť - práca s článkom o kybernetickom útoku alebo zraniteľnosti *(INSERT)*
-    5. Umelá inteligencia
-- [x] (2.polrok - od apríla) Príprava k maturitnej skúške - testovanie
-    1. Ústne odpovede k teórii (písomný test s otvorením odpoveďami)
-    2. Didaktický test z programovania (45 minút)
-    
-    
-### 3.ročník
-
-- [x] (1.polrok) Programovanie - s cieľom odprezentovať svoju vianočnú hru "Sen snehovej vločky"
-- [x] (2.polrok - od februára) Multimédia (video a animácia) - Reklamná kampaň - "Nástrahy a inteligencia umelej inteligencie"
-- [x] (2.polrok - od apríla) Webová stránka - webová prezentácia video reklamnej kampani

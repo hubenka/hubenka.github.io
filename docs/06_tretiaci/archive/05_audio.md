@@ -1,7 +1,7 @@
 ---
 title: Audiokniha - Projekt
 slug: audio
-publish: true 
+publish: false 
 ---
 
 Tvorcovia aplikácie na mobil, ktorá umožňuje si zakúpiť trháky beletrie ako audioknihy, strácajú poslucháčov. Prišli preto s myšlienkou minutových upútavok, ktoré sa budú dať prehrať pred zakúpením celej audioknihy. Inšpirovali sa trailermi na filmy, preto musí byť upútavka pútavejšia ako samotná audiokniha. Keďže je kníh veľa, zapojili do tejto úlohy aj vás.
@@ -22,6 +22,20 @@ Pošlite **export zvukového mixu (.mp3)**. A tiež **dokument vo Worde (.docx)*
 - [Audionautix](https://audionautix.com/)
 - [Incompetech](https://incompetech.com/)
 - [Freesound](https://freesound.org/)
+
+
+## Audio
+
+- [Súbory TU](https://drive.google.com/drive/folders/1kWf3uGmJsd-5su9iUoXNi3MZlI2RqHJ3?usp=drive_link)
+
+### Úlohy
+
+1. Stiahni si a nainštaluj open-source program na úpravu zvuku [Audacity](https://www.audacityteam.org/)
+    - Stručný návod k Audacity nájdeš na odkaze vyššie.
+2. Zo súborov si stiahni Audacity projekt (.aup) s názvom "Na západe nič nového" a súvisiacu hudbu v dvoch súboroch .mp3.
+3. Do časovej osi v Audacity pridaj na vhodné miesta k nahrávke úryvku z knihy stiahnutú hudbu. Použi ďalšie stopy pre každú zo skladieb.
+4. Použi efekt zvýšenia hlastitosť na začiatku a stíšenia na konci skladby. (fade in / fade out). 
+
 
 ---
 

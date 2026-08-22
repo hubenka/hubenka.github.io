@@ -1,7 +1,7 @@
 ---
 title: Vektorová grafika - Projekt
 slug: vektorova-grafika
-publish: true 
+publish: false 
 ---
 
 ## Magický svet rozprávok

@@ -1,7 +1,7 @@
 ---
 title: Grafický dizajn
 slug: graficky-dizajn
-publish: true
+publish: false
 ---
 
 ## Propagačný leták školy

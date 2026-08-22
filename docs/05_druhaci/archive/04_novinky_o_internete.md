@@ -1,6 +1,6 @@
 ---
 title: Novinky o internete
-publish: true
+publish: false
 ---
 
 1. [AI prehľady od Googlu kradnú stránkam návštevnosť](https://www.trend.sk/technologie/ai-prehlady-googlu-kradnu-strankam-navstevnost-ohrozeni-je-aj-presnost-informacii)

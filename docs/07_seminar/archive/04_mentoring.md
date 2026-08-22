@@ -12,11 +12,6 @@ Každá z rolí má svoj cieľ, ktorý sa snaží počas polroka naplniť:
 
 **Dvojice** (mentor - mentee) sú:
 
-- Veronika (4R) - Nina (3R)
-- Thiera (4R) - Lea (3R)
-- Adam (4R) - Alex (4R)
-- Kiko (4R) - Milan (4R)
-- Filip (3R) + p.Hájek - Matúš (3R)
 
 ## Úloha č.1
 (10 minút) Samostatne si prečítaj nasledovné články o mentoringu a poznačte si dôležité myšlienky:

@@ -1,7 +1,7 @@
 ---
 title: Prenosové média
 slug: pocitacova-siet
-publish: true
+publish: false
 ---
 
 ## Prenosové média

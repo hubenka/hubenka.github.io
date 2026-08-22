@@ -1,7 +1,7 @@
 ---
 title: Seminár - 4. ročník
 slug: 4-rocnik
-publish: true
+publish: false
 ---
 
 ## Seminár z Informatiky pre 4. ročník

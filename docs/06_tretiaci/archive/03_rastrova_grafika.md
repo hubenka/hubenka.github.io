@@ -1,7 +1,7 @@
 ---
 title: Rastrová grafika - Projekt
 slug: rastrova-grafika
-publish: true 
+publish: false 
 ---
 
 ## Fotoreportáž - koláž na plagáte

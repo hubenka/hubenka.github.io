@@ -1,7 +1,7 @@
 ---
 title: Úloha z programovania
 slug: uloha-z-programovania
-publish: true 
+publish: false 
 ---
 
 ## Obrázky

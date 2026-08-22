@@ -7,7 +7,7 @@ publish: true
 # Informatika @ Gymnázium Hubeného
 
 - Stránka školy: [Gymnázium, Hubeného 23](https://ghubeneho.edupage.org/)
-- Školský rok: 2025/2026
+- Školský rok: 2026/2027
 - Učiteľ: [Ing. Miroslav Hájek](ucitel/)
 
 ## V akom si ročníku?

@@ -1,6 +1,6 @@
 ---
 title: Sociálne siete
-publish: true
+publish: false
 ---
 
 ## Príspevky a komentáre na sociálnych sieťach

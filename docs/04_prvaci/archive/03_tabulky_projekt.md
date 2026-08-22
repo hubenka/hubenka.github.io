@@ -1,10 +1,14 @@
 ---
 title: Excel - projekt
-publish: true
+publish: false
 ---
 
 
 ## Projekt: Excel – Zaniknuté štáty a provincie
+
+
+- [Odkaz na úlohy TU](https://drive.google.com/drive/folders/13piV6MzvlgD483KleXzq3CfO17KdygRd?usp=drive_link)
+
 
 Ako bádateľ histórie sa chceš podeliť so svojimi objavmi prehľadným spôsobom. V archívoch si znovuobjavil množstvo listín o starobylých štátoch, ich provinciach a kolóniach. Hodilo by sa to zjednodušene zachytiť do tabuľky, z ktorej vieme potom odvodiť ďalšie súvislosti.
 
