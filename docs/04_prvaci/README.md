@@ -1,6 +1,6 @@
 ---
-title: 1. ročník
-slug: 1-rocnik
+title: 1.A
+slug: 1-A
 publish: true
 ---
 
@@ -29,6 +29,8 @@ publish: true
 - [ ] Grafický režim
 - [ ] Vetvenie
 - [ ] Cyklus
+- [ ] Udalosti grafického režimu
+- [ ] Časovač
 
 
 ## Hodnotenie

@@ -19,15 +19,16 @@ publish: true
 
 #### Techniky
 
-- [ ] Mentoringová spolupráca
-- [ ] Revízia kódu
-- [ ] Ladenie kódu
-- [ ] Testovanie kódu
+- [ ] Párové programovanie
+- [ ] Ladenie kódu (Debugging)
+- [ ] Testovanie kódu (Testing)
+- [ ] Revízia kódu (Code Review)
+
 
 #### Jazyk Python
 
-- [ ] Sekvencia príkzov
-- [ ] Premenné
+- [ ] Sekvencia príkazov
+- [ ] Premenné a vstupy a výstupy
 - [ ] Vetvenie
 - [ ] Cyklus
 - [ ] Súbory
@@ -39,8 +40,8 @@ publish: true
 #### Hodnotenie
 
 - 4.ročník - didaktické testy z úloh z programovacieho jazyka (aspoň 3 testy)
-- 3.ročník - grafický program interaktívnej simulácie v spolupráci s mentorom (aspoň 3 miľníky + prezentácia)
-- Spoločné - mentoring
+- 3.ročník - grafický program interaktívnej simulácie v spolupráci (aspoň 3 miľníky + prezentácia)
+- Spoločné - spolupráca vo dvojici
 
 
 ### Teória

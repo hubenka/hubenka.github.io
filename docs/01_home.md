@@ -11,9 +11,9 @@ publish: true
 - Učiteľ: [Ing. Miroslav Hájek](ucitel/)
 
 ## V akom si ročníku?
-- [**1.ročník** | Kvinta, I.A](1-rocnik/)
-- [**2.ročník** | Sexta, II.A](2-rocnik/)
-- [**3.ročník** | Septima, III.A](3-rocnik/)
+- [**1.A**](1-A/)
+- [**Kvarta**](kvarta/)
+- [**Septima**](septima/)
 - [**Seminár z informatiky**](seminar/)
 
 ## Učebnice

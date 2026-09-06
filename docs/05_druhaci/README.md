@@ -1,7 +1,7 @@
 ---
 title: 2. ročník
 slug: 2-rocnik
-publish: true
+publish: false
 ---
 
 ## Učivo
