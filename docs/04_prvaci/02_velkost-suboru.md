@@ -1,6 +1,6 @@
 ---
 title: Veľkosť súboru
-publish: false
+publish: true
 ---
 
 ### Text

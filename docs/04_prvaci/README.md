@@ -6,12 +6,16 @@ publish: true
 
 --- 
 
+## Prezentácie
+
+- [Digitalizácia údajov](/slides/digitalizacia-udajov.pdf)
+
 ## Učivo
 
 ### Informatika ako veda
 
-- [ ] Základné pojmy informatiky
-- [ ] Digitalizácia údajov
+- [x] Základné pojmy informatiky
+- [x] Digitalizácia údajov
 - [ ] Hardvér počítača
 
 ### Kancelársky softvér

@@ -7,6 +7,11 @@ publish: true
 
 ---
 
+## Prezentácie
+
+- [Digitálna fotografia](/slides/digitalna-fotografia.pdf)
+
+
 ## Učivo
 
 ### Multimédia

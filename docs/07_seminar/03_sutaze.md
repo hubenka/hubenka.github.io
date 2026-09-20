@@ -1,6 +1,6 @@
 ---
 title: Súťaže
-publish: false
+publish: true
 ---
 
 - [OI - Olympiáda v informatike](https://oi.sk/index.php)
