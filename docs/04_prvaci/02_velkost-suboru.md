@@ -21,8 +21,8 @@ publish: true
 
 ### Obraz
 
-1. Vypočítajte veľkosť čiernobielého (nie monochromatického!) rastrového obrázka s rozmermi 32 x 32 pixelov v odtieňoch šedej.
-2. Chceme kvalitne zoskenovať starú čiernobielu fotografiu a na USB kľúci nám zostáva 40 MB voľného miesta. Skener nastavíme na rozlíšenie 6000 x 4000 pixelov a TrueColor.
+1. Vypočítajte veľkosť čiernobielého (nie monochromatického!) rastrového obrázka s rozmermi 32 x 32 pixelov.
+2. Chceme kvalitne zoskenovať starú čiernobielu fotografiu a na USB kľúci nám zostáva 40 MB voľného miesta. Skener nastavíme na rozlíšenie 6000 x 4000 pixelov a farebný obrázok.
     - Koľko megapixelov má vysledný obrázok?
     - Akú veľkosť bude mať výsledný sken v MB?
     - Zmestí sa nám obrázok na USB kľúč?
