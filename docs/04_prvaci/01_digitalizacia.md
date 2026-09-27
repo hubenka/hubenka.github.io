@@ -30,7 +30,7 @@ Vypočítaj veľkosti rôznych typov súborov v počítači podľa vlastností s
 - Obrazové súbory: .jpg, .png,
 - Zvukové súbory: .wav, .mp3
 
-- [Súbory TU](https://drive.google.com/drive/folders/1Q8f2RnjWe9mWEHfIGR4H_rm1oHvNtaEf?usp=sharing)
+- [Súbory TU](https://drive.google.com/drive/folders/1LdqR7hZN-fkEvMbv-tTDc2jPWBogyNy8?usp=drive_link)
 
 ---
 
