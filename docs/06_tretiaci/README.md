@@ -10,6 +10,7 @@ publish: true
 ## Prezentácie
 
 - [Digitálna fotografia](/slides/digitalna-fotografia.pdf)
+- [Fotky - Galéria](https://drive.google.com/drive/folders/1gQ5A0My4WTup3om6q-iKQ35XGFpHLosu?usp=sharing)
 
 
 ## Učivo
