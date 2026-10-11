@@ -1,6 +1,6 @@
 ---
-title: Grafický režim
-slug: graficky-rezim
+title: Geometrické útvary
+slug: geometricke-utvary
 publish: true 
 ---
 
