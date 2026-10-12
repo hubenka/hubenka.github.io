@@ -1,6 +1,7 @@
 ---
 title: IF - Vetventie
-publish: vetvenie
+slug: vetvenie
+publish: true
 ---
 
 
