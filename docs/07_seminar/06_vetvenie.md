@@ -1,5 +1,5 @@
 ---
-title: IF - Vetventie
+title: IF - Vetvenie
 slug: vetvenie
 publish: true
 ---
