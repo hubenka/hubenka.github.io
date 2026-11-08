@@ -6,23 +6,28 @@ publish: true
 
 --- 
 
+## Laboratórny protokol
+
+- [Klikni SEM pre úlohy](https://drive.google.com/drive/folders/1pyVT_QnEXgbIvBYo9n3LOcxoou021LKb?usp=sharing)
+
+
 ## Učivo
 
 ### Textový procesor
 
-- [ ] Písmo - členenie textu
-- [ ] Odrážky
-- [ ] Obrázky
-- [ ] Tabuľky
+- [x] Písmo - členenie textu
+- [x] Odrážky
+- [x] Obrázky
+- [x] Tabuľky
+- [x] Pozvánka
 - [ ] Matematické vzorce
-- [ ] Pozvánka
 - [ ] Tlačivá
 - [ ] Knižná obálka
 - [ ] Projekt - Brožúra
 
 ### Prezentačný softvér
 
-- [ ] Účel prezerntácie
+- [ ] Účel prezentácie
 - [ ] Osnova
 - [ ] Šablóny
 - [ ] Rozloženie snímok (slajdy)
@@ -41,9 +46,3 @@ publish: true
 - [ ] Grafy
 - [ ] Projekt - Denník
 
-## Hodnotenie
-
-### 1. polrok
-
-
-### 2. polrok
