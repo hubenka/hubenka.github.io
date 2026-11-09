@@ -1,6 +1,6 @@
 ---
 title: Úprava fotiek
-slug: Úprava fotiek
+slug: uprava-fotiek
 publish: true
 ---
 

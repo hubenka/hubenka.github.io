@@ -17,7 +17,7 @@ publish: true
 
 ### Pokyny
 
-1. Naprogramuj **LEN prvú ćasť** vylosovaného zadania.
+1. Naprogramuj **LEN prvú časť** vylosovaného zadania.
 2. Do kódu svojho spolužiaka doplň **DRUHÚ ČASŤ** zadania
 
 ### Zadanie č.1
