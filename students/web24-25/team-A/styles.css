@@ -1,0 +1,638 @@
+body {
+    margin: 0;
+}
+
+.text02 {
+    font-family: Impact, 'Arial Narrow Bold', sans-serif;
+    color: white;
+}
+
+.text {
+    font-family: Impact, 'Arial Narrow Bold', sans-serif;
+    color: transparent;
+    -webkit-text-stroke: 0.15vw white;
+    margin: 0;
+}
+
+#cont1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    background-color: rgb(40, 40, 40);
+}
+
+#cont1A {
+    display: flex;
+    width: 35%;
+    height: 90%;
+    align-items: center;
+    background-color: transparent;
+    justify-content: center;
+    flex-direction: column;
+}
+
+#cont1B {
+    display: flex;
+    width: 35%;
+    height: 90%;
+    align-items: flex-end;
+    background-color: transparent;
+    justify-content: flex-end;
+}
+
+#cont2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    background-color: transparent;
+}
+
+.hidden {
+    display: none;
+}
+
+.auto-fit-text {
+    width: 100%;
+    max-width: 20vw;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    white-space: nowrap;
+    font-size: 16px;
+    border: 1vw transparent;
+}
+
+/* Media query for smaller screens */
+@media (max-width: 600px) {
+    .auto-fit-text {
+        font-size: 14px;
+    }
+}
+
+/*Základné vlastnosti stránky*/
+
+:root{
+    --bg-primary: rgb(40, 40, 40);
+    --bg-secondary: rgb(230, 230, 230);
+    --text-primary: rgb(255, 255, 255);
+    --text-secondary: rgb(40, 40, 40);
+}
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+    display: grid;
+    font-family:Impact, 'Arial Narrow Bold', sans-serif;
+    color: var(--text-primary);
+    background-color: var(--bg-primary);
+}
+
+main{
+    display: grid;
+    row-gap: 8vw;
+    font-family:Impact, 'Arial Narrow Bold', sans-serif;
+    color: var(--text-primary);
+    background-color: var(--bg-primary);
+    width: 70%;
+    margin: auto;
+    margin-top: 32px;
+    margin-bottom: 32px;
+}
+
+
+
+
+
+
+/*Prvý článok*/
+
+.clanok0{
+    margin-top: 32px;
+    width: 90%;
+    color: var(--text-secondary);
+    display: grid;
+    transition: 0.5s;
+    grid-template-areas: 
+    'obrazok obrazok texto texto texto'
+    'obrazok obrazok preklik preklik preklik'
+    'obrazok obrazok roh-dole-con roh-dole-con roh-dole-con'
+    'nazov nazov . . .';
+    place-self: center;
+}
+
+.clanok0:hover{
+    transform: scale(1.1);
+}
+
+.nazov-container0{
+    background-color: var(--bg-secondary);
+    border-radius: 0 0 2vw 2vw;
+    display: grid;
+    grid-area: nazov;
+}
+
+.nazov0{
+    place-self: center;
+    font-size: 5vw;
+    padding: 1vw;
+}
+
+.obrazok-container0{
+    background-color: var(--bg-secondary);
+    width: 100%;
+    border-radius: 2vw 0 0 0;
+    display: grid;
+    grid-area: obrazok;
+}
+
+.obrazok0{
+    width: 75%;
+    place-self: center;
+    margin: 3vw 3vw 2vw 2vw;
+}
+
+.text-container0{
+    background-color: var(--bg-secondary);
+    border-radius: 0 2vw 0 0;
+    display: grid;
+    grid-area: texto;
+}
+
+.text0{
+    font-size: 2vw;
+    place-self: center;
+    margin: 0;
+}
+
+.roh-container-dole0{
+    background-color: var(--bg-secondary);
+    grid-area: roh-dole-con;
+    display: grid;
+}
+
+.roh-dole0{
+    background-color: var(--bg-primary);
+    border-radius: 2vw 0 0 0;
+    width: 100%;
+}
+
+.preklik-container0{
+    background-color: var(--bg-secondary);
+    border-radius: 0 0 2vw 0;
+    display: grid;
+    grid-area: preklik;
+    padding-bottom: 12px;
+}
+
+.preklik0{
+    width: 20vw;
+    height: 5vw;
+    font-size: 2vw;
+    place-self: center;
+    color: var(--text-primary);
+    background-color: rgb(15, 15, 75);
+    border: 1px solid var(--bg-primary);
+    padding: 8px 16px 8px 16px;
+    border-radius: 2vw;
+    box-shadow: rgba(15, 15, 75, .5) 0 2px 5px 0;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+.preklik0:hover {
+  background-color: rgb(45, 45, 105);
+  font-size: 2.25vw;
+}
+
+
+
+
+
+
+
+/*Druhý clanok*/
+
+.clanok1{
+    width: 90%;
+    color: var(--text-secondary);
+    display: grid;
+    transition: 0.5s;
+    grid-template-areas: 
+    '. . . . . nazov nazov'
+    'roh-hore-con roh-hore-con roh-hore-con roh-hore-con roh-hore-con nazov nazov'
+    'texto texto texto texto texto obrazok obrazok'
+    'roh-dole-con roh-dole-con roh-dole-con roh-dole-con preklik obrazok obrazok';
+    place-self: center;
+}
+
+.clanok1:hover{
+    transform: scale(1.1);
+}
+
+.nazov-container1{
+    background-color: var(--bg-secondary);
+    border-radius: 2vw 2vw 0 0;
+    display: grid;
+    grid-area: nazov;
+}
+
+.nazov1{
+    place-self: center;
+    font-size: 5vw;
+    padding: 1vw;
+}
+
+.roh-container-hore1{
+    background-color: var(--bg-secondary);
+    grid-area: roh-hore-con;
+    display: grid;
+    height: 2vw;
+}
+
+.roh-hore1{
+    background-color: var(--bg-primary);
+    border-radius: 0 0 2vw 0;
+    width: 100%;
+}
+
+.obrazok-container1{
+    background-color: var(--bg-secondary);
+    width: 100%;
+    border-radius: 0 0 2vw 0;
+    display: grid;
+    grid-area: obrazok;
+
+}
+
+.obrazok1{
+    width: 75%;
+    place-self: center;
+    margin: 2vw 3vw 2vw 2vw;
+}
+
+.text-container1{
+    background-color: var(--bg-secondary);
+    border-radius: 2vw 0 0 2vw;
+    display: grid;
+    grid-area: texto;
+}
+
+.text1{
+    font-size: 2vw;
+    place-self: center;
+    padding: 2vw;
+    transition: 0.5s;
+}
+
+.roh-container-dole1{
+    background-color: var(--bg-secondary);
+    grid-area: roh-dole-con;
+    display: grid;
+}
+
+.roh-dole1{
+    background-color: var(--bg-primary);
+    border-radius: 0 2vw 0 0;
+    width: 100%;
+}
+
+.preklik-container1{
+    background-color: var(--bg-secondary);
+    border-radius: 0 0 0 2vw;
+    display: grid;
+    grid-area: preklik;
+    padding: 12px;
+}
+
+.preklik1{
+    width: 20vw;
+    height: 5vw;
+    font-size: 2vw;
+    place-self: center;
+    color: var(--text-primary);
+    background-color: rgb(15, 15, 75);
+    border: 1px solid var(--bg-primary);
+    padding: 8px 16px 8px 16px;
+    border-radius: 2vw;
+    box-shadow: rgba(15, 15, 75, .5) 0 2px 5px 0;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+.preklik1:hover {
+    background-color: rgb(45, 45, 105);
+    font-size: 2.25vw;
+}.clanok1{
+    width: 90%;
+    color: var(--text-secondary);
+    display: grid;
+    transition: 0.5s;
+    grid-template-areas: 
+    '. . . . . nazov nazov'
+    'roh-hore-con roh-hore-con roh-hore-con roh-hore-con roh-hore-con nazov nazov'
+    'texto texto texto texto texto obrazok obrazok'
+    'roh-dole-con roh-dole-con roh-dole-con roh-dole-con preklik obrazok obrazok';
+    place-self: center;
+}
+
+.clanok1:hover{
+    transform: scale(1.1);
+}
+
+.nazov-container1{
+    background-color: var(--bg-secondary);
+    border-radius: 2vw 2vw 0 0;
+    display: grid;
+    grid-area: nazov;
+}
+
+.nazov1{
+    place-self: center;
+    font-size: 5vw;
+    padding: 1vw;
+}
+
+.roh-container-hore1{
+    background-color: var(--bg-secondary);
+    grid-area: roh-hore-con;
+    display: grid;
+    height: 2vw;
+}
+
+.roh-hore1{
+    background-color: var(--bg-primary);
+    border-radius: 0 0 2vw 0;
+    width: 100%;
+}
+
+.obrazok-container1{
+    background-color: var(--bg-secondary);
+    width: 100%;
+    border-radius: 0 0 2vw 0;
+    display: grid;
+    grid-area: obrazok;
+
+}
+
+.obrazok1{
+    width: 75%;
+    place-self: center;
+    margin: 2vw 3vw 2vw 2vw;
+}
+
+.text-container1{
+    background-color: var(--bg-secondary);
+    border-radius: 2vw 0 0 2vw;
+    display: grid;
+    grid-area: texto;
+}
+
+.text1{
+    font-size: 2vw;
+    place-self: center;
+    padding: 2vw;
+    transition: 0.5s;
+}
+
+.roh-container-dole1{
+    background-color: var(--bg-secondary);
+    grid-area: roh-dole-con;
+    display: grid;
+}
+
+.roh-dole1{
+    background-color: var(--bg-primary);
+    border-radius: 0 2vw 0 0;
+    width: 100%;
+}
+
+.preklik-container1{
+    background-color: var(--bg-secondary);
+    border-radius: 0 0 0 2vw;
+    display: grid;
+    grid-area: preklik;
+    padding: 12px;
+}
+
+.preklik1{
+    width: 20vw;
+    height: 5vw;
+    font-size: 2vw;
+    place-self: center;
+    color: var(--text-primary);
+    background-color: rgb(15, 15, 75);
+    border: 1px solid var(--bg-primary);
+    padding: 8px 16px 8px 16px;
+    border-radius: 2vw;
+    box-shadow: rgba(15, 15, 75, .5) 0 2px 5px 0;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+.preklik1:hover {
+    background-color: rgb(45, 45, 105);
+    font-size: 2.25vw;
+}
+
+
+
+
+
+/*Tretí clanok*/
+
+.clanok2{
+    width: 90%;
+    margin-top: 3vw;
+    margin-bottom: 5vw;
+    color: var(--text-secondary);
+    display: grid;
+    transition: 0.5s;
+    grid-template-areas: 
+    'nazov . . . . .'
+    'nazov roh-hore-con roh-hore-con roh-hore-con roh-hore-con roh-hore-con'
+    'texto texto texto texto obrazok obrazok'
+    'texto texto texto texto obrazok obrazok'
+    'roh-dole-con roh-dole-con roh-dole-con roh-dole-con preklik preklik';
+    place-self: center;
+}
+
+.clanok2:hover{
+    transform: scale(1.1);
+}
+
+.nazov-container2{
+    background-color: var(--bg-secondary);
+    border-radius: 2vw 2vw 0 0;
+    display: grid;
+    grid-area: nazov;
+}
+
+.nazov2{
+    place-self: center;
+    font-size: 5vw;
+    padding: 1vw;
+}
+
+.roh-container-hore2{
+    background-color: var(--bg-secondary);
+    grid-area: roh-hore-con;
+    display: grid;
+    height: 2vw;
+}
+
+.roh-hore2{
+    background-color: var(--bg-primary);
+    border-radius: 0 0 0 2vw;
+    width: 100%;
+}
+
+.obrazok-container2{
+    background-color: var(--bg-secondary);
+    width: 100%;
+    border-radius: 0 2vw 0 0;
+    display: grid;
+    grid-area: obrazok;
+
+}
+
+.obrazok2{
+    width: 60%;
+    place-self: center;
+    margin: 2vw 0 2vw 0;
+}
+
+.text-container2{
+    background-color: var(--bg-secondary);
+    border-radius: 0 0 0 2vw;
+    display: grid;
+    grid-area: texto;
+}
+
+.text2{
+    font-size: 2vw;
+    place-self: center;
+    padding: 2vw;
+    transition: 0.5s;
+}
+
+.roh-container-dole2{
+    background-color: var(--bg-secondary);
+    grid-area: roh-dole-con;
+    display: grid;
+}
+
+.roh-dole2{
+    background-color: var(--bg-primary);
+    border-radius: 0 2vw 0 0;
+    width: 100%;
+}
+
+.preklik-container2{
+    background-color: var(--bg-secondary);
+    border-radius: 0 0 2vw 2vw;
+    display: grid;
+    grid-area: preklik;
+    padding: 12px;
+}
+
+.preklik2{
+    width: 20vw;
+    height: 5vw;
+    font-size: 2vw;
+    place-self: center;
+    color: var(--text-primary);
+    background-color: rgb(15, 15, 75);
+    border: 1px solid var(--bg-primary);
+    padding: 8px 16px 8px 16px;
+    border-radius: 2vw;
+    box-shadow: rgba(15, 15, 75, .5) 0 2px 5px 0;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+.preklik2:hover {
+    background-color: rgb(45, 45, 105);
+    font-size: 2.25vw;
+}
+
+
+
+
+/*Dolné menu*/
+
+.dolne-menu-container{
+    position: fixed;
+    height: 10vw;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    bottom: 0;
+    left: 0;
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    background-image: linear-gradient(rgba(240, 40, 40, 0), rgb(10, 10, 10));
+}
+
+.dolne-menu-item{
+    padding: 2vw;
+}
+
+.dolne-menu-text{
+    font-size: 2.2vw;
+    cursor: pointer;
+}
+
+.dolne-menu-slider {
+    position: absolute;
+    bottom: 0.75vw;
+    left: -10%;
+    background-color: var(--bg-secondary);
+    transition: 0.3s ease;
+    width: 10vw;
+    height: 0.5vw;
+    border-radius: 0.25vw;
+}
+  
+#cyprus:hover ~ .dolne-menu-slider {
+    left: 9%;
+}
+
+#hviezdy:hover ~ .dolne-menu-slider {
+    left: 19.5%;
+}
+
+#zavislost:hover ~ .dolne-menu-slider {
+    left: 31%;
+}
+
+#financie:hover ~ .dolne-menu-slider {
+    left: 43%;
+}
+
+#cheesecake:hover ~ .dolne-menu-slider {
+    left: 56.5%;
+}
+
+#komiks:hover ~ .dolne-menu-slider {
+    left: 69.5%;
+}
+
+#casopis:hover ~ .dolne-menu-slider {
+    left: 80.5%;
+}
+#filmy:hover ~ .dolne-menu-slider {
+    left: 80.5%;
+}
